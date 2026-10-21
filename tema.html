@@ -46,6 +46,7 @@ h2.part{font-family:var(--f-display);font-style:italic;font-weight:800;text-tran
 .fb{font-weight:700;font-size:16px;min-height:1.4em}
 .fb.ok{color:var(--ok)} .fb.bad{color:var(--bad)} .fb.info{color:var(--muted);font-weight:600}
 .vid{padding:7px 12px;font-size:14px}
+.acts{display:flex;flex-wrap:wrap;gap:8px}
 .vid.go{background:#E52D27;border-color:#E52D27;color:#fff}
 .empty{border:1.5px dashed var(--line);border-radius:14px;padding:28px 20px;text-align:center;color:var(--muted);display:grid;gap:12px;justify-items:center}
 .next{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;padding-top:22px}
@@ -66,6 +67,7 @@ h2.part{font-family:var(--f-display);font-style:italic;font-weight:800;text-tran
 <main class="gut"><div class="narrow">
   <div class="list" id="list"></div>
   <nav class="next" id="next"></nav>
+  <section class="comments" id="comentarios" aria-label="Comentarios"></section>
 </div></main>
 
 <footer id="pie"></footer>
@@ -123,11 +125,19 @@ function render(items){
       : `<span class="btn vid off">Solución en video · próximamente</span>`;
     return `<article class="q" id="p${esc(x.n)}"><div class="qh"><div class="num">${esc(x.n)}</div><div class="st">${body}</div></div>
       <div class="opts${long ? " long" : ""}">${opts}</div>
-      <div class="foot"><span class="fb" aria-live="polite"></span>${vid}</div></article>`;
+      <div class="foot"><span class="fb" aria-live="polite"></span><span class="acts">${vid}<button type="button" class="btn vid cm" data-n="${esc(x.n)}">Comentar</button></span></div></article>`;
   }).join("");
   if (window.renderMathInElement) renderMathInElement($("list"), { delimiters:[{left:"$", right:"$", display:false}], throwOnError:false });
 
   $("list").addEventListener("click", e => {
+    const cm = e.target.closest(".cm");
+    if (cm){
+      const h = $("cm-hint");
+      if (h){ h.innerHTML = `Escribe tu comentario sobre el <b>Problema ${cm.dataset.n}</b>. Empieza con: <b>«Problema ${cm.dataset.n}: …»</b>`; h.classList.add("flash"); }
+      window.cargarComentarios && window.cargarComentarios();
+      $("comentarios").scrollIntoView({ behavior: "smooth" });
+      return;
+    }
     const b = e.target.closest(".opt"); if (!b || b.disabled) return;
     const x = items[+b.dataset.q], i = +b.dataset.i, card = b.closest(".q"), fb = card.querySelector(".fb");
     if (x.ok < 0){ card.querySelectorAll(".opt").forEach(o => o.classList.remove("ok","bad")); b.classList.add("ok"); fb.className = "fb info"; fb.textContent = "La clave de este problema todavía no está publicada."; return; }
@@ -154,6 +164,7 @@ if (!tema){
   else { pdf.removeAttribute("href"); pdf.className = "btn off"; pdf.textContent = "PDF próximamente"; }
   const prev = materia.temas[idx-1], next = materia.temas[idx+1];
   $("next").innerHTML = (prev ? `<a class="btn" href="tema.html?t=${prev.id}">← ${prev.nombre}</a>` : "<span></span>") + (next ? `<a class="btn" href="tema.html?t=${next.id}">${next.nombre} →</a>` : "");
+  comentarios($("comentarios"), tema.id, tema.nombre + " · " + materia.nombre);
   fetch("problemas/" + tema.id + ".txt", { cache: "no-cache" })
     .then(r => r.ok ? r.text() : "")
     .then(t => { const go = () => render(parse(t)); (window.renderMathInElement || document.readyState === "complete") ? go() : window.addEventListener("load", go); })

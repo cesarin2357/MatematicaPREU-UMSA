@@ -118,6 +118,7 @@ a.tema .n{font-weight:600;min-width:0}
       <h2 class="sec" id="l-t">Mis libros</h2>
       <div class="books" id="books"></div>
     </section>
+    <section class="comments" id="comentarios" aria-label="Comentarios"></section>
   </div></main>
 </div>
 
@@ -197,6 +198,7 @@ window.addEventListener("hashchange", route);
 <script src="comun.js"></script>
 <script>
 $("books").innerHTML = booksHTML(); $("books2").innerHTML = booksHTML();
+comentarios($("comentarios"), "inicio", "Matemática Universitaria y Preuniversitaria");
 route();
 </script>
 </body>

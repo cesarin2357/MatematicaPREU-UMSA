@@ -72,3 +72,11 @@ footer.site .brand{color:var(--hero-fg)}
 .ad .price{font-weight:800;color:var(--orange)}
 .ad .x{position:absolute;top:4px;right:6px;border:0;background:none;color:var(--muted);font-size:24px;line-height:1;cursor:pointer;padding:4px 6px}
 .ad .btn{justify-self:start;padding:8px 12px;font-size:14px}
+
+/* Comentarios */
+.comments{display:grid;gap:12px;padding-top:40px;scroll-margin-top:16px}
+.cm-hint{margin:0;color:var(--muted);max-width:62ch}
+.cm-hint b{color:var(--fg)}
+.cm-hint.flash{color:var(--fg);background:var(--violet-soft);border-radius:10px;padding:10px 12px}
+.cm-off{border:1.5px dashed var(--line);border-radius:14px;padding:22px 18px;text-align:center;color:var(--muted)}
+#disqus_thread{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px 16px;min-height:80px}

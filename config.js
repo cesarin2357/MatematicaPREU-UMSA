@@ -103,6 +103,11 @@ Estudia, practica y prepárate para dar el siguiente paso hacia tu futuro profes
   /* Anuncio flotante de los libros (en segundos) */
   anuncio: { primero: 25, cada: 120, duracion: 14 },
 
+  /* COMENTARIOS (Disqus): escribe aquí el "shortname" de tu sitio en Disqus,
+     por ejemplo "matematicapreu-umsa". Mientras esté vacío, la sección de
+     comentarios muestra "próximamente". */
+  disqus: "",
+
   /* "Soy de…": examenes = carpeta de Drive con los PDF de exámenes pasados */
   facultades: [
     { id: "ingenieria",  nombre: "Facultad de Ingeniería", corto: "Ingeniería", examenes: "" },
