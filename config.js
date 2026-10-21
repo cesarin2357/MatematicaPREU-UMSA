@@ -29,22 +29,74 @@ window.CONFIG = {
     instagram: ""
   },
 
+  /* LIBROS
+     titulo    → nombre del libro
+     subtitulo → línea debajo del título ("" si no lleva)
+     texto     → frase corta (se ve siempre y también en el anuncio flotante)
+     detalle   → texto largo que se abre con "Ver más". Formato:
+                   ## Subtítulo
+                   - punto de una lista
+                   cualquier otra línea es un párrafo
+                 Escríbelo entre las comillas invertidas ` ` */
   libros: [
     {
       id: "algebra",
       titulo: "Álgebra: Teoría y Problemas",
+      subtitulo: "",
       edicion: "4.ª edición",
       precio: "Bs 60",
       imagen: "img/libro-algebra.jpg",
-      texto: "Teoría completa y problemas de los 20 capítulos del preuniversitario."
+      texto: "¡Domina el álgebra y prepárate para ingresar a la universidad!",
+      detalle: `
+## ¿A quién está dirigido?
+- Estudiantes preuniversitarios.
+- Bachilleres y postulantes a universidades.
+- Estudiantes de universidades públicas y privadas.
+- Aspirantes a institutos y centros de formación superior.
+
+## Ideal para preparar tu ingreso a:
+- Facultad de Ingeniería.
+- Facultad de Ciencias Económicas y Financieras.
+- Facultad de Medicina.
+- Facultad de Tecnología.
+- Facultad de Agronomía.
+- Facultad de Ciencias Puras.
+- Facultad de Bioquímica y Farmacia.
+- Colegio Militar.
+- Academia Nacional de Policías.
+- Institutos Tecnológicos.
+- Escuelas Superiores de Formación de Maestros.
+- Otras facultades y carreras que requieren conocimientos de álgebra y ciencias exactas.
+
+## ¡Construye hoy tu futuro profesional!
+Refuerza tus bases matemáticas, desarrolla tu razonamiento lógico y prepárate para afrontar con mayor confianza los desafíos de los exámenes de ingreso.
+Álgebra: Teoría y Problemas. Tu herramienta para aprender, practicar y avanzar hacia tus metas académicas.
+`
     },
     {
       id: "compendio",
-      titulo: "Compendio de Exámenes de Admisión · Fac. de Cs. Económicas y Financieras",
+      titulo: "Exámenes Pasados de Admisión – UMSA",
+      subtitulo: "Facultad de Ciencias Económicas y Financieras",
       edicion: "5.ª edición",
       precio: "Bs 40",
       imagen: "img/libro-compendio.jpg",
-      texto: "Más de 800 problemas de exámenes pasados resueltos, gestiones 2009–2025."
+      texto: "¡Prepárate para tu ingreso a la UMSA con exámenes reales de gestiones anteriores!",
+      detalle: `
+## Para las carreras de:
+- Administración de Empresas
+- Economía
+- Contaduría Pública
+
+## ¿Qué encontrarás en este compendio?
+- **Exámenes de admisión de gestiones pasadas:** recopilación de exámenes correspondientes al período 2009–2025.
+- **Más de 800 problemas resueltos:** organizados y separados por carrera para facilitar tu preparación.
+- **Formularios completos:** material de consulta con fórmulas de los diferentes temas evaluados.
+- **Preparación práctica:** una herramienta para reforzar tus conocimientos, familiarizarte con el tipo de preguntas y practicar para tu examen de ingreso.
+
+## Prepárate con material especializado
+Si tu objetivo es ingresar a la Facultad de Ciencias Económicas y Financieras de la Universidad Mayor de San Andrés (UMSA), este compendio puede convertirse en un valioso apoyo para tu preparación.
+Estudia, practica y prepárate para dar el siguiente paso hacia tu futuro profesional.
+`
     }
   ],
 

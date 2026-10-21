@@ -51,11 +51,22 @@ a.tema .c{flex:none;min-width:74px;font-size:13px;font-weight:700;color:var(--vi
 a.tema .n{font-weight:600;min-width:0}
 
 .books{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
-.book{display:flex;gap:18px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:18px;align-items:flex-start}
+.book{display:flex;gap:18px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:18px;align-items:flex-start;align-self:start}
 .book img{width:120px;border-radius:4px;box-shadow:0 6px 18px rgba(20,8,40,.3);flex:none}
 .book .b{display:grid;gap:8px;min-width:0}
 .book .t{font-family:var(--f-display);font-style:italic;font-weight:800;text-transform:uppercase;font-size:24px;line-height:1.02}
 .book p{margin:0;color:var(--muted);font-size:15px}
+.book .sub{font-weight:700;color:var(--violet);font-size:15px;line-height:1.3}
+.book .lead1{color:var(--fg);font-weight:600;font-size:16px}
+.more summary{cursor:pointer;font-weight:700;color:var(--violet);font-size:15px;list-style:none;display:inline-flex;gap:6px;align-items:center}
+.more summary::-webkit-details-marker{display:none}
+.more summary::after{content:"▾";transition:transform .2s}
+.more[open] summary::after{transform:rotate(180deg)}
+.more[open] summary{margin-bottom:6px}
+.det{display:grid;gap:8px;font-size:15px;color:var(--muted);border-left:3px solid var(--violet-soft);padding-left:12px}
+.det h4{margin:6px 0 0;font-size:15px;color:var(--fg)}
+.det ul{margin:0;padding-left:18px;display:grid;gap:3px}
+.det strong{color:var(--fg)}
 .book .price{font-family:var(--f-display);font-style:italic;font-weight:800;font-size:30px;color:var(--orange);line-height:1}
 @media (max-width:420px){.book{flex-direction:column}.book img{width:150px}}
 
@@ -133,9 +144,28 @@ function materiaHTML(m){
   const temas = m.temas.map(t => `<a class="tema" href="tema.html?t=${t.id}">${t.cap?`<span class="c">${t.cap}</span>`:""}<span class="n">${t.nombre}</span></a>`).join("");
   return `<article class="materia"><div class="mhead"><h3>${m.nombre}</h3>${chips?`<div class="for">${chips}</div>`:""}</div><div class="temas">${temas}</div></article>`;
 }
+/* Convierte el "detalle" del libro (## subtítulos, - listas, párrafos, **negrita**) en HTML */
+function detalleHTML(t){
+  if (!t) return "";
+  const inl = x => x.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>");
+  let h = "", inList = false;
+  for (const raw of t.trim().split("\n")){
+    const l = raw.trim();
+    const li = l.match(/^[-*•]\s+(.*)$/);
+    if (li){ if (!inList){ h += "<ul>"; inList = true; } h += `<li>${inl(li[1])}</li>`; continue; }
+    if (inList){ h += "</ul>"; inList = false; }
+    if (!l) continue;
+    const hd = l.match(/^##\s*(.*)$/);
+    h += hd ? `<h4>${inl(hd[1])}</h4>` : `<p>${inl(l)}</p>`;
+  }
+  if (inList) h += "</ul>";
+  return `<details class="more"><summary>Ver más</summary><div class="det">${h}</div></details>`;
+}
 function booksHTML(){
   return C.libros.map(b => `<article class="book"><img src="${b.imagen}" alt="Portada: ${b.titulo}" loading="lazy">
-    <div class="b"><span class="eyebrow">${b.edicion}</span><span class="t">${b.titulo}</span><p>${b.texto}</p>
+    <div class="b"><span class="eyebrow">${b.edicion}</span><span class="t">${b.titulo}</span>${b.subtitulo?`<span class="sub">${b.subtitulo}</span>`:""}
+    <p class="lead1">${b.texto}</p>
+    ${detalleHTML(b.detalle)}
     <span class="price">${b.precio}</span>
     <a class="btn wa" href="${waLink("Hola, quiero comprar el libro " + b.titulo + " (" + b.precio + ").")}" target="_blank" rel="noopener">${ICON.whatsapp}Comprar por WhatsApp</a></div></article>`).join("");
 }
