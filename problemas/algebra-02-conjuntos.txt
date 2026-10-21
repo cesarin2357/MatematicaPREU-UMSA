@@ -1,0 +1,241 @@
+// ================================================================
+// CAP. II · TEORÍA DE CONJUNTOS
+// (mismo formato que los demás temas; el * marca la respuesta correcta)
+// ================================================================
+
+## 1
+Dado el conjunto $A = \{4;\ 3;\ \{6\};\ 8\}$ y las proposiciones:
+$\{3\} \in A \qquad \{4\} \subset A \qquad \{6\} \in A \qquad \{6\} \subset A$
+$8 \in A \qquad \varnothing \subset A \qquad \varnothing \in A \qquad \{3;\ 8\} \subset A$
+Indique el número de proposiciones verdaderas.
+A) 7
+B) 6
+C) 5 *
+D) 4
+E) 3
+video:
+
+## 2
+Dados los conjuntos iguales $A = \{a^2 + 3;\ b + 1\}$ y $B = \{13;\ 19\}$, considere $a$ y $b$ enteros. Indique la suma de los valores que toma $a + b$.
+A) 16
+B) 24 *
+C) 30
+D) 12
+E) 27
+video:
+
+## 3
+Indique la suma de los elementos del conjunto $\{x^2 + 2 \,/\, x \in \mathbb{Z} \wedge -4 < x < 4\}$
+A) 44
+B) 42
+C) 22 *
+D) 18
+E) 16
+video:
+
+## 4
+¿Cuántos subconjuntos propios tiene el conjunto $C = \{2;\ 3;\ \{2\};\ 3;\ 2;\ \{2\};\ \{3\}\}$?
+A) 127
+B) 63
+C) 15 *
+D) 7
+E) 31
+video:
+
+## 5
+Si $n(A) = 15$, $n(B) = 32$ y $n(A - B) = 8$, calcule $n(A \,\triangle\, B) + n(A' - B')$.
+A) 36
+B) 37
+C) 51
+D) 58 *
+E) 59
+video:
+
+## 6
+¿Cuántos subconjuntos tiene la potencia del conjunto $A$, tal que $A = \{2;\ \{3\};\ 2\}$?
+A) 4
+B) 16 *
+C) $2^{16}$
+D) 8
+E) 64
+video:
+
+## 7
+De un grupo de 30 personas, 20 van al teatro, 5 sólo van al cine, 18 van al cine o al teatro pero no a ambos sitios. ¿Cuántos van a ambos sitios?
+A) 6
+B) 7 *
+C) 8
+D) 5
+E) 4
+video:
+
+## 8
+Sabiendo que $A$ tiene 128 subconjuntos en total, que el número de elementos de la intersección de $A$ y $B$ es 5 y que $B - A$ tiene 16 subconjuntos, determinar el número de subconjuntos de $A \cup B$.
+A) 1024
+B) 512
+C) 256
+D) 2048 *
+E) 4096
+video:
+
+## 9
+De un grupo de 62 atletas, 25 lanzan bala, 36 lanzan jabalina y 30 lanzan disco; 3 lanzan los tres; 10 lanzan jabalina y disco, 15 disco y bala, 7 lanzan bala y jabalina. ¿Cuántos no lanzan jabalina ni disco?
+A) 4
+B) 6 *
+C) 7
+D) 5
+E) 3
+video:
+
+## 10
+Si los conjuntos $A$ y $B$ son iguales, hallar $a \times b$ si $a$ y $b$ son naturales.
+$A = \{a^2 + 2a;\ b^3 - b\}$
+$B = \{2a;\ 15\}$
+A) 8
+B) 15
+C) 9
+D) 12
+E) 6 *
+video:
+
+## 11
+Si $A = \{a;\ b;\ c;\ b\}$ y $B = \{(m^2 + 1);\ -1;\ 5;\ (n - 3);\ 2\}$, donde $n, m \in \mathbb{Z}^+$ y $3 < n < 8$. Además $A$ y $B$ son equipotentes. Hallar la suma de valores de $n + m$.
+A) 6
+B) 13 *
+C) 10
+D) 14
+E) 23
+video:
+
+## 12
+Jéssica tomó helados de fresa o coco durante todas las mañanas en los meses de verano (enero, febrero y marzo) del 2004. Si tomó helados de fresa 53 mañanas y helados de coco durante 49 mañanas, ¿cuántas mañanas tomó helado de los dos sabores?
+A) 9
+B) 10
+C) 11 *
+D) 12
+E) 15
+video:
+
+## 13
+En una ciudad se determinó que el 46% de la población no lee la revista A, 60% no lee la revista B y el 58% lee A o B pero no ambas. ¿Cuántas personas hay en la población si 63 000 personas leen A y B?
+A) 420 000
+B) 840 000
+C) 350 000 *
+D) 700 000
+E) 630 000
+video:
+
+## 14
+En una encuesta realizada a 190 personas sobre la preferencia de leer las revistas A y B, el resultado fue el siguiente: el número de personas que les gusta A y B es $\tfrac{1}{4}$ de los hombres que sólo les gusta A y la mitad de las mujeres que sólo les gusta A. El número de hombres que sólo les gusta B es $\tfrac{2}{3}$ del número de mujeres que sólo les gusta B. Los que leen A son 105 y los que leen B son 70. Halle el número de personas que no leen ni A ni B.
+A) 30 *
+B) 32
+C) 36
+D) 38
+E) 40
+video:
+
+## 15
+En una peña criolla trabajan 32 artistas. De estos, 16 bailan, 25 cantan y 12 cantan y bailan. El número de artistas que no cantan ni bailan es:
+A) 4
+B) 5
+C) 2
+D) 1
+E) 3 *
+video:
+
+## 16
+Si:
+$A = \{1;\ 2;\ \{1;\ 2\};\ 3\}$
+$B = \{\{2;\ 1\};\ \{1;\ 3\};\ 3\}$
+Halle usted $[(A - B) \cap B] \cup (B - A)$.
+A) $\{1;\ 3\}$
+B) $\{\{1;\ 2\}\}$
+C) $A$
+D) $\{\{1;\ 3\}\}$ *
+E) $B$
+video:
+
+## 17
+Dado el conjunto $A = \{1;\ \{2\};\ \{1;\ 2\}\}$, ¿cuál de las siguientes proposiciones es verdadera?
+A) $2 \notin A$ *
+B) $\{1\} \in A$
+C) $1 \subset A$
+D) $\varnothing \in A$
+E) $\{2\} \notin A$
+video:
+
+## 18
+Si $A = \{x \,/\, x = (4m - 1)^2,\ m \in \mathbb{N},\ 2 \le m \le 5\}$, entonces el conjunto $A$ escrito por extensión es:
+A) $\{7;\ 11;\ 15;\ 19\}$
+B) $\{2;\ 3;\ 4;\ 5\}$
+C) $\{4;\ 9;\ 16;\ 25\}$
+D) $\{49;\ 121;\ 225;\ 361\}$ *
+E) $\{3;\ 4;\ 7;\ 9\}$
+video:
+
+## 19
+Si $A$, $B$ y $C$ son tres subconjuntos de un conjunto universal de 98 elementos y además $n[(A \cup B) \cap C'] = 50$ y $n(C) = 34$, hallar $n[(A \cup B \cup C)']$.
+A) 13
+B) 14 *
+C) 15
+D) 16
+E) 17
+video:
+
+## 20
+El resultado de una encuesta sobre preferencia de jugos de fruta de manzana, fresa y piña es el siguiente: 60% gustan manzana, 50% gustan fresa, 40% gustan piña, 30% gustan manzana y fresa, 20% gustan fresa y piña, 10% gustan manzana y piña y 5% gustan de los tres. ¿Qué porcentaje de las personas encuestadas no gustan de alguno de los jugos de frutas mencionados?
+A) 5% *
+B) 20%
+C) 50%
+D) 12%
+E) 10%
+video:
+
+## 21
+Dados los conjuntos:
+$A = \{n^2 \,/\, n \in \mathbb{N} \wedge 0 < n < 20\}$
+$B = \{2n \,/\, n \in \mathbb{Z} \wedge 4 < n^2 < 500\}$
+¿Cuántos elementos tiene $A \times B$?
+A) 380
+B) 400
+C) 342
+D) 800
+E) 760 *
+video:
+
+## 22
+Carlos debe almorzar pollo o pescado (o ambos) en su almuerzo de cada día del mes de marzo. Si en su almuerzo durante 20 días hubo pollo y durante 25 días hubo pescado, entonces el número de días que almorzó pollo y pescado es:
+A) 18
+B) 16
+C) 15
+D) 14 *
+E) 13
+video:
+
+## 23
+En la figura, la parte sombreada está representada por:
+imagen: img/figuras/venn-conjuntos-26.svg
+A) $(A \cap B \cap C) \cup [C \cap (A \cap B)]$
+B) $(A \cap B \cap C) \cap [(A \cup B) \cap \overline{(A \cap B)}]$
+C) $\{[(A \cup B \cup C) - A] - C\} - B$
+D) $[(A \cap B) - C] \cup [(B \cap C) - A] \cup [(A \cap C) - B]$ *
+E) $(A \cup B \cup C) - (A \cap B \cap C)$
+video:
+
+## 24
+¿Cuántos elementos tiene el siguiente conjunto? $\{5;\ 7;\ 9;\ 11;\ \ldots;\ 83\}$
+A) 35
+B) 40 *
+C) 41
+D) 60
+E) 45
+video:
+
+## 25
+Sea $A$ un conjunto con dos elementos y $B$ un conjunto con tres elementos. El número de elementos de $P(A) \times P(B)$ es:
+A) 12
+B) 24
+C) 48
+D) 64
+E) 32 *
+video:

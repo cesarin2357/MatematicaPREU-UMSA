@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Problemas · Matemática Universitaria y Preuniversitaria</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,700;1,800&family=Source+Sans+3:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css">
+<link rel="stylesheet" href="estilos.css">
+<style>
+.head{background:var(--hero);color:var(--hero-fg)}
+.head .narrow{padding-block:24px 28px;display:grid;gap:10px}
+.crumbs{font-size:14px;color:var(--hero-muted);display:flex;flex-wrap:wrap;gap:6px}
+.crumbs a{color:var(--hero-fg);text-decoration:none;font-weight:600}
+.head h1{margin:0;font-size:clamp(38px,7vw,64px);text-wrap:balance}
+.head .cap{color:var(--orange)}
+.head .meta{display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px}
+.head .meta .n{color:var(--hero-muted);font-size:15px;font-variant-numeric:tabular-nums}
+.head .btn.off{color:var(--hero-fg);background:transparent;border-color:rgba(255,255,255,.35)}
+
+.list{display:grid;gap:14px;padding-top:24px}
+h2.part{font-family:var(--f-display);font-style:italic;font-weight:800;text-transform:uppercase;font-size:26px;margin:14px 0 0}
+.q{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px;display:grid;gap:12px;scroll-margin-top:16px}
+.qh{display:flex;gap:12px;align-items:flex-start}
+.num{flex:none;font-family:var(--f-display);font-style:italic;font-weight:800;font-size:20px;color:var(--violet-ink);background:var(--violet);
+  border-radius:8px;min-width:44px;height:36px;display:grid;place-items:center;font-variant-numeric:tabular-nums;padding:0 6px}
+.st{min-width:0;display:grid;gap:6px;padding-top:4px}
+.st p{margin:0;overflow-x:auto;overflow-y:hidden}
+.st figure{margin:4px 0;background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px;max-width:340px}
+.st figure img{width:100%;height:auto}
+.opts{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
+.opts.long{grid-template-columns:1fr}
+.opt{display:flex;gap:8px;align-items:baseline;text-align:left;font:inherit;color:var(--fg);background:var(--bg);border:1.5px solid var(--line);
+  border-radius:10px;padding:9px 12px;cursor:pointer;min-width:0}
+.opt:hover:not(:disabled){border-color:var(--violet)}
+.opt b{font-family:var(--f-display);font-style:italic;font-weight:800;font-size:18px;color:var(--violet);flex:none}
+.opt span{min-width:0;overflow-x:auto;overflow-y:hidden}
+.opt.ok{background:var(--ok-soft);border-color:var(--ok)}
+.opt.ok b{color:var(--ok)}
+.opt.bad{background:var(--bad-soft);border-color:var(--bad)}
+.opt.bad b{color:var(--bad)}
+.opt:disabled{cursor:default}
+.opt:disabled:not(.ok):not(.bad){opacity:.6}
+.foot{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.fb{font-weight:700;font-size:16px;min-height:1.4em}
+.fb.ok{color:var(--ok)} .fb.bad{color:var(--bad)} .fb.info{color:var(--muted);font-weight:600}
+.vid{padding:7px 12px;font-size:14px}
+.vid.go{background:#E52D27;border-color:#E52D27;color:#fff}
+.empty{border:1.5px dashed var(--line);border-radius:14px;padding:28px 20px;text-align:center;color:var(--muted);display:grid;gap:12px;justify-items:center}
+.next{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;padding-top:22px}
+</style>
+</head>
+<body>
+<header class="topbar gut"><div class="wrap">
+  <a class="brand" href="./">Matemática <span>U</span> y <span>Pre</span></a>
+  <nav class="socials" data-socials aria-label="Redes sociales"></nav>
+</div></header>
+
+<section class="head gut"><div class="narrow">
+  <nav class="crumbs" aria-label="Ruta"><a href="./#temas">Inicio</a><span>/</span><span id="mat"></span></nav>
+  <h1 class="display"><span class="cap" id="cap"></span> <span id="tit">Cargando…</span></h1>
+  <div class="meta"><a class="btn orange" id="pdf" target="_blank" rel="noopener"></a><span class="n" id="cnt"></span></div>
+</div></section>
+
+<main class="gut"><div class="narrow">
+  <div class="list" id="list"></div>
+  <nav class="next" id="next"></nav>
+</div></main>
+
+<footer id="pie"></footer>
+
+<script src="config.js"></script>
+<script src="comun.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js"></script>
+<script>
+const C = window.CONFIG, $ = id => document.getElementById(id);
+const id = new URLSearchParams(location.search).get("t") || "";
+let materia = null, tema = null, idx = -1;
+for (const m of C.materias){ const i = m.temas.findIndex(t => t.id === id); if (i >= 0){ materia = m; tema = m.temas[i]; idx = i; break; } }
+
+const esc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+/* Escapa el HTML pero deja intactas las fórmulas $...$ para KaTeX */
+const txt = s => s.split(/(\$[^$]*\$)/).map((p,i) => i % 2 ? p.replace(/</g,"\\lt ").replace(/>/g,"\\gt ") : esc(p)).join("");
+
+/* ---------- Lector del archivo .txt ---------- */
+function parse(src){
+  const out = []; let q = null;
+  for (let raw of src.replace(/\r/g,"").split("\n")){
+    const line = raw.trim();
+    if (line.startsWith("//")) continue;
+    let m;
+    if ((m = line.match(/^##\s*(.*)$/))){ q = { n: m[1] || String(out.filter(x=>x.type==="q").length+1), type:"q", body:[], opts:[], ok:-1, video:"" }; out.push(q); continue; }
+    if ((m = line.match(/^#\s+(.+)$/))){ out.push({ type:"part", title:m[1] }); q = null; continue; }
+    if (!q) continue;
+    if ((m = line.match(/^([A-E])\)\s*(.*)$/))){
+      let t = m[2]; const star = /\s\*$/.test(t) || t === "*";
+      if (star){ t = t.replace(/\s*\*$/,""); q.ok = q.opts.length; }
+      q.opts.push(t); continue;
+    }
+    if ((m = line.match(/^video:\s*(.*)$/i))){ q.video = m[1].trim(); continue; }
+    if ((m = line.match(/^imagen:\s*(.+)$/i))){ q.body.push({ img:m[1].trim() }); continue; }
+    if (line) q.body.push({ text: line });
+  }
+  return out;
+}
+
+function render(items){
+  const qs = items.filter(x => x.type === "q");
+  $("cnt").textContent = qs.length ? `${qs.length} ${qs.length === 1 ? "problema" : "problemas"}` : "";
+  if (!qs.length){
+    $("list").innerHTML = `<div class="empty"><strong>Pronto habrá problemas de este tema.</strong><span>Mientras tanto, puedes descargar la práctica en PDF o elegir otro tema.</span><a class="btn violet" href="./#temas">Ver todos los temas</a></div>`;
+    return;
+  }
+  $("list").innerHTML = items.map((x, k) => {
+    if (x.type === "part") return `<h2 class="part">${txt(x.title)}</h2>`;
+    const body = x.body.map(b => b.img ? `<figure><img src="${esc(b.img)}" alt="Figura del problema ${esc(x.n)}" loading="lazy"></figure>` : `<p>${txt(b.text)}</p>`).join("");
+    const long = x.opts.some(o => o.replace(/\s/g,"").length > 16);
+    const opts = x.opts.map((o,i) => `<button type="button" class="opt" data-q="${k}" data-i="${i}"><b>${"ABCDE"[i]})</b><span>${txt(o)}</span></button>`).join("");
+    const vid = x.video
+      ? `<a class="btn vid go" href="${esc(x.video)}" target="_blank" rel="noopener">${ICON.play}Ver solución</a>`
+      : `<span class="btn vid off">Solución en video · próximamente</span>`;
+    return `<article class="q" id="p${esc(x.n)}"><div class="qh"><div class="num">${esc(x.n)}</div><div class="st">${body}</div></div>
+      <div class="opts${long ? " long" : ""}">${opts}</div>
+      <div class="foot"><span class="fb" aria-live="polite"></span>${vid}</div></article>`;
+  }).join("");
+  if (window.renderMathInElement) renderMathInElement($("list"), { delimiters:[{left:"$", right:"$", display:false}], throwOnError:false });
+
+  $("list").addEventListener("click", e => {
+    const b = e.target.closest(".opt"); if (!b || b.disabled) return;
+    const x = items[+b.dataset.q], i = +b.dataset.i, card = b.closest(".q"), fb = card.querySelector(".fb");
+    if (x.ok < 0){ card.querySelectorAll(".opt").forEach(o => o.classList.remove("ok","bad")); b.classList.add("ok"); fb.className = "fb info"; fb.textContent = "La clave de este problema todavía no está publicada."; return; }
+    if (i === x.ok){
+      b.classList.add("ok"); fb.className = "fb ok"; fb.textContent = "✓ ¡Correcto!";
+      card.querySelectorAll(".opt").forEach(o => o.disabled = true);
+    } else {
+      b.classList.add("bad"); b.disabled = true; fb.className = "fb bad"; fb.textContent = "✗ Incorrecto, intenta de nuevo.";
+    }
+  });
+}
+
+/* ---------- Cabecera ---------- */
+if (!tema){
+  $("tit").textContent = "Tema no encontrado"; $("pdf").hidden = true;
+  $("list").innerHTML = `<div class="empty"><strong>No encontramos este tema.</strong><a class="btn violet" href="./#temas">Ver todos los temas</a></div>`;
+} else {
+  $("mat").textContent = materia.nombre;
+  $("cap").textContent = tema.cap && materia.temas.length > 1 ? tema.cap + " ·" : "";
+  $("tit").textContent = tema.nombre;
+  document.title = tema.nombre + " · " + materia.nombre;
+  const pdf = $("pdf");
+  if (tema.pdf){ pdf.href = tema.pdf; pdf.innerHTML = ICON.drive + "Descargar PDF"; }
+  else { pdf.removeAttribute("href"); pdf.className = "btn off"; pdf.textContent = "PDF próximamente"; }
+  const prev = materia.temas[idx-1], next = materia.temas[idx+1];
+  $("next").innerHTML = (prev ? `<a class="btn" href="tema.html?t=${prev.id}">← ${prev.nombre}</a>` : "<span></span>") + (next ? `<a class="btn" href="tema.html?t=${next.id}">${next.nombre} →</a>` : "");
+  fetch("problemas/" + tema.id + ".txt", { cache: "no-cache" })
+    .then(r => r.ok ? r.text() : "")
+    .then(t => { const go = () => render(parse(t)); (window.renderMathInElement || document.readyState === "complete") ? go() : window.addEventListener("load", go); })
+    .catch(() => render([]));
+}
+</script>
+</body>
+</html>

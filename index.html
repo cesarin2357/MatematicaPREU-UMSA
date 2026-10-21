@@ -3,53 +3,171 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Prácticas · MSc. Lic. César Campos Chambi</title>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bitter:wght@700;800&family=Source+Sans+3:wght@400;600;700&display=swap">
+<title>Matemática Universitaria y Preuniversitaria</title>
+<meta name="description" content="Problemas de Álgebra, Razonamiento Matemático y Cálculo I con corrección al instante. Dirigido por MSc. Lic. César Campos Chambi.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,700;1,800&family=Source+Sans+3:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="estilos.css">
 <style>
-:root{
-  --bg:#F5F6F8; --surface:#FFFFFF; --fg:#1C2230; --muted:#5B6474; --line:#DFE2E8; --accent:#C9650F; --soft:#FCEBD9;
-  --f-display:"Bitter", Georgia, serif; --f-body:"Source Sans 3", "Segoe UI", system-ui, sans-serif;
+.hero{background:var(--hero);color:var(--hero-fg);overflow:hidden}
+.hero .wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(220px,320px);gap:32px;align-items:end;padding-top:36px}
+.hero .txt{display:grid;gap:16px;padding-bottom:40px;min-width:0}
+.hero .eyebrow{color:var(--orange)}
+.hero h1{margin:0;font-size:clamp(40px,6.6vw,84px);text-wrap:balance;overflow-wrap:anywhere}
+.hero h1 em{font-style:inherit;color:#B98AF5}
+.hero .by{margin:0;font-size:18px;color:var(--hero-muted)}
+.hero .by b{color:var(--hero-fg);font-weight:700}
+.hero .ctas{display:flex;flex-wrap:wrap;gap:10px;margin-top:4px}
+.hero .ctas .btn{font-size:16px;padding:12px 18px}
+.hero .ctas .btn.ghost{background:transparent;color:var(--hero-fg);border-color:rgba(255,255,255,.3)}
+.photo{position:relative;align-self:end;justify-self:center;width:100%;max-width:300px}
+.photo::before{content:"";position:absolute;inset:18% -6% 0 8%;background:var(--orange);border-radius:18px 18px 0 0;transform:skewX(-6deg)}
+.photo img{position:relative;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:50% 12%;border-radius:16px 16px 0 0;-webkit-mask-image:linear-gradient(#000 85%,transparent);mask-image:linear-gradient(#000 85%,transparent)}
+@media (max-width:700px){
+  .hero .wrap{grid-template-columns:minmax(0,1fr);gap:0;padding-top:28px}
+  .hero h1{font-size:clamp(34px,10.5vw,56px)}
+  .hero .by{font-size:16px}
+  .hero .txt{padding-bottom:24px}
+  .photo{max-width:200px;justify-self:end;margin-top:-8px}
 }
-@media (prefers-color-scheme: dark){:root{
-  --bg:#12151B; --surface:#1A1F28; --fg:#E7E9EE; --muted:#9BA3B1; --line:#2C323E; --accent:#F0974A; --soft:#3A2817; color-scheme:dark}}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:17px;line-height:1.55;
-  padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
-.wrap{max-width:760px;margin:0 auto;padding-block:40px 48px;display:grid;gap:28px}
-header{display:grid;gap:6px}
-.eyebrow{font-size:13px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent)}
-h1{font-family:var(--f-display);font-weight:800;font-size:clamp(28px,6vw,40px);line-height:1.12;margin:0;text-wrap:balance}
-header p{margin:0;color:var(--muted)}
-h2{font-family:var(--f-display);font-size:20px;margin:0}
-.list{display:grid;gap:12px}
-a.card{display:grid;gap:4px;text-decoration:none;color:var(--fg);background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px 18px}
-a.card:hover{border-color:var(--accent)}
-a.card:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
-.card .t{font-family:var(--f-display);font-weight:700;font-size:19px}
-.card .d{color:var(--muted);font-size:15px}
-.card .tag{justify-self:start;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);background:var(--soft);border-radius:999px;padding:2px 10px}
-footer{border-top:1px solid var(--line);padding-top:18px;color:var(--muted);font-size:14px}
+
+main section.block{padding-top:48px;display:grid;gap:18px}
+.lead{margin:0;color:var(--muted);max-width:60ch}
+.facs{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+a.fac{display:grid;gap:4px;text-decoration:none;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px 16px 18px;position:relative}
+a.fac:hover{border-color:var(--violet)}
+a.fac .k{font-family:var(--f-display);font-style:italic;font-weight:800;text-transform:uppercase;font-size:26px;line-height:1;color:var(--violet)}
+a.fac .n{font-size:15px;color:var(--muted);line-height:1.3}
+a.fac .go{position:absolute;right:16px;top:16px;color:var(--muted)}
+
+.materia{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:20px;display:grid;gap:14px}
+.mhead{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px 14px}
+.mhead h3{margin:0;font-family:var(--f-display);font-style:italic;font-weight:800;text-transform:uppercase;font-size:32px;line-height:1}
+.mhead .for{display:flex;flex-wrap:wrap;gap:6px}
+.temas{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:8px}
+a.tema{display:flex;gap:12px;align-items:baseline;text-decoration:none;padding:10px 12px;border-radius:10px;border:1px solid transparent;background:var(--bg)}
+a.tema:hover{border-color:var(--violet)}
+a.tema .c{flex:none;min-width:74px;font-size:13px;font-weight:700;color:var(--violet);text-transform:uppercase;letter-spacing:.04em;font-variant-numeric:tabular-nums}
+a.tema .n{font-weight:600;min-width:0}
+
+.books{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
+.book{display:flex;gap:18px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:18px;align-items:flex-start}
+.book img{width:120px;border-radius:4px;box-shadow:0 6px 18px rgba(20,8,40,.3);flex:none}
+.book .b{display:grid;gap:8px;min-width:0}
+.book .t{font-family:var(--f-display);font-style:italic;font-weight:800;text-transform:uppercase;font-size:24px;line-height:1.02}
+.book p{margin:0;color:var(--muted);font-size:15px}
+.book .price{font-family:var(--f-display);font-style:italic;font-weight:800;font-size:30px;color:var(--orange);line-height:1}
+@media (max-width:420px){.book{flex-direction:column}.book img{width:150px}}
+
+/* Vista de facultad */
+.facview{padding-top:28px;display:grid;gap:22px}
+.back{justify-self:start;font-weight:700;color:var(--violet);text-decoration:none}
+.fachead{display:grid;gap:6px}
+.fachead h1{margin:0;font-size:clamp(34px,6vw,56px)}
+.fachead p{margin:0;color:var(--muted);font-size:18px}
+.exam{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;background:var(--violet-soft);border-radius:16px;padding:18px 20px}
+.exam .t{font-family:var(--f-display);font-style:italic;font-weight:800;text-transform:uppercase;font-size:24px;line-height:1.05}
+.exam p{margin:2px 0 0;color:var(--muted);font-size:15px}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header>
-    <div class="eyebrow">Ciencias Económicas y Financieras · SUMO</div>
-    <h1>Prácticas dirigidas</h1>
-    <p>MSc. Lic. César Campos Chambi</p>
-  </header>
+<header class="topbar gut"><div class="wrap">
+  <a class="brand" href="./">Matemática <span>U</span> y <span>Pre</span></a>
+  <nav class="socials" data-socials aria-label="Redes sociales"></nav>
+</div></header>
 
-  <section class="list" aria-label="Prácticas disponibles">
-    <h2>Álgebra</h2>
-    <!-- Para agregar una práctica nueva, copia este bloque <a> y cambia el archivo, el título y la descripción -->
-    <a class="card" href="logica-y-conjuntos.html">
-      <span class="tag">Lógica y conjuntos</span>
-      <span class="t">Lógica y Teoría de Conjuntos</span>
-      <span class="d">Lógica proposicional (11–34) y segunda práctica dirigida de teoría de conjuntos (01–28).</span>
-    </a>
-  </section>
+<div id="home">
+  <section class="hero gut"><div class="wrap">
+    <div class="txt">
+      <span class="eyebrow">Preuniversitario · UMSA · ESFM</span>
+      <h1 class="display">Matemática <em>Universitaria</em> y Preuniversitaria</h1>
+      <p class="by">Dirigido por <b>MSc. Lic. César Campos Chambi</b></p>
+      <div class="ctas">
+        <a class="btn orange" href="#facultades">Soy de… elegir facultad</a>
+        <a class="btn ghost" href="#temas">Quiero estudiar… elegir tema</a>
+      </div>
+    </div>
+    <div class="photo"><img src="img/autor.jpg" alt="MSc. Lic. César Campos Chambi" width="640" height="985"></div>
+  </div></section>
 
-  <footer>SUMO · Sucursal La Paz: Av. Illimani N° 1676 · Sucursal El Alto: Av. Sucre, calle José Arzabe N° 78</footer>
+  <main class="gut"><div class="wrap">
+    <section class="block" id="facultades" aria-labelledby="f-t">
+      <h2 class="sec" id="f-t">Soy de…</h2>
+      <p class="lead">Elige tu facultad para ver las materias que te tocan y descargar los exámenes pasados.</p>
+      <div class="facs" id="facs"></div>
+    </section>
+
+    <section class="block" id="temas" aria-labelledby="t-t">
+      <h2 class="sec" id="t-t">Quiero estudiar…</h2>
+      <p class="lead">Elige un tema, resuelve los problemas y comprueba tu respuesta al momento.</p>
+      <div id="materias" style="display:grid;gap:16px"></div>
+    </section>
+
+    <section class="block" id="libros" aria-labelledby="l-t">
+      <h2 class="sec" id="l-t">Mis libros</h2>
+      <div class="books" id="books"></div>
+    </section>
+  </div></main>
 </div>
+
+<main id="fac" class="gut" hidden><div class="wrap facview">
+  <a class="back" href="#facultades">← Todas las facultades</a>
+  <div class="fachead"><span class="eyebrow">Soy de…</span><h1 class="display" id="fac-n"></h1><p id="fac-s"></p></div>
+  <div class="exam">
+    <div><div class="t">Exámenes pasados</div><p>Descarga los exámenes de admisión en PDF.</p></div>
+    <a class="btn violet" id="fac-ex" target="_blank" rel="noopener"></a>
+  </div>
+  <div id="fac-m" style="display:grid;gap:16px"></div>
+  <section style="display:grid;gap:14px;padding-top:12px"><h2 class="sec">Mis libros</h2><div class="books" id="books2"></div></section>
+</div></main>
+
+<footer id="pie"></footer>
+
+<script src="config.js"></script>
+<script>
+const C = window.CONFIG, $ = id => document.getElementById(id);
+const facById = Object.fromEntries(C.facultades.map(f => [f.id, f]));
+
+function materiaHTML(m){
+  const chips = m.para.map(id => `<span class="chip">${facById[id].corto}</span>`).join("");
+  const temas = m.temas.map(t => `<a class="tema" href="tema.html?t=${t.id}">${t.cap?`<span class="c">${t.cap}</span>`:""}<span class="n">${t.nombre}</span></a>`).join("");
+  return `<article class="materia"><div class="mhead"><h3>${m.nombre}</h3>${chips?`<div class="for">${chips}</div>`:""}</div><div class="temas">${temas}</div></article>`;
+}
+function booksHTML(){
+  return C.libros.map(b => `<article class="book"><img src="${b.imagen}" alt="Portada: ${b.titulo}" loading="lazy">
+    <div class="b"><span class="eyebrow">${b.edicion}</span><span class="t">${b.titulo}</span><p>${b.texto}</p>
+    <span class="price">${b.precio}</span>
+    <a class="btn wa" href="${waLink("Hola, quiero comprar el libro " + b.titulo + " (" + b.precio + ").")}" target="_blank" rel="noopener">${ICON.whatsapp}Comprar por WhatsApp</a></div></article>`).join("");
+}
+
+$("facs").innerHTML = C.facultades.map(f => `<a class="fac" href="#fac-${f.id}"><span class="k">${f.corto}</span><span class="n">${f.nombre}${f.sub?" · "+f.sub:""}</span><span class="go" aria-hidden="true">→</span></a>`).join("");
+$("materias").innerHTML = C.materias.map(materiaHTML).join("");
+
+function route(){
+  const h = location.hash.slice(1);
+  const f = h.startsWith("fac-") ? facById[h.slice(4)] : null;
+  $("home").hidden = !!f; $("fac").hidden = !f;
+  if (f){
+    $("fac-n").textContent = f.nombre;
+    $("fac-s").textContent = f.sub || "";
+    const ex = $("fac-ex");
+    if (f.examenes){ ex.href = f.examenes; ex.className = "btn violet"; ex.innerHTML = ICON.drive + "Descargar PDF"; }
+    else { ex.removeAttribute("href"); ex.className = "btn off"; ex.textContent = "Próximamente"; }
+    const ms = C.materias.filter(m => m.para.includes(f.id));
+    $("fac-m").innerHTML = ms.map(materiaHTML).join("");
+    document.title = f.corto + " · Matemática Universitaria y Preuniversitaria";
+    window.scrollTo(0,0);
+  } else {
+    document.title = "Matemática Universitaria y Preuniversitaria";
+    if (h){ const el = document.getElementById(h); if (el) el.scrollIntoView(); }
+  }
+}
+window.addEventListener("hashchange", route);
+</script>
+<script src="comun.js"></script>
+<script>
+$("books").innerHTML = booksHTML(); $("books2").innerHTML = booksHTML();
+route();
+</script>
 </body>
 </html>

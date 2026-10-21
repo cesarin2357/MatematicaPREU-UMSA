@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 236" width="300" height="236">
+<defs><clipPath id="a"><circle cx="112" cy="84" r="64"/></clipPath><clipPath id="b"><circle cx="188" cy="84" r="64"/></clipPath>
+<mask id="na"><rect width="300" height="236" fill="#fff"/><circle cx="112" cy="84" r="64" fill="#000"/></mask>
+<mask id="nb"><rect width="300" height="236" fill="#fff"/><circle cx="188" cy="84" r="64" fill="#000"/></mask>
+<mask id="nc"><rect width="300" height="236" fill="#fff"/><circle cx="150" cy="150" r="64" fill="#000"/></mask></defs>
+<g fill="#1D1530"><g clip-path="url(#a)"><circle cx="188" cy="84" r="64" mask="url(#nc)"/><circle cx="150" cy="150" r="64" mask="url(#nb)"/></g>
+<g clip-path="url(#b)"><circle cx="150" cy="150" r="64" mask="url(#na)"/></g></g>
+<g stroke="#1D1530" stroke-width="2" fill="none"><circle cx="112" cy="84" r="64"/><circle cx="188" cy="84" r="64"/><circle cx="150" cy="150" r="64"/></g>
+<g font-family="Times New Roman,serif" font-style="italic" font-weight="600" fill="#1D1530" font-size="20"><text x="40" y="30">A</text><text x="248" y="30">B</text><text x="212" y="214">C</text></g></svg>

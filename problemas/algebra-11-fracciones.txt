@@ -1,0 +1,15 @@
+// ================================================================
+// Cap. XI · FRACCIONES ALGEBRAICAS
+// Para agregar problemas, copia este modelo debajo y llénalo
+// (sin las barras // del comienzo):
+//
+// ## 1
+// Enunciado del problema con fórmulas entre $ $, por ejemplo $x^2 + 1$.
+// imagen: img/figuras/nombre.png      (opcional; borra la línea si no hay)
+// A) opción
+// B) opción correcta *
+// C) opción
+// D) opción
+// E) opción
+// video:
+// ================================================================

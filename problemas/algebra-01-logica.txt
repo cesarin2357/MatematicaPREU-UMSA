@@ -1,0 +1,236 @@
+// ================================================================
+// CAP. I · LÓGICA
+// Formato de cada problema:
+//   ## número
+//   enunciado (las fórmulas van entre $ $)
+//   imagen: img/figuras/archivo.svg     (opcional)
+//   A) opción
+//   B) opción correcta *                (el * marca la correcta)
+//   video:                              (pega aquí el enlace de YouTube)
+// Las líneas que empiezan con // no se muestran.
+// ================================================================
+
+## 1
+Si la siguiente proposición $p \to (r \to s)$ es falsa, ¿cuál(es) de las siguientes proposiciones es(son) verdadera(s)?
+I) $\sim(r \wedge s)$ es falsa.
+II) $(r \wedge s)$ es verdadera.
+III) $p$ es verdadera.
+A) Sólo I
+B) Sólo II
+C) Sólo III *
+D) I y III
+E) I y II
+video:
+
+## 2
+Si $(p \wedge q)$ es verdadero, hallar el valor de verdad de las siguientes proposiciones:
+$p \to \sim q$
+$\sim(p \wedge q)$
+$p \leftrightarrow q$
+A) FFF
+B) VFF
+C) FFV *
+D) VVV
+E) VFV
+video:
+
+## 3
+Si $\sim p \to q$ es falso, hallar el valor de verdad de:
+$r \wedge (q \vee p)$
+$p \leftrightarrow q$
+$p \wedge (r \wedge t)$
+A) FFV
+B) VVV
+C) VVF
+D) FFF
+E) FVF *
+video:
+
+## 4
+El resultado de la tabla de verdad de la siguiente proposición $p \wedge (p \to q)$ es:
+A) VFFF *
+B) VFFV
+C) VVFF
+D) VVVF
+E) FFVV
+video:
+
+## 5
+Si la proposición $(p \wedge q) \to (p \to t)$ es falsa, ¿cuál(es) de las proposiciones es(son) verdadera(s)?
+I) $p$ es falsa.
+II) $p \wedge q$ es verdadera.
+III) $t$ es verdadera.
+A) Sólo II *
+B) Sólo I
+C) Sólo III
+D) II y III
+E) I y II
+video:
+
+## 6
+Si la siguiente proposición $(\sim p \to \sim q) \vee (r \to s)$ es falsa, indicar las proposiciones que son verdaderas.
+A) $p;\ q$
+B) $p;\ s$
+C) $q;\ r$ *
+D) $q;\ s$
+E) $r;\ s$
+video:
+
+## 7
+Si la siguiente expresión lógica $(\sim p \vee q)$ es falsa, el valor de verdad de las siguientes proposiciones es:
+$p \wedge q$
+$p \wedge (\sim p \vee q)$
+$p \vee q$
+A) FVF
+B) FFV *
+C) VVV
+D) FFF
+E) VVF
+video:
+
+## 8
+Hallar los valores de verdad de las siguientes expresiones lógicas:
+$(7^2 + 1 = 49) \vee (7^2 - 1 = 48)$
+$(3^2 + 2^2 = 13) \wedge (5^2 = 25)$
+$(3^2 + 4^2 = 5^2) \to (8 + 2 = 12)$
+A) VVF *
+B) FFV
+C) VVV
+D) FVV
+E) FVF
+video:
+
+## 9
+Construir la tabla de verdad de las siguientes proposiciones e indicar cuál(es) es(son) lógicamente equivalente(s):
+I) $\sim p \vee \sim q$
+II) $q \to p$
+III) $p \to \sim q$
+A) I y II
+B) I y III *
+C) II y III
+D) Todos
+E) Sólo I
+video:
+
+## 10
+Señalar la expresión equivalente a la proposición $(p \vee \sim p) \wedge (\sim q \vee \sim p)$
+A) $q \to p$
+B) $p \to q$
+C) $(p \to q) \to \sim p$ *
+D) $\sim p \to (p \to q)$
+E) $(q \to p) \to \sim p$
+video:
+
+## 11
+Si la proposición $(\sim p \to q) \vee \sim r$ es falsa, hallar el valor de verdad de $p$, $q$ y $r$ en ese orden.
+A) VVF
+B) FFF
+C) FFV *
+D) FVF
+E) VFV
+video:
+
+## 12
+Hallar el valor de verdad de las siguientes proposiciones:
+$(3 + 2 = 5) \vee (7 - 2 = 11)$
+$(4 - 1 = 3) \to (2 - 10 = -8)$
+$(3 + 7 = 10) \wedge (12 > 5)$
+$(1^2 = 2) \leftrightarrow \left(1 + \tfrac{1}{2} = \tfrac{3}{2}\right)$
+A) VVFV
+B) VFVV
+C) VVVV
+D) VVVF *
+E) FVVV
+video:
+
+## 13
+Si "$p$" es una proposición falsa, determina el valor de verdad de la expresión:
+$\{(p \to q) \vee [r \to (\sim q \wedge p)]\} \to (r \wedge p \wedge q)$
+A) Verdadero
+B) Falso *
+C) Verdadero o falso
+D) Verdadero sólo si $q$ es verdadero
+E) Falso sólo si $r$ es falso
+video:
+
+## 14
+Simbolizar:
+imagen: img/figuras/circuito-logica-27.svg
+Si la proposición que se obtiene es falsa, ¿cuáles son los valores de $p$ y $q$ respectivamente?
+A) VV
+B) VF *
+C) FV
+D) FF
+E) No se puede precisar
+video:
+
+## 15
+Hallar los valores de verdad de las siguientes proposiciones:
+I) $(\forall x \in \mathbb{R},\ x = x) \wedge (\exists x \in \mathbb{R},\ x + 1 > x)$
+II) $(\forall x \in \mathbb{R},\ x^2 \ne x) \wedge (\exists x \in \mathbb{Z},\ x + 1 \ne x - 1)$
+III) $(\exists x \in \mathbb{N},\ x \ne 0) \Rightarrow (\forall x \in \mathbb{Q},\ x \ne 0)$
+IV) $(\exists x \in \mathbb{N},\ x - 3 \le x) \Rightarrow (\forall x \in \mathbb{R},\ x - 1 \ge x)$
+A) FVVF
+B) FVVV
+C) VVFF
+D) VFFF *
+E) VVVF
+video:
+
+## 16
+Sea $A = \{1;\ 2;\ 3\}$. Determinar el valor de verdad de las siguientes expresiones:
+I) $\exists x \in A,\ \forall y \in A \,/\, x^2 < y + 1$
+II) $\forall x \in A,\ \exists y \in A \,/\, x^2 + y^2 < 12$
+III) $\exists x \in A,\ \forall y \in A,\ \exists z \in A \,/\, x^2 + y^2 < 2z^2$
+IV) $\exists x \in A,\ \exists y \in A,\ \forall z \in A \,/\, x^2 + y^2 < 2z^2$
+A) VFVV
+B) VVFV
+C) VVVF *
+D) FVVV
+E) VVVV
+video:
+
+## 17
+Dadas las proposiciones:
+$p$: Marcos es comerciante.
+$q$: Marcos es un próspero industrial.
+$r$: Marcos es ingeniero.
+Simbolizar el enunciado: «Si no es el caso que Marcos sea un comerciante y un próspero industrial, entonces es ingeniero o no es comerciante».
+A) $\sim(p \wedge q) \to (r \vee p)$
+B) $(\sim p \wedge q) \to (r \wedge p)$
+C) $\sim(p \vee q) \to (r \vee p)$
+D) $\sim(p \wedge q) \to (r \vee \sim p)$ *
+E) $(\sim p \wedge \sim q) \to (\sim r \vee p)$
+video:
+
+## 18
+Si:
+$p$: Andrés compra pan.
+$q$: Andrés ingresa en la academia.
+$r$: Andrés se levanta temprano.
+Simbolizar: «Si Andrés se levanta temprano y no compra pan implica que no podrá ingresar a la academia, pero que haya comprado el pan es condición necesaria y suficiente para que se haya levantado temprano».
+A) $[(r \wedge \sim p) \vee \sim p] \wedge (p \leftrightarrow r)$
+B) $[(r \wedge p) \to \sim p] \wedge (q \leftrightarrow r)$
+C) $[(r \wedge \sim p) \to \sim q] \wedge (p \leftrightarrow r)$ *
+D) $[(r \wedge \sim p) \to q] \wedge (r \to p)$
+E) $[(r \vee \sim p) \to \sim q] \vee (p \to r)$
+video:
+
+## 19
+La simbolización correcta del siguiente enunciado es:
+«Si Carlos compró el libro, entonces es propietario del libro. No es el caso que sea propietario del libro y no cumpla con su estudio. Por lo tanto, Carlos no compró el libro o no cumple con su estudio».
+A) $[(p \to q) \wedge (\sim q \wedge \sim r)] \to [\sim p \vee \sim r]$
+B) $[(p \to q) \vee (\sim q \wedge \sim r)] \leftrightarrow (\sim q \vee \sim r)$
+C) $[(p \to q) \wedge \sim(q \wedge \sim r)] \to (\sim p \vee \sim r)$ *
+D) $[(q \to p) \wedge \sim(q \wedge r)] \to (\sim p \wedge \sim r)$
+E) $[(p \to q) \wedge \sim(q \wedge r)] \to (\sim p \wedge r)$
+video:
+
+## 20
+Si $p * q = \sim p \wedge \sim q$, expresar $\sim p$ usando únicamente el operador $(*)$.
+A) $(p * p) * p$
+B) $(p * \sim p) * p$ *
+C) $\sim(p * q)$
+D) $p * q$
+E) $p * (q * q)$
+video:
