@@ -37,33 +37,6 @@
       </div></div>`;
   }
 
-  /* Comentarios con Disqus (se cargan solo cuando el estudiante llega a la sección) */
-  window.comentarios = function (el, id, titulo) {
-    if (!el) return;
-    el.innerHTML = `<h2 class="sec">Comentarios y dudas</h2>
-      <p class="cm-hint" id="cm-hint">¿Encontraste un error, tienes una duda o quieres dejar tu opinión? Escríbela aquí. Si es sobre un problema, empieza con su número, por ejemplo: <b>«Problema 12: …»</b></p>
-      <div id="disqus_thread"></div>`;
-    if (!C.disqus) {
-      el.querySelector("#disqus_thread").innerHTML = '<div class="cm-off">Los comentarios estarán disponibles muy pronto.</div>';
-      return;
-    }
-    const url = location.origin + location.pathname + (id === "inicio" ? "" : "?t=" + id);
-    window.disqus_config = function () { this.page.url = url; this.page.identifier = id; this.page.title = titulo; this.language = "es_ES"; };
-    let done = false;
-    const load = () => {
-      if (done) return; done = true;
-      const sc = document.createElement("script");
-      sc.src = "https://" + C.disqus + ".disqus.com/embed.js";
-      sc.setAttribute("data-timestamp", +new Date());
-      document.body.appendChild(sc);
-    };
-    window.cargarComentarios = load;
-    if ("IntersectionObserver" in window) {
-      const io = new IntersectionObserver(e => { if (e.some(x => x.isIntersecting)) { load(); io.disconnect(); } }, { rootMargin: "600px" });
-      io.observe(el);
-    } else load();
-  };
-
   /* Anuncio flotante: alterna entre los libros */
   const A = C.anuncio, L = C.libros;
   if (!L.length) return;
