@@ -1,2 +1,2 @@
-# Pr-cticas-Matematica-UMSA
+# Practicas-Matematica-UMSA
 Practicas de Matemática nivel Preuniversitario
