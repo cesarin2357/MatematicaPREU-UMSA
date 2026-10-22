@@ -13,3 +13,192 @@
 // E) opción
 // video:
 // ================================================================
+
+## 1
+Calcular: $E=\left[\sqrt[\sqrt{\sqrt{\sqrt{\sqrt{2}}}}]{\sqrt[\sqrt{\sqrt{\sqrt{2}}}]{\sqrt[\sqrt{\sqrt{2}}]{\sqrt[\sqrt{2}]{2^{\sqrt{2\sqrt{2\sqrt{2\sqrt{2}}}}}}}}}\right]^{\frac{1}{2}}$
+A) $1$
+B) $2$
+C) $4$
+D) $\sqrt[4]{2}$
+E) $\sqrt{2}$ *
+video:
+
+## 2
+Simplificar: $E=\left(\sqrt[5]{5}\right)^{\sqrt[5]{5}\cdot\sqrt[5]{5}\cdot\sqrt[5]{5}\cdot\sqrt[5]{5}\cdot\sqrt[5]{5}\cdot\left(\sqrt[5]{5}\right)^{25^{2^{-1}}}}$
+A) $5$
+B) $5^{5}$ *
+C) $5^{2}$
+D) $5^{25}$
+E) $\sqrt[5]{5}$
+video:
+
+## 3
+Hallar la suma de exponentes de las variables $x$, $y$, $z$ después de simplificar: $E=\sqrt[a]{\sqrt[b]{\frac{x^{a}}{y^{b}}}}\cdot\sqrt[b]{\sqrt[c]{\frac{y^{b}}{z^{c}}}}\cdot\sqrt[c]{\sqrt[a]{\frac{z^{c}}{x^{a}}}}$
+A) $1$
+B) $0$ *
+C) $-1$
+D) $3$
+E) $a+b+c$
+video:
+
+## 4
+Siendo $X^{Y}=Y^{X}$, calcular: $E=\sqrt[2XY^{-X}]{\left[X^{-Y}\right]^{-X^{-Y}}\left[Y^{-X}\right]^{-Y^{-X}}}$
+A) $1$
+B) $X$
+C) $Y$ *
+D) $XY$
+E) $\sqrt{Y}$
+video:
+
+## 5
+Si $E=16$, calcular $X$ siendo: $E=\left(4^{X^{X}}\right)\left(4^{-X^{X}}\right)\left(4^{X^{-X}}\right)\left(4^{-X^{-X}}\right)\left(2^{X^{X}}\right)$
+A) $4$
+B) $16$
+C) $\sqrt{2}$
+D) $2$ *
+E) $\frac{1}{2}$
+video:
+
+## 6
+Si $abc=U^{8}$, calcular: $F=\left(\sqrt{a\sqrt{b\sqrt{c}}}\right)\left(\sqrt{b\sqrt{c\sqrt{a}}}\right)\left(\sqrt{c\sqrt{a\sqrt{b}}}\right)$
+A) $U^{7}$ *
+B) $U^{4}$
+C) $U^{6}$
+D) $U^{8}$
+E) $U^{\frac{7}{8}}$
+video:
+
+## 7
+Calcular el valor de $A=XYZ$ si: $(0{,}1)^{0{,}4}(0{,}2)^{0{,}3}(0{,}3)^{0{,}2}(0{,}4)^{0{,}1}=2^{X}\cdot 3^{Y}\cdot 5^{Z}$
+A) $0{,}1$ *
+B) $-0{,}1$
+C) $0{,}2$
+D) $0{,}5$
+E) $1$
+video:
+
+## 8
+Hallar el valor numérico de: $R=\sqrt[3]{\frac{X\cdot\sqrt[5]{X\sqrt{X}}}{\sqrt{X\cdot\sqrt[5]{X}}}}$ para $X=\sqrt[7]{2^{60}}$
+A) $2$
+B) $8$
+C) $4$ *
+D) $16$
+E) $\sqrt{2}$
+video:
+
+## 9
+Simplificar: $C=\frac{\left\{(-a^{3})^{-\frac{2}{3}}-\left[\frac{\left(a^{a^{-1}}\right)^{3a}}{(2a+1)^{\frac{3}{5}}}\right]^{-\frac{5}{3}}+\frac{2}{a^{4}}\right\}^{-\frac{1}{5}}}{\left(\frac{1}{a^{7}}-\frac{1}{a^{10}}\right)^{-\frac{1}{5}}}$
+A) $1$
+B) $a$
+C) $a^{2}$
+D) $\frac{1}{a^{2}}$
+E) $\frac{1}{a}$ *
+video:
+
+## 10
+Calcular el valor de: $E=\frac{2^{x+4}+36\left(2^{x-2}\right)}{2^{x+5}-2\left(2^{x+3}\right)-4\left(2^{x+1}\right)-6\left(2^{x-1}\right)}$
+A) $4$
+B) $6$
+C) $25$
+D) $5$ *
+E) $\frac{1}{5}$
+video:
+
+## 11
+Simplificar: $E=\sqrt[n]{\frac{x^{3n}+\sqrt[n]{\frac{x^{4n^{2}}+x^{3n^{2}}}{x^{2n^{2}}+x^{n^{2}}}}}{x^{n}+1}}$
+A) $2$
+B) $x^{2}$ *
+C) $x$
+D) $x^{3}$
+E) $x^{n}$
+video:
+
+## 12
+Si: $-2^{-2^{-p}}=-4^{-4^{-q}}$, determine el valor de: $M=\sqrt[\sqrt{2}]{\sqrt[\sqrt{2^{p}}]{2^{2^{q}}}}$
+A) $1$
+B) $4$
+C) $\sqrt{2}$
+D) $\frac{1}{2}$
+E) $2$ *
+video:
+
+## 13
+Calcular el valor de $\beta$: $\beta=\left\{\left[\frac{\left(a^{\frac{a+1}{a}}+a^{\frac{a-1}{a}}\right)^{a}}{a^{a-1}\left(a^{\frac{2}{a}}+1\right)^{\frac{1}{a}}}\right]^{\frac{a}{a^{2}-1}}-1\right\}^{a}$
+A) $1$
+B) $a$
+C) $a^{\frac{2}{a}}$
+D) $a^{a}$
+E) $a^{2}$ *
+video:
+
+## 14
+Si: $a+b+c=abc$, calcular: $E=x\left(\frac{\sqrt[a]{x^{b+c}}+\sqrt[c]{x^{a+b}}+\sqrt[b]{x^{a+c}}}{x^{ab}+x^{ac}+x^{cb}}\right)$
+A) $0$
+B) $x$
+C) $x^{-1}$
+D) $1$ *
+E) $abc$
+video:
+
+## 15
+Si: $p=\sqrt[\sqrt{x}^{\sqrt{x}}]{x^{\sqrt{x}}}$ y además $\sqrt{x}^{\sqrt{x}}=2$, calcular el valor de $E=p^{p}$
+A) $2$
+B) $4$ *
+C) $8$
+D) $16$
+E) $\sqrt{2}$
+video:
+
+## 16
+Si $abc=2\sqrt[7]{2}$, calcular: $F=\sqrt{a\sqrt{b\sqrt{c}}}\sqrt{b\sqrt{c\sqrt{a}}}\sqrt{c\sqrt{a\sqrt{b}}}$
+A) $1$
+B) $4$
+C) $\sqrt{2}$
+D) $2$ *
+E) $2^{\frac{8}{7}}$
+video:
+
+## 17
+Si: $X^{X^{X+5}}=\sqrt[3]{3}$, hallar el valor de: $E=X^{X^{3X^{X+5}+X+5}}$
+A) $9$
+B) $27$
+C) $\sqrt{3}$
+D) $\sqrt[3]{3}$
+E) $3$ *
+video:
+
+## 18
+Simplificar: $E=\sqrt[a^{2a}]{\sqrt[a^{a}+b]{a^{a^{4a}}}\cdot\sqrt[a^{a}]{\sqrt[a^{a}+b]{a^{ba^{4a}}}}}$
+A) $a$
+B) $a^{a}$
+C) $a^{2a}$
+D) $a^{a^{a}}$ *
+E) $a^{a^{2}}$
+video:
+
+## 19
+Simplificar: $E=\sqrt[\sqrt{5}^{\sqrt{5}^{\sqrt{5}}}]{\sqrt[\sqrt{5}^{\sqrt{5}}]{5^{\sqrt{5}^{\sqrt{5}^{\sqrt{5}}+\sqrt{5}}}}}$
+A) $5$ *
+B) $1$
+C) $25$
+D) $\sqrt{5}$
+E) $5^{\sqrt{5}}$
+video:
+
+## 20
+Calcular: $E=\frac{\sqrt[4]{x^{3}\sqrt[4]{x^{3}\sqrt[4]{x^{3}\cdots}}}}{\sqrt[5]{x^{4}\sqrt[5]{x^{4}\sqrt[5]{x^{4}\cdots}}}}$
+A) $0$
+B) $1$ *
+C) $x$
+D) $x^{-1}$
+E) $x^{\frac{1}{20}}$
+video:
+
+## 21
+Calcular: $E=\frac{\sqrt{4\sqrt{4\sqrt{4\sqrt{4\cdots}}}}}{\sqrt[3]{\frac{16}{\sqrt[3]{\frac{16}{\sqrt[3]{\frac{16}{\cdots}}}}}}}$
+A) $1$
+B) $4$
+C) $2$ *
+D) $8$
+E) $\sqrt{2}$
+video:
