@@ -109,9 +109,12 @@ Estudia, practica y prepárate para dar el siguiente paso hacia tu futuro profes
     { id: "economicas",  nombre: "Facultad de Ciencias Económicas y Financieras", corto: "Económicas", examenes: "" },
     { id: "farmacia",    nombre: "Facultad de Ciencias Farmacéuticas y Bioquímicas", corto: "Farmacia y Bioquímica", examenes: "" },
     { id: "informatica", nombre: "Facultad de Ciencias Puras y Naturales", sub: "Carrera de Informática", corto: "Informática", examenes: "" },
-    { id: "esfm",        nombre: "ESFM · Normales Superiores", corto: "ESFM", examenes: "" }
+    { id: "medicina",    nombre: "Facultad de Medicina", corto: "Medicina", examenes: "" },
+    { id: "anapol",      nombre: "Academia Nacional de Policías", corto: "ANAPOL", examenes: "" },
+    { id: "colmil",      nombre: "Colegio Militar", corto: "COLMIL", examenes: "" },
+    { id: "esfm",        nombre: "Normal Superior de Maestros", corto: "ESF", examenes: "" }
   ],
-
+   
   /* "Quiero estudiar…"
      para  = facultades que llevan la materia (se muestran como etiquetas)
      id    = nombre del archivo en /problemas (sin .txt)
