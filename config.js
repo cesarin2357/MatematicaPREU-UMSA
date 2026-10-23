@@ -123,7 +123,7 @@ Estudia, practica y prepárate para dar el siguiente paso hacia tu futuro profes
     {
       id: "algebra",
       nombre: "Álgebra",
-      para: ["ingenieria", "economicas", "farmacia", "informatica"],
+      para: ["ingenieria", "economicas", "farmacia", "informatica", "medicina", "anapol", "colmil"],
       temas: [
         { id: "algebra-00-aritmetica",     cap: "Introducción", nombre: "Aritmética y conocimientos básicos", pdf: "" },
         { id: "algebra-01-logica",         cap: "Cap. I",     nombre: "Lógica", pdf: "" },
