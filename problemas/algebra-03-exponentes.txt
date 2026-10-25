@@ -194,15 +194,14 @@ D) $1$
 E) $7^{7^{n}}$
 video:
 
-## 21
-Dé el valor de verdad de cada proposición:
-imagen: img/figuras/algebra-03-exponentes-21.png
-A) VVF
-B) FVF *
-C) FFF
-D) VFV
-E) FVV
-video:
+   ## 21
+   Dé el valor de verdad de cada proposición: I. En $x^{x^{5}}$ el exponente $x^{x}$ es 5. II. En $x^{x^{7}}$ el exponente $x^{x}$ es $x^{6}$. III. $(x-2)^{0}=1$ para todo $x\in\mathbb{R}$.
+   A) VVF
+   B) FVF *
+   C) FFF
+   D) VFV
+   E) FVV
+   video:
 
 ## 22
 Simplifique, donde $x>0$, $a\neq 0$: $M=\frac{\sqrt[a]{x^{a-b}}\cdot\sqrt[2a]{x^{a+4b}}}{\sqrt[4a]{x^{5a+4b}}}$
