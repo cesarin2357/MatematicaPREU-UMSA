@@ -15,6 +15,268 @@
 // ================================================================
 
 ## 1
+Sabiendo que $a=x^{n}$, $b=x^{m}$ y $x^{6}=\left(a^{m}b^{n}\right)^{p}$, calcule el valor de $mnp$.
+A) $6$
+B) $2$
+C) $3$ *
+D) $\frac{1}{3}$
+E) $12$
+video:
+
+## 2
+Luego de efectuar: $P=\sqrt[ac]{\frac{\left(m^{c}\right)^{a+b}\left(n^{a}\right)^{c-b}}{\left(n^{a}\cdot m^{-c}\right)^{-b}}}$ se obtiene:
+A) $\frac{m}{n}$
+B) $mn$ *
+C) $m^{2}n$
+D) $(mn)^{ac}$
+E) $n$
+video:
+
+## 3
+Simplifique: $P=\sqrt[3]{\left[\left(\frac{3}{2}\right)^{-2}+\left(\frac{3}{2}\right)^{-3}-6^{-1}+(6)^{-3}\right]^{-2}}$
+A) $\frac{6}{5}$
+B) $\frac{25}{36}$
+C) $\frac{216}{125}$
+D) $\frac{5}{6}$
+E) $\frac{36}{25}$ *
+video:
+
+## 4
+Señalar la suma de los exponentes de $x$ e $y$ luego de reducir: $\sqrt[9]{x\sqrt[5]{y\sqrt[9]{x\sqrt[5]{y\cdots}}}}$
+A) $\frac{1}{7}$
+B) $\frac{2}{15}$
+C) $\frac{5}{44}$
+D) $\frac{3}{22}$ *
+E) $\frac{1}{4}$
+video:
+
+## 5
+Simplificar: $P=\sqrt[4n+1]{\frac{246(3)^{15n+4}}{9(3)^{7n+5}+3^{7n+3}}}$
+A) $9$ *
+B) $3$
+C) $27$
+D) $81$
+E) $\frac{1}{9}$
+video:
+
+## 6
+Sabiendo que $x^{x^{x}}=2$, calcule el valor de: $\sqrt[x^{x^{x}}]{x^{x^{x-x^{x}}}}$
+A) $\sqrt{2}$
+B) $\sqrt[4]{2}$ *
+C) $\sqrt[6]{2}$
+D) $2$
+E) $\sqrt[8]{2}$
+video:
+
+## 7
+Indicar el exponente final de $x$ en: $P=\sqrt[3]{x^{5}\div\sqrt[4]{x^{17}\div\sqrt{x^{7}\div\sqrt[5]{x^{64}\div\sqrt[6]{x^{11}}}}}}$
+A) $\frac{17}{240}$
+B) $\frac{1}{720}$
+C) $\frac{17}{720}$ *
+D) $\frac{13}{720}$
+E) $\frac{7}{360}$
+video:
+
+## 8
+Simplifique: $P=\frac{2^{-6}+2^{-5}+2^{-4}+2^{-3}}{2^{-9}+2^{-10}+2^{-11}+2^{-12}}$
+A) $\frac{1}{64}$
+B) $32$
+C) $128$
+D) $8$
+E) $64$ *
+video:
+
+## 9
+Simplificar: $P=\frac{36\left(3^{x-2}\right)+4\left(3^{x+1}\right)+15\left(3^{x-1}\right)}{27\left(3^{x-1}\right)-2\cdot 3^{x}}$
+A) $7$
+B) $3$ *
+C) $\frac{1}{3}$
+D) $9$
+E) $21$
+video:
+
+## 10
+Reducir: $P=\left\{\left[\sqrt[\sqrt{6}]{8(2)^{\sqrt{6}}}\right]^{\sqrt{6}-2}\right\}^{2}$
+A) $2$
+B) $8$
+C) $16$
+D) $4$ *
+E) $\sqrt{6}$
+video:
+
+## 11
+Reducir: $P=\frac{2^{\frac{n+2}{n}}\cdot 18^{\frac{2}{n}}\cdot 4}{6^{\frac{4}{n}}}$
+A) $8$ *
+B) $4$
+C) $2$
+D) $16$
+E) $6$
+video:
+
+## 12
+Reducir: $P=\frac{\left(x^{7}\right)^{x^{-x}}+x^{x+x^{x}}}{x\left(x^{x+6}+1\right)}$, si: $x^{x}=7$
+A) $7$
+B) $x$
+C) $1$ *
+D) $\frac{1}{7}$
+E) $x^{7}$
+video:
+
+## 13
+Simplificar, para $x\neq 0$: $P=\frac{\sqrt[x]{6^{x}+7^{-x}}+\sqrt[x]{6^{-x}+7^{x}}}{\sqrt[x]{42^{x}+1}}$
+A) $\frac{1}{42}$
+B) $13$
+C) $\frac{42}{13}$
+D) $1$
+E) $\frac{13}{42}$ *
+video:
+
+## 14
+Siendo $x^{x}=3$, calcular el valor de: $P=\sqrt[3^{8}]{x^{x^{1+3x^{1+x}}}}$
+A) $3$
+B) $27$ *
+C) $9$
+D) $81$
+E) $3^{9}$
+video:
+
+## 15
+Con los datos $x=3^{5^{6}}$; $y=9^{5^{6}}$, hallar el valor de: $M=\sqrt[3]{\frac{8x^{4}}{y^{2}}}+\sqrt[5]{\frac{32y^{6}}{x^{12}}}$
+A) $2$
+B) $8$
+C) $6$
+D) $4$ *
+E) $3$
+video:
+
+## 16
+Siendo $\sqrt[3]{x}=\sqrt[5]{y}=\sqrt[13]{z}$, hallar el equivalente de: $\sqrt[7]{xyz}$
+A) $x$ *
+B) $y$
+C) $z$
+D) $x^{3}$
+E) $x^{7}$
+video:
+
+## 17
+Siendo $a^{3a^{2}}=27^{9}$, indique el valor de: $P=\frac{a^{40}\cdot a^{38}\cdots a^{6}\cdot a^{4}\cdot a^{2}}{a^{1}\cdot a^{3}\cdot a^{5}\cdots a^{37}\cdot a^{39}}$
+A) $3^{10}$
+B) $9^{20}$
+C) $9^{10}$ *
+D) $3^{40}$
+E) $27^{10}$
+video:
+
+## 18
+Siendo $x^{5x}=3$, hallar el valor de: $M=\left[x^{x^{5x+1}}\right]^{2}$
+A) $9$
+B) $3$
+C) $125$
+D) $\sqrt[5]{3^{6}}$ *
+E) $\sqrt[5]{9}$
+video:
+
+## 19
+Siendo $n=\sqrt[3]{3}^{\left(\sqrt[3]{3}^{\sqrt{3}}\right)^{\sqrt{3}}}$, calcule: $P=\sqrt[3]{(-n)^{3}}+2\sqrt[4]{(-n)^{4}}$
+A) $9$
+B) $-9$
+C) $-3$
+D) $6$
+E) $3$ *
+video:
+
+## 20
+Si $n\in\mathbb{N}$, simplifique: $M=\sqrt[7^{n}]{\frac{7^{1+7^{n}}+7^{2\cdot 7^{n}}}{7+7^{7^{n}}}}$
+A) $7^{n}$
+B) $7$ *
+C) $49$
+D) $1$
+E) $7^{7^{n}}$
+video:
+
+## 21
+Dé el valor de verdad de cada proposición:
+imagen: img/figuras/algebra-03-exponentes-21.png
+A) VVF
+B) FVF *
+C) FFF
+D) VFV
+E) FVV
+video:
+
+## 22
+Simplifique, donde $x>0$, $a\neq 0$: $M=\frac{\sqrt[a]{x^{a-b}}\cdot\sqrt[2a]{x^{a+4b}}}{\sqrt[4a]{x^{5a+4b}}}$
+A) $\sqrt{x}$
+B) $x$
+C) $\sqrt[4]{x^{3}}$
+D) $\sqrt[4]{x}$ *
+E) $x^{b}$
+video:
+
+## 23
+Indicar el equivalente de: $P=\underbrace{\sqrt[58]{x\cdot\sqrt[58]{x\cdot\sqrt[58]{x\cdots\sqrt[58]{x\cdot\sqrt[57]{x}}}}}}_{59\text{ radicales}}$
+A) $\sqrt[57]{x}$ *
+B) $\sqrt[58]{x}$
+C) $x$
+D) $\sqrt[59]{x}$
+E) $\sqrt[57]{x^{58}}$
+video:
+
+## 24
+Si $x=28$, calcule el valor de: $P=\frac{3^{x}+3^{x+1}+3^{x+2}+\cdots+3^{x+10}}{3^{x-5}+3^{x-4}+3^{x-3}+\cdots+3^{x+5}}$
+A) $81$
+B) $729$
+C) $243$ *
+D) $3^{28}$
+E) $15$
+video:
+
+## 25
+Indicar el exponente final de $x$ en: $M=\left[\frac{x^{-x^{x}}+x^{x^{-x}}}{x^{-x^{-x}}+x^{x^{x}}}\right]\cdot x^{-x^{-x}}$
+A) $x^{x}$
+B) $-x^{-x}$
+C) $x^{-x}$
+D) $0$
+E) $-x^{x}$ *
+video:
+
+## 26
+Simplificar: $P=\sqrt[x^{2}]{\sqrt{x^{(x+2)^{2}}}\left[x\cdot x^{2}\cdot x^{3}\cdots x^{x+2}\right]\sqrt{x^{-9x-10}}}$
+A) $x^{2}$
+B) $\sqrt{x}$
+C) $1$
+D) $x$ *
+E) $\sqrt[4]{x}$
+video:
+
+## 27
+Determinar el valor de $P$, siendo la suma de 30 términos: $P=\sqrt[n-1]{\frac{x^{n-1}+1}{x^{1-n}+1}}+\sqrt[n-2]{\frac{x^{n-2}+1}{x^{2-n}+1}}+\sqrt[n-3]{\frac{x^{n-3}+1}{x^{3-n}+1}}+\cdots$
+A) $x^{30}$
+B) $30$
+C) $15x$
+D) $x$
+E) $30x$ *
+video:
+
+## 28
+Simplificar: $P=\sqrt[n-1]{\frac{4^{n-1}+8^{n-1}}{4^{1-n}+8^{1-n}}}+\sqrt[n-1]{\frac{9^{n-1}+27^{n-1}}{9^{1-n}+27^{1-n}}}$
+A) $48$
+B) $275$ *
+C) $108$
+D) $288$
+E) $32$
+video:
+
+## 29
+Simplifique: $M=\left[\frac{2^{x+3}-2^{x+2}+2^{x+1}-2^{x}}{2^{x-3}-2^{x-2}+2^{x-1}-2^{x}}\right]+\left[\frac{5^{1-x}+7^{1-x}}{7^{x-1}+5^{x-1}}\right]^{(1-x)^{-1}}$
+A) $43$
+B) $35$
+C) $-27$
+D) $27$ *
+E) $8$
+video:
+
+## 30
 Calcular: $E=\left[\sqrt[\sqrt{\sqrt{\sqrt{\sqrt{2}}}}]{\sqrt[\sqrt{\sqrt{\sqrt{2}}}]{\sqrt[\sqrt{\sqrt{2}}]{\sqrt[\sqrt{2}]{2^{\sqrt{2\sqrt{2\sqrt{2\sqrt{2}}}}}}}}}\right]^{\frac{1}{2}}$
 A) $1$
 B) $2$
@@ -23,7 +285,7 @@ D) $\sqrt[4]{2}$
 E) $\sqrt{2}$ *
 video:
 
-## 2
+## 31
 Simplificar: $E=\left(\sqrt[5]{5}\right)^{\sqrt[5]{5}\cdot\sqrt[5]{5}\cdot\sqrt[5]{5}\cdot\sqrt[5]{5}\cdot\sqrt[5]{5}\cdot\left(\sqrt[5]{5}\right)^{25^{2^{-1}}}}$
 A) $5$
 B) $5^{5}$ *
@@ -32,7 +294,7 @@ D) $5^{25}$
 E) $\sqrt[5]{5}$
 video:
 
-## 3
+## 32
 Hallar la suma de exponentes de las variables $x$, $y$, $z$ después de simplificar: $E=\sqrt[a]{\sqrt[b]{\frac{x^{a}}{y^{b}}}}\cdot\sqrt[b]{\sqrt[c]{\frac{y^{b}}{z^{c}}}}\cdot\sqrt[c]{\sqrt[a]{\frac{z^{c}}{x^{a}}}}$
 A) $1$
 B) $0$ *
@@ -41,7 +303,7 @@ D) $3$
 E) $a+b+c$
 video:
 
-## 4
+## 33
 Siendo $X^{Y}=Y^{X}$, calcular: $E=\sqrt[2XY^{-X}]{\left[X^{-Y}\right]^{-X^{-Y}}\left[Y^{-X}\right]^{-Y^{-X}}}$
 A) $1$
 B) $X$
@@ -50,7 +312,7 @@ D) $XY$
 E) $\sqrt{Y}$
 video:
 
-## 5
+## 34
 Si $E=16$, calcular $X$ siendo: $E=\left(4^{X^{X}}\right)\left(4^{-X^{X}}\right)\left(4^{X^{-X}}\right)\left(4^{-X^{-X}}\right)\left(2^{X^{X}}\right)$
 A) $4$
 B) $16$
@@ -59,7 +321,7 @@ D) $2$ *
 E) $\frac{1}{2}$
 video:
 
-## 6
+## 35
 Si $abc=U^{8}$, calcular: $F=\left(\sqrt{a\sqrt{b\sqrt{c}}}\right)\left(\sqrt{b\sqrt{c\sqrt{a}}}\right)\left(\sqrt{c\sqrt{a\sqrt{b}}}\right)$
 A) $U^{7}$ *
 B) $U^{4}$
@@ -68,7 +330,7 @@ D) $U^{8}$
 E) $U^{\frac{7}{8}}$
 video:
 
-## 7
+## 36
 Calcular el valor de $A=XYZ$ si: $(0{,}1)^{0{,}4}(0{,}2)^{0{,}3}(0{,}3)^{0{,}2}(0{,}4)^{0{,}1}=2^{X}\cdot 3^{Y}\cdot 5^{Z}$
 A) $0{,}1$ *
 B) $-0{,}1$
@@ -77,7 +339,7 @@ D) $0{,}5$
 E) $1$
 video:
 
-## 8
+## 37
 Hallar el valor numérico de: $R=\sqrt[3]{\frac{X\cdot\sqrt[5]{X\sqrt{X}}}{\sqrt{X\cdot\sqrt[5]{X}}}}$ para $X=\sqrt[7]{2^{60}}$
 A) $2$
 B) $8$
@@ -86,7 +348,7 @@ D) $16$
 E) $\sqrt{2}$
 video:
 
-## 9
+## 38
 Simplificar: $C=\frac{\left\{(-a^{3})^{-\frac{2}{3}}-\left[\frac{\left(a^{a^{-1}}\right)^{3a}}{(2a+1)^{\frac{3}{5}}}\right]^{-\frac{5}{3}}+\frac{2}{a^{4}}\right\}^{-\frac{1}{5}}}{\left(\frac{1}{a^{7}}-\frac{1}{a^{10}}\right)^{-\frac{1}{5}}}$
 A) $1$
 B) $a$
@@ -95,7 +357,7 @@ D) $\frac{1}{a^{2}}$
 E) $\frac{1}{a}$ *
 video:
 
-## 10
+## 39
 Calcular el valor de: $E=\frac{2^{x+4}+36\left(2^{x-2}\right)}{2^{x+5}-2\left(2^{x+3}\right)-4\left(2^{x+1}\right)-6\left(2^{x-1}\right)}$
 A) $4$
 B) $6$
@@ -104,7 +366,7 @@ D) $5$ *
 E) $\frac{1}{5}$
 video:
 
-## 11
+## 40
 Simplificar: $E=\sqrt[n]{\frac{x^{3n}+\sqrt[n]{\frac{x^{4n^{2}}+x^{3n^{2}}}{x^{2n^{2}}+x^{n^{2}}}}}{x^{n}+1}}$
 A) $2$
 B) $x^{2}$ *
@@ -113,7 +375,7 @@ D) $x^{3}$
 E) $x^{n}$
 video:
 
-## 12
+## 41
 Si: $-2^{-2^{-p}}=-4^{-4^{-q}}$, determine el valor de: $M=\sqrt[\sqrt{2}]{\sqrt[\sqrt{2^{p}}]{2^{2^{q}}}}$
 A) $1$
 B) $4$
@@ -122,7 +384,7 @@ D) $\frac{1}{2}$
 E) $2$ *
 video:
 
-## 13
+## 42
 Calcular el valor de $\beta$: $\beta=\left\{\left[\frac{\left(a^{\frac{a+1}{a}}+a^{\frac{a-1}{a}}\right)^{a}}{a^{a-1}\left(a^{\frac{2}{a}}+1\right)^{\frac{1}{a}}}\right]^{\frac{a}{a^{2}-1}}-1\right\}^{a}$
 A) $1$
 B) $a$
@@ -131,7 +393,7 @@ D) $a^{a}$
 E) $a^{2}$ *
 video:
 
-## 14
+## 43
 Si: $a+b+c=abc$, calcular: $E=x\left(\frac{\sqrt[a]{x^{b+c}}+\sqrt[c]{x^{a+b}}+\sqrt[b]{x^{a+c}}}{x^{ab}+x^{ac}+x^{cb}}\right)$
 A) $0$
 B) $x$
@@ -140,7 +402,7 @@ D) $1$ *
 E) $abc$
 video:
 
-## 15
+## 44
 Si: $p=\sqrt[\sqrt{x}^{\sqrt{x}}]{x^{\sqrt{x}}}$ y además $\sqrt{x}^{\sqrt{x}}=2$, calcular el valor de $E=p^{p}$
 A) $2$
 B) $4$ *
@@ -149,7 +411,7 @@ D) $16$
 E) $\sqrt{2}$
 video:
 
-## 16
+## 45
 Si $abc=2\sqrt[7]{2}$, calcular: $F=\sqrt{a\sqrt{b\sqrt{c}}}\sqrt{b\sqrt{c\sqrt{a}}}\sqrt{c\sqrt{a\sqrt{b}}}$
 A) $1$
 B) $4$
@@ -158,7 +420,7 @@ D) $2$ *
 E) $2^{\frac{8}{7}}$
 video:
 
-## 17
+## 46
 Si: $X^{X^{X+5}}=\sqrt[3]{3}$, hallar el valor de: $E=X^{X^{3X^{X+5}+X+5}}$
 A) $9$
 B) $27$
@@ -167,7 +429,7 @@ D) $\sqrt[3]{3}$
 E) $3$ *
 video:
 
-## 18
+## 47
 Simplificar: $E=\sqrt[a^{2a}]{\sqrt[a^{a}+b]{a^{a^{4a}}}\cdot\sqrt[a^{a}]{\sqrt[a^{a}+b]{a^{ba^{4a}}}}}$
 A) $a$
 B) $a^{a}$
@@ -176,7 +438,7 @@ D) $a^{a^{a}}$ *
 E) $a^{a^{2}}$
 video:
 
-## 19
+## 48
 Simplificar: $E=\sqrt[\sqrt{5}^{\sqrt{5}^{\sqrt{5}}}]{\sqrt[\sqrt{5}^{\sqrt{5}}]{5^{\sqrt{5}^{\sqrt{5}^{\sqrt{5}}+\sqrt{5}}}}}$
 A) $5$ *
 B) $1$
@@ -185,7 +447,7 @@ D) $\sqrt{5}$
 E) $5^{\sqrt{5}}$
 video:
 
-## 20
+## 49
 Calcular: $E=\frac{\sqrt[4]{x^{3}\sqrt[4]{x^{3}\sqrt[4]{x^{3}\cdots}}}}{\sqrt[5]{x^{4}\sqrt[5]{x^{4}\sqrt[5]{x^{4}\cdots}}}}$
 A) $0$
 B) $1$ *
@@ -194,7 +456,7 @@ D) $x^{-1}$
 E) $x^{\frac{1}{20}}$
 video:
 
-## 21
+## 50
 Calcular: $E=\frac{\sqrt{4\sqrt{4\sqrt{4\sqrt{4\cdots}}}}}{\sqrt[3]{\frac{16}{\sqrt[3]{\frac{16}{\sqrt[3]{\frac{16}{\cdots}}}}}}}$
 A) $1$
 B) $4$
