@@ -23,11 +23,11 @@ window.CONFIG = {
   },
 
   /* Pega aquí tus perfiles. Los que queden vacíos no se muestran. */
-  redes: {
-    tiktok: "https://www.tiktok.com/@mathconcesarin",
-    youtube: "",
+     redes: {
+    tiktok: "https://www.tiktok.com/@mathconcesarin",   /* también recibe los pedidos de libros */
+    facebook: "https://www.facebook.com/matematicaUMSA",
+    youtube: "",      /* enlace del CANAL (los videos de cada ejercicio van en el .txt, línea video:) */
     instagram: ""
-  },
 
   /* LIBROS
      titulo    → nombre del libro
