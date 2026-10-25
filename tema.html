@@ -26,16 +26,18 @@ h2.part{font-family:var(--f-display);font-style:italic;font-weight:800;text-tran
 .num{flex:none;font-family:var(--f-display);font-style:italic;font-weight:800;font-size:20px;color:var(--violet-ink);background:var(--violet);
   border-radius:8px;min-width:44px;height:36px;display:grid;place-items:center;font-variant-numeric:tabular-nums;padding:0 6px}
 .st{min-width:0;display:grid;gap:6px;padding-top:4px}
-.st p{margin:0;overflow-x:auto;overflow-y:hidden}
+.st p{margin:0;overflow-x:auto;overflow-y:hidden;padding-block:.3em;scrollbar-width:thin}
 .st figure{margin:4px 0;background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px;max-width:340px}
 .st figure img{width:100%;height:auto}
 .opts{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
 .opts.long{grid-template-columns:1fr}
-.opt{display:flex;gap:8px;align-items:baseline;text-align:left;font:inherit;color:var(--fg);background:var(--bg);border:1.5px solid var(--line);
+.opt{display:flex;gap:8px;align-items:center;text-align:left;font:inherit;color:var(--fg);background:var(--bg);border:1.5px solid var(--line);
   border-radius:10px;padding:9px 12px;cursor:pointer;min-width:0}
 .opt:hover:not(:disabled){border-color:var(--violet)}
 .opt b{font-family:var(--f-display);font-style:italic;font-weight:800;font-size:18px;color:var(--violet);flex:none}
-.opt span{min-width:0;overflow-x:auto;overflow-y:hidden}
+/* Solo el contenedor directo de la opción (">"): sin él, la regla alcanzaba
+   las piezas internas de KaTeX y borraba exponentes, fracciones y raíces. */
+.opt > span{min-width:0;overflow-x:auto;overflow-y:hidden;padding-block:.2em;scrollbar-width:thin}
 .opt.ok{background:var(--ok-soft);border-color:var(--ok)}
 .opt.ok b{color:var(--ok)}
 .opt.bad{background:var(--bad-soft);border-color:var(--bad)}
@@ -46,7 +48,6 @@ h2.part{font-family:var(--f-display);font-style:italic;font-weight:800;text-tran
 .fb{font-weight:700;font-size:16px;min-height:1.4em}
 .fb.ok{color:var(--ok)} .fb.bad{color:var(--bad)} .fb.info{color:var(--muted);font-weight:600}
 .vid{padding:7px 12px;font-size:14px}
-.acts{display:flex;flex-wrap:wrap;gap:8px}
 .vid.go{background:#E52D27;border-color:#E52D27;color:#fff}
 .empty{border:1.5px dashed var(--line);border-radius:14px;padding:28px 20px;text-align:center;color:var(--muted);display:grid;gap:12px;justify-items:center}
 .next{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;padding-top:22px}
@@ -124,7 +125,7 @@ function render(items){
       : `<span class="btn vid off">Solución en video · próximamente</span>`;
     return `<article class="q" id="p${esc(x.n)}"><div class="qh"><div class="num">${esc(x.n)}</div><div class="st">${body}</div></div>
       <div class="opts${long ? " long" : ""}">${opts}</div>
-      <div class="foot"><span class="fb" aria-live="polite"></span><span class="acts">${vid}</span></div></article>`;
+      <div class="foot"><span class="fb" aria-live="polite"></span>${vid}</div></article>`;
   }).join("");
   if (window.renderMathInElement) renderMathInElement($("list"), { delimiters:[{left:"$", right:"$", display:false}], throwOnError:false });
 

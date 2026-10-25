@@ -47,7 +47,8 @@ h2.sec{font-family:var(--f-display);font-style:italic;font-weight:800;text-trans
 .btn svg{width:18px;height:18px;fill:currentColor;flex:none}
 .btn.violet{background:var(--violet);border-color:var(--violet);color:var(--violet-ink)}
 .btn.orange{background:var(--orange);border-color:var(--orange);color:var(--orange-ink)}
-.btn.wa{background:#1FA855;border-color:#1FA855;color:#fff}
+.btn.tk{background:#111;border-color:#111;color:#fff}
+.btn.tk:hover{border-color:var(--orange)}
 .btn.off{opacity:.55;pointer-events:none;border-style:dashed}
 .chip{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;border-radius:999px;padding:3px 10px;background:var(--violet-soft);color:var(--violet)}
 
