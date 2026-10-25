@@ -26,7 +26,7 @@ window.CONFIG = {
   redes: {
     tiktok: "https://www.tiktok.com/@mathconcesarin",   /* también recibe los pedidos de libros */
     facebook: "https://www.facebook.com/matematicaUMSA",
-    youtube: "",      /* enlace del CANAL (los videos de cada ejercicio van en el .txt, línea video:) */
+    youtube: "https://www.youtube.com/@matematicaU-PREU",      /* enlace del CANAL (los videos de cada ejercicio van en el .txt, línea video:) */
     instagram: ""
   },
 
