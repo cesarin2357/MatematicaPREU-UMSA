@@ -23,11 +23,12 @@ window.CONFIG = {
   },
 
   /* Pega aquí tus perfiles. Los que queden vacíos no se muestran. */
-     redes: {
+  redes: {
     tiktok: "https://www.tiktok.com/@mathconcesarin",   /* también recibe los pedidos de libros */
     facebook: "https://www.facebook.com/matematicaUMSA",
     youtube: "",      /* enlace del CANAL (los videos de cada ejercicio van en el .txt, línea video:) */
     instagram: ""
+  },
 
   /* LIBROS
      titulo    → nombre del libro
@@ -130,7 +131,7 @@ Estudia, practica y prepárate para dar el siguiente paso hacia tu futuro profes
         { id: "algebra-02-conjuntos",      cap: "Cap. II",    nombre: "Teoría de conjuntos", pdf: "" },
         { id: "algebra-03-exponentes",     cap: "Cap. III",   nombre: "Teoría de exponentes", pdf: "" },
         { id: "algebra-04-ec-exponenciales", cap: "Cap. IV",  nombre: "Ecuaciones exponenciales", pdf: "" },
-        { id: "algebra-05-expresiones",    cap: "Cap. V",     nombre: "Expresiones algebraicas", pdf: "" },
+        { id: "algebra-05-expresiones",    cap: "Cap. V",     nombre: "Grados y polinomios", pdf: "" },
         { id: "algebra-06-productos",      cap: "Cap. VI",    nombre: "Productos notables", pdf: "" },
         { id: "algebra-07-division",       cap: "Cap. VII",   nombre: "División algebraica", pdf: "" },
         { id: "algebra-08-cocientes",      cap: "Cap. VIII",  nombre: "Cocientes notables", pdf: "" },
