@@ -1,5 +1,5 @@
 // ================================================================
-// Cap. V · EXPRESIONES ALGEBRAICAS
+// Cap. V · GRADOS Y POLINOMIOS
 // Para agregar problemas, copia este modelo debajo y llénalo
 // (sin las barras // del comienzo):
 //

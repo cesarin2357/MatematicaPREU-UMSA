@@ -19,8 +19,8 @@ Calcular: $E=\left[\sqrt[\sqrt{\sqrt{\sqrt{\sqrt{2}}}}]{\sqrt[\sqrt{\sqrt{\sqrt{
 A) $1$
 B) $2$
 C) $4$
-D) ∜2
-E) √2 *
+D) $\sqrt[4]{2}$
+E) $\sqrt{2}$ *
 video:
 
 ## 2
@@ -29,7 +29,7 @@ A) $5$
 B) $5^{5}$ *
 C) $5^{2}$
 D) $5^{25}$
-E) $5^{1/5}$
+E) $\sqrt[5]{5}$
 video:
 
 ## 3
@@ -47,14 +47,14 @@ A) $1$
 B) $X$
 C) $Y$ *
 D) $XY$
-E) √Y
+E) $\sqrt{Y}$
 video:
 
 ## 5
 Si $E=16$, calcular $X$ siendo: $E=\left(4^{X^{X}}\right)\left(4^{-X^{X}}\right)\left(4^{X^{-X}}\right)\left(4^{-X^{-X}}\right)\left(2^{X^{X}}\right)$
 A) $4$
 B) $16$
-C) √2
+C) $\sqrt{2}$
 D) $2$ *
 E) $\frac{1}{2}$
 video:
@@ -83,7 +83,7 @@ A) $2$
 B) $8$
 C) $4$ *
 D) $16$
-E) √2
+E) $\sqrt{2}$
 video:
 
 ## 9
@@ -117,7 +117,7 @@ video:
 Si: $-2^{-2^{-p}}=-4^{-4^{-q}}$, determine el valor de: $M=\sqrt[\sqrt{2}]{\sqrt[\sqrt{2^{p}}]{2^{2^{q}}}}$
 A) $1$
 B) $4$
-C) √2
+C) $\sqrt{2}$
 D) $\frac{1}{2}$
 E) $2$ *
 video:
@@ -146,14 +146,14 @@ A) $2$
 B) $4$ *
 C) $8$
 D) $16$
-E) √2
+E) $\sqrt{2}$
 video:
 
 ## 16
 Si $abc=2\sqrt[7]{2}$, calcular: $F=\sqrt{a\sqrt{b\sqrt{c}}}\sqrt{b\sqrt{c\sqrt{a}}}\sqrt{c\sqrt{a\sqrt{b}}}$
 A) $1$
 B) $4$
-C) √2
+C) $\sqrt{2}$
 D) $2$ *
 E) $2^{\frac{8}{7}}$
 video:
@@ -162,8 +162,8 @@ video:
 Si: $X^{X^{X+5}}=\sqrt[3]{3}$, hallar el valor de: $E=X^{X^{3X^{X+5}+X+5}}$
 A) $9$
 B) $27$
-C) √3
-D) ∛3
+C) $\sqrt{3}$
+D) $\sqrt[3]{3}$
 E) $3$ *
 video:
 
@@ -181,8 +181,8 @@ Simplificar: $E=\sqrt[\sqrt{5}^{\sqrt{5}^{\sqrt{5}}}]{\sqrt[\sqrt{5}^{\sqrt{5}}]
 A) $5$ *
 B) $1$
 C) $25$
-D) √5
-E) $5^{\surd 5}$
+D) $\sqrt{5}$
+E) $5^{\sqrt{5}}$
 video:
 
 ## 20
@@ -200,5 +200,5 @@ A) $1$
 B) $4$
 C) $2$ *
 D) $8$
-E) √2
+E) $\sqrt{2}$
 video:
