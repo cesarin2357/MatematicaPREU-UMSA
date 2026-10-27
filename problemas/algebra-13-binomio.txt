@@ -13,3 +13,399 @@
 // E) opción
 // video:
 // ================================================================
+
+## 1
+Hallar el término de lugar 6 en la expansión de: $\left(x^{3}+2y\right)^{6}$
+A) $192x^{3}y^{5}$ *
+B) $160x^{3}y^{5}$
+C) $192x^{5}y^{3}$
+D) $12x^{3}y^{5}$
+E) $64x^{3}y^{5}$
+video:
+
+## 2
+En la expansión de $\left(x^{7}+\frac{1}{2x}\right)^{10}$, hallar el término de lugar 8 contado a partir del extremo final.
+A) $15x^{22}$
+B) $15x^{46}$ *
+C) $30x^{46}$
+D) $120x^{46}$
+E) $\frac{15}{2}x^{38}$
+video:
+
+## 3
+Hallar el lugar que ocupa el término del desarrollo de $\left(3x^{2}+\frac{4}{x}\right)^{18}$ que tiene como parte literal a $x^{15}$.
+A) Lugar 7
+B) Lugar 9
+C) Lugar 8 *
+D) Lugar 6
+E) Lugar 10
+video:
+
+## 4
+En la expansión de $S(x)=\left(x^{3}+\frac{1}{2x}\right)^{n}$, el término de lugar 9 contado a partir del extremo inicial tiene por grado 64. ¿A qué potencia se deberá elevar el binomio?
+A) $30$
+B) $24$
+C) $28$
+D) $32$ *
+E) $36$
+video:
+
+## 5
+Calcule $n$ en el desarrollo de $\left(x^{2}+y^{5}\right)^{n}$ si el coeficiente del tercer término es 136.
+A) $16$
+B) $18$
+C) $15$
+D) $34$
+E) $17$ *
+video:
+
+## 6
+La suma de los exponentes de todos los términos del desarrollo de $S(x;y)=\left(x^{6}+y^{4}\right)^{30}$ es:
+A) $4650$ *
+B) $3100$
+C) $300$
+D) $9300$
+E) $4500$
+video:
+
+## 7
+Calcule el coeficiente del término de lugar 3 de la expansión de $\left(x^{3}+xy\right)^{n}$, si posee un término cuya parte literal es $x^{26}y^{11}$
+A) $105$
+B) $120$ *
+C) $136$
+D) $91$
+E) $560$
+video:
+
+## 8
+Hallar el número de términos del desarrollo de $\left(\frac{x^{4}}{y^{3}}+\frac{y^{4}}{x}\right)^{6n+2}$ si el término de lugar 35 tiene $x$ con exponente 30.
+A) $50$
+B) $52$
+C) $51$ *
+D) $44$
+E) $35$
+video:
+
+## 9
+Hallar el término independiente de $x$, si existe, en la expansión de: $\left(\sqrt[3]{x}+\frac{1}{\sqrt[6]{x}}\right)^{12}$
+A) $792$
+B) $220$
+C) $924$
+D) $495$ *
+E) $66$
+video:
+
+## 10
+Teniendo en cuenta el desarrollo de $\left(\sqrt[3]{x}+\frac{1}{\sqrt[4]{x}}\right)^{75}$, indicar el valor de verdad de cada proposición: I. El número de términos irracionales es 60. II. El número de términos fraccionarios es 3. III. El término independiente de $x$ ocupa el décimo tercer lugar.
+A) VVF
+B) FFF
+C) VFV
+D) FVV
+E) FVF *
+video:
+
+## 11
+Si $x=\frac{1}{2}$, hallar el máximo término en el desarrollo de $(1+3x)^{8}$
+A) Lugar 6 *
+B) Lugar 5
+C) Lugar 4
+D) Lugar 7
+E) Lugar 3
+video:
+
+## 12
+Calcular $n$ si al desarrollar $\left(x^{6}-1\right)^{6}\left(x^{4}+x^{2}+1\right)^{2n}\left(x^{2}-1\right)^{2n}$ se obtienen 27 términos.
+A) $12$
+B) $10$ *
+C) $13$
+D) $9$
+E) $8$
+video:
+
+## 13
+Hallar el número de términos en el desarrollo de $S(x;y)=\left(x^{3}+y^{7}\right)^{n}$ si la suma de los grados absolutos de todos los términos es igual a 550.
+A) $10$
+B) $12$
+C) $11$ *
+D) $9$
+E) $22$
+video:
+
+## 14
+Calcular el valor de $n$ si el número de términos del desarrollo de $(x+y+z+t)^{n}$ es 2925.
+A) $23$
+B) $25$
+C) $22$
+D) $24$ *
+E) $26$
+video:
+
+## 15
+Sabiendo que el desarrollo de $(a+b+c+d)^{n}$ admite 120 términos, indicar cuántos términos tendrá el desarrollo de $(p+q+r)^{n}$
+A) $28$
+B) $45$
+C) $21$
+D) $120$
+E) $36$ *
+video:
+
+## 16
+En la expansión de $\left(x^{5}+ax^{-3}\right)^{m}$, los coeficientes de los términos de lugares 5 y 13 son iguales. Hallar el término independiente de $x$.
+A) $8008a^{10}$ *
+B) $8008a^{6}$
+C) $12870a^{8}$
+D) $4368a^{10}$
+E) $11440a^{10}$
+video:
+
+## 17
+La suma de coeficientes de $(x+2)^{n}$ es 27 veces la suma de coeficientes de $(x+2)^{m}$. Al sumar los coeficientes de ambos desarrollos resulta 6804. Halle $m+n$
+A) $12$
+B) $13$ *
+C) $14$
+D) $15$
+E) $11$
+video:
+
+## 18
+Hallar el valor de $m$ en el binomio $(1+x)^{m}$ si los coeficientes de los términos segundo, tercero y cuarto forman una progresión aritmética.
+A) $4$
+B) $5$
+C) $7$ *
+D) $9$
+E) $14$
+video:
+
+## 19
+El binomio $\left(a^{2}+b^{2}\right)^{n}$ tiene un término cuya parte literal es $a^{22}b^{8}$. Si los coeficientes de los términos de lugares $(k-2)$ y $(2k-13)$ son iguales, hallar el grado del término de lugar $(k+3)$
+A) $28$
+B) $32$
+C) $26$
+D) $30$ *
+E) $34$
+video:
+
+## 20
+En el desarrollo de $P(x;y)=\left(4x^{4}+3y^{3}\right)^{n}$, la diferencia de grados de los términos de lugar 8 contados de izquierda a derecha y de derecha a izquierda es 6. Halle $n$
+A) $18$
+B) $22$
+C) $26$
+D) $14$
+E) $20$ *
+video:
+
+## 21
+Dado el polinomio $\left(\frac{x^{6}}{9}+\frac{36}{x^{2}}-4x^{2}\right)^{19}$, indique el valor de verdad de los siguientes enunciados: I. El número de términos del desarrollo es 19. II. El desarrollo sólo tiene un término central. III. La suma de los coeficientes de todos los términos es $\frac{17}{3}$.
+A) FVF *
+B) VVF
+C) VFF
+D) FVV
+E) FFF
+video:
+
+## 22
+Halle la suma de coeficientes de los cuatro primeros términos del siguiente desarrollo: $\frac{1}{1+5x+10x^{2}+10x^{3}+5x^{4}+x^{5}}$
+A) $24$
+B) $-24$ *
+C) $-10$
+D) $-35$
+E) $15$
+video:
+
+## 23
+En el desarrollo de $\left(a^{2}+a+b\right)^{8}$, indicar el coeficiente del término de la forma $a^{10}b^{k}$, donde $k$ es un número par no nulo.
+A) $280$
+B) $560$
+C) $420$ *
+D) $70$
+E) $840$
+video:
+
+## 24
+Determine el valor de $n$ si el término de lugar 31 en la expansión de $\left(x^{2}+\frac{1}{x^{3}}\right)^{n}$ contiene a $x^{22}$
+A) $80$
+B) $92$
+C) $76$
+D) $86$ *
+E) $96$
+video:
+
+## 25
+Determine el coeficiente del término en $x^{10}$ del desarrollo de $\left(1+2x^{2}+2x^{4}\right)^{7}$
+A) $3360$
+B) $2240$
+C) $4032$
+D) $2688$
+E) $3752$ *
+video:
+
+## 26
+Determine el valor del término independiente del desarrollo de: $\left(x+\frac{1}{x}+1\right)^{5}$
+A) $51$ *
+B) $31$
+C) $45$
+D) $41$
+E) $61$
+video:
+
+## 27
+Si $mx^{a}y^{2}$ y $nx^{22}y^{-b}$ son términos del desarrollo de $\left(\frac{2x^{3}}{y}+\frac{y^{3}}{2x}\right)^{10}$, entonces $m+n$ es:
+A) $2880$
+B) $4800$ *
+C) $1920$
+D) $3840$
+E) $5760$
+video:
+
+## 28
+Si en el desarrollo de $\left(2x^{-3}+3x^{2}\right)^{n}$ el mayor exponente de $x$ es 24, determine el coeficiente del término que contiene a $x^{4}$ para el valor mínimo de $n$.
+A) $7920(3)^{4}$
+B) $495(3)^{8}$
+C) $7920(3)^{8}$ *
+D) $3960(3)^{8}$
+E) $7920(2)^{8}$
+video:
+
+## 29
+Determine el coeficiente de $x^{62}$ en el desarrollo de $\left(x^{4}+\frac{1}{x^{2}}\right)^{20}$. Dar como respuesta la suma de sus cifras.
+A) $3$
+B) $9$
+C) $7$
+D) $6$ *
+E) $4$
+video:
+
+## 30
+La suma de los coeficientes de los términos primero, segundo y tercero del desarrollo de $\left(\sqrt[4]{x}+\frac{1}{\sqrt[5]{x}}\right)^{n}$ es 46. Obtener el término independiente del desarrollo, $n\in\mathbb{N}$
+A) $84$
+B) $36$
+C) $9$
+D) $252$
+E) $126$ *
+video:
+
+## 31
+¿Cuál(es) de los siguientes enunciados son correctos? I. Al desarrollar $\left(3x^{5}+\frac{1}{x}\right)^{32}$, el término independiente ocupa el lugar 13. II. El número de términos racionales al desarrollar $\left(\sqrt[5]{x}+x^{-1}\right)^{32}$ es 7. III. El término de grado 19 al desarrollar $\left(x^{2}\sqrt{x}+x^{-1}\right)^{30}$ ocupa el lugar 14 contado desde el final.
+A) Solo II *
+B) Solo I
+C) Solo III
+D) I y II
+E) II y III
+video:
+
+## 32
+Determine el valor de $M$ si el sexto término del desarrollo de $\left(M+\frac{x}{y^{4}}\right)^{12}$ es $792x^{26}y^{-6}$
+A) $x^{2}y^{3}$
+B) $x^{3}y^{2}$ *
+C) $x^{4}y^{2}$
+D) $x^{3}y^{4}$
+E) $xy^{2}$
+video:
+
+## 33
+Determine el número de términos que son fraccionarios en el desarrollo de: $\left(x^{6}+2x^{2}+\frac{1}{x^{2}}\right)^{70}$
+A) $70$
+B) $36$
+C) $35$ *
+D) $140$
+E) $34$
+video:
+
+## 34
+¿Qué lugar ocupa el término central del desarrollo de $\left(\frac{x^{n+1}}{b}+\frac{bn}{x}\right)^{6n+2}$ si se sabe que en su expansión hay 21 términos?
+A) Lugar 10
+B) Lugar 21
+C) Lugar 12
+D) Lugar 11 *
+E) Lugar 20
+video:
+
+## 35
+La diferencia del número de términos de los binomios $(x+y)^{m}$ y $(x+y)^{n}$ es 2, y el producto de dichos binomios posee 3 términos más que el primero. Entonces el valor de $2m+n$ es:
+A) $11$
+B) $15$
+C) $9$
+D) $17$
+E) $13$ *
+video:
+
+## 36
+Si en el desarrollo de $\left(ax^{a}+bx^{b}\right)^{n}$ los términos de lugares $(a+3)$ y $(b-1)$ equidistan de los extremos y además la suma de todos sus coeficientes es 27, hallar la suma de todos sus exponentes.
+A) $18$ *
+B) $9$
+C) $27$
+D) $12$
+E) $6$
+video:
+
+## 37
+Hallar $n$ para que el $t_{25}$ del desarrollo de $\left(\frac{x^{2}}{y}+\frac{y^{2}}{\sqrt{x}}\right)^{5n+2}$ contenga a $x$ con exponente 44.
+A) $8$
+B) $10$ *
+C) $12$
+D) $9$
+E) $11$
+video:
+
+## 38
+¿Cuál es el número de términos en el desarrollo de $\left(\frac{n}{8}x+y\right)^{n}$ si los coeficientes de los términos de lugares 7 y 8 son iguales?
+A) $48$
+B) $50$
+C) $49$ *
+D) $47$
+E) $56$
+video:
+
+## 39
+Hallar el término central del desarrollo de $\left(a\sqrt[-2]{a}-\sqrt[5]{\frac{a^{-2}}{\sqrt{a}}}\right)^{m}$, sabiendo que el coeficiente del quinto término es al coeficiente del tercero como 14 es a 3.
+A) $252$
+B) $-210$
+C) $210$
+D) $-252$ *
+E) $-126$
+video:
+
+## 40
+Hallar para qué valores de $x$ la suma de los términos tercero y quinto en el desarrollo de $\left(\sqrt{2^{x}}+\frac{1}{\sqrt{2^{x-1}}}\right)^{m}$ es igual a 135, sabiendo que la suma de los coeficientes binómicos de los tres últimos términos es igual a 22.
+A) $x=1$; $x=-2$
+B) $x=2$; $x=1$
+C) $x=3$; $x=-1$
+D) $x=-2$; $x=-1$
+E) $x=2$; $x=-1$ *
+video:
+
+## 41
+En el desarrollo de $(x+y)^{39}$, el término del lugar 15 contiene a $x^{a}y^{b}$. Calcular el valor de $E=a+b$
+A) $39$ *
+B) $25$
+C) $14$
+D) $40$
+E) $38$
+video:
+
+## 42
+La suma de los coeficientes de los términos primero, segundo y tercero del desarrollo de $\left(x^{2}+\frac{1}{x}\right)^{m}$ es igual a 46. Hallar el término que no contiene a $x$.
+A) $t_{6}$
+B) $t_{7}$ *
+C) $t_{5}$
+D) $t_{8}$
+E) $t_{4}$
+video:
+
+## 43
+Hallar el término del desarrollo de $\left(x\sqrt{x}+\sqrt[-3]{x}\right)^{m}$ que contiene a $x^{5}$, sabiendo que la suma de todos los coeficientes es igual a 128.
+A) $t_{3}$
+B) $t_{5}$
+C) $t_{4}$ *
+D) $t_{2}$
+E) $t_{6}$
+video:
+
+## 44
+En el desarrollo de $\left(\sqrt[3]{\frac{x}{\sqrt{y}}}+\sqrt{\frac{y}{\sqrt[3]{x}}}\right)^{21}$, calcular el lugar que ocupa el término que contiene a $x$ y a $y$ elevados a la misma potencia.
+A) $t_{9}$
+B) $t_{11}$
+C) $t_{8}$
+D) $t_{10}$ *
+E) $t_{12}$
+video:

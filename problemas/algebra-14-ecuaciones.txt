@@ -13,3 +13,714 @@
 // E) opción
 // video:
 // ================================================================
+
+## 1
+Un valor de $x$ que satisface la ecuación $(x+3)^{2}+(x+2)^{2}+(x+1)^{2}=14$ es:
+A) $4$
+B) $-2$
+C) $-4$ *
+D) $-3$
+E) $2$
+video:
+
+## 2
+Un valor de $x$ que satisface la ecuación $(x+1)(x+2)(x-1)-(x-1)^{3}=8(x+1)$ es:
+A) $\frac{3}{5}$
+B) $-\frac{3}{5}$ *
+C) $-\frac{5}{3}$
+D) $\frac{5}{3}$
+E) $-1$
+video:
+
+## 3
+Si $\{a;b\}$ es el conjunto solución de la ecuación $3x^{2}-2(m+1)x+m-1=0$, determine $m$ para que se verifique: $9ab^{2}+3a^{3}+3b^{3}+9a^{2}b=192$
+A) $3$
+B) $4$
+C) $7$
+D) $5$ *
+E) $9$
+video:
+
+## 4
+Si $a$ y $b$ son constantes en $\mathbb{R}$ y las raíces de la ecuación $x^{2}+ax+b=0$ son los cuadrados de las raíces de la ecuación $2x^{2}+x-6=0$, evaluar: $|4a+b|$
+A) $8$
+B) $12$
+C) $4$
+D) $20$
+E) $16$ *
+video:
+
+## 5
+¿Para qué valores de $m$ las raíces de la ecuación $\left(x^{2}-bx\right)(m+1)=amx-ax-cm+c$ son de signo contrario e iguales en valor absoluto?
+A) $\frac{a-b}{a+b}$ *
+B) $\frac{a+b}{a-b}$
+C) $\frac{b-a}{a+b}$
+D) $\frac{a}{b}$
+E) $ab$
+video:
+
+## 6
+Si las ecuaciones $ax^{2}+bx+c=0$ y $px^{2}+qx+r=0$ tienen una raíz común, calcular: $M=\frac{(br-cq)(aq-bp)}{(cp-ar)^{2}}$, donde $c\neq0$ y $r\neq0$
+A) $-1$
+B) $1$ *
+C) $0$
+D) $2$
+E) $\frac{1}{2}$
+video:
+
+## 7
+Siendo $x_{1}$, $x_{2}$ y $x_{3}$ las raíces de la ecuación $x^{3}-5x^{2}+7x-12=0$, calcular el valor de: $P=\frac{1}{x_{1}x_{2}}+\frac{1}{x_{1}x_{3}}+\frac{1}{x_{2}x_{3}}$
+A) $\frac{7}{12}$
+B) $\frac{12}{5}$
+C) $\frac{5}{12}$ *
+D) $-\frac{5}{12}$
+E) $\frac{1}{12}$
+video:
+
+## 8
+Determine el mayor valor que asume $m$ para que una de las raíces de la ecuación $10x^{2}-11x+3=0$ sea también raíz de la ecuación $6x^{2}-7x+m=0$
+A) $2$
+B) $\frac{12}{5}$
+C) $\frac{49}{25}$
+D) $\frac{51}{25}$ *
+E) $1$
+video:
+
+## 9
+Siendo $a$, $b$ y $c$ raíces de la ecuación $x^{3}-2x+5=0$, calcular el valor de: $P=\left(a^{3}+b^{3}+c^{3}\right)\left(a^{2}+b^{2}+c^{2}\right)$
+A) $60$
+B) $-40$
+C) $20$
+D) $-20$
+E) $-60$ *
+video:
+
+## 10
+Determine aquel valor de $m$ tal que la suma de los cuadrados de las raíces del polinomio $P(x)=-x^{2}+(m-2)x+m+3$ sea la más pequeña posible.
+A) $1$ *
+B) $0$
+C) $2$
+D) $-1$
+E) $3$
+video:
+
+## 11
+Formar una ecuación bicuadrada que tenga por dos de sus raíces a $-2\sqrt{3}$ y 5.
+A) $x^{4}+37x^{2}+300=0$
+B) $x^{4}-37x^{2}+300=0$ *
+C) $x^{4}-37x^{2}-300=0$
+D) $x^{4}-13x^{2}+300=0$
+E) $x^{4}-37x^{2}+60=0$
+video:
+
+## 12
+Si una de las raíces de la ecuación $3x^{3}-18x^{2}+mx-60=0$ $(m\in\mathbb{R})$ es la media aritmética de las otras dos, calcular la suma de las inversas de estas 2 raíces.
+A) $\frac{5}{2}$
+B) $\frac{3}{5}$
+C) $\frac{2}{5}$ *
+D) $\frac{1}{2}$
+E) $\frac{4}{5}$
+video:
+
+## 13
+Determinar la suma de las raíces racionales del polinomio: $P(x)=x^{4}-x^{3}-11x^{2}-x-12$
+A) $-1$
+B) $7$
+C) $4$
+D) $1$ *
+E) $-3$
+video:
+
+## 14
+Resolver la ecuación $(x-16)^{3}+(11-x)^{3}+15x^{2}=-65$ e indicar una solución.
+A) $\frac{3}{20}$
+B) $-\frac{20}{3}$
+C) $5$
+D) $4$
+E) $\frac{20}{3}$ *
+video:
+
+## 15
+Si $m$ y $n$ son raíces de la ecuación $\frac{3}{5}\left(\frac{4x^{2}-x+1}{x^{2}-x+1}\right)+\frac{(x-2)^{2}}{x^{2}+x-1}=3$, hallar el valor de: $P=m^{n}+n^{m}$
+A) $8$ *
+B) $4$
+C) $2$
+D) $16$
+E) $6$
+video:
+
+## 16
+Las raíces de la ecuación $x^{2}+bx+c=0$ son ambas reales y mayores que 1. Sea $S=b+c+1$, entonces $S$:
+A) Debe ser menor que cero
+B) Debe ser mayor que cero *
+C) Debe ser igual a cero
+D) Puede ser cualquier número real
+E) Debe ser mayor que 1
+video:
+
+## 17
+Siendo $x_{1}$ y $x_{2}$ las raíces de la ecuación $x^{2}+4x+7=0$, calcular: $P=\frac{x_{1}^{4}-x_{2}^{4}}{x_{1}-x_{2}}$
+A) $8$
+B) $-16$
+C) $-8$ *
+D) $4$
+E) $-4$
+video:
+
+## 18
+Encontrar el mayor valor entero que asume el producto de las raíces de la ecuación cuadrática que no posee raíces reales, si sus coeficientes son positivos y se encuentran en progresión aritmética.
+A) $12$
+B) $14$
+C) $7$
+D) $13$ *
+E) $15$
+video:
+
+## 19
+¿Cuál es la suma de los valores enteros que asume el cociente que se obtiene de dividir el cuadrado de la suma entre el producto de las raíces de una ecuación cuadrática de coeficientes positivos, si no presenta raíces reales, sabiendo que la ecuación cuadrática que se forma con los cuadrados de los coeficientes de la ecuación anterior posee raíces reales distintas?
+A) $5$
+B) $2$
+C) $7$
+D) $4$
+E) $3$ *
+video:
+
+## 20
+Dada la ecuación $x^{3}-28x+2m=0$, hallar $m$ tal que una raíz sea el doble de la otra.
+A) $\{24;-24\}$ *
+B) $\{12;-12\}$
+C) $\{24\}$
+D) $\{48;-48\}$
+E) $\{28;-28\}$
+video:
+
+## 21
+La ecuación $5^{4}(x-2)^{3}(x-4)^{5}(x+1)=0$: I. Presenta 4 raíces. II. Presenta 9 raíces. III. Presenta 3 soluciones. Son correctas:
+A) Solo I
+B) II y III *
+C) I y III
+D) Solo II
+E) Todas
+video:
+
+## 22
+A partir de la ecuación $x^{3}-(n+3)x^{2}-(n+1)x+n^{2}+1=0$, calcule el valor de $n$ tal que la expresión $P=x_{1}^{2}+x_{2}^{2}+x_{3}^{2}$ adopte su mínimo valor, siendo $x_{1}$, $x_{2}$, $x_{3}$ raíces de la ecuación.
+A) $4$
+B) $-3$
+C) $-4$ *
+D) $-8$
+E) $2$
+video:
+
+## 23
+Siendo $a$, $b$ y $c$ raíces de la ecuación $2x^{3}-6x^{2}+7x+1=0$, halle: $a^{2}+b^{2}+c^{2}$
+A) $9$
+B) $5$
+C) $16$
+D) $2$ *
+E) $-2$
+video:
+
+## 24
+Construir la ecuación con coeficientes racionales de grado mínimo que tenga como raíces los números $1$; $1+\sqrt{2}$; $3i$. Dar como respuesta el coeficiente de su término lineal.
+A) $-26$
+B) $10$
+C) $-3$
+D) $18$
+E) $9$ *
+video:
+
+## 25
+Si 2 es una raíz de la ecuación $x^{4}-5x^{3}+6x^{2}+4x-8=0$, indicar su multiplicidad.
+A) Es de multiplicidad tres *
+B) Es de multiplicidad dos
+C) Es de multiplicidad uno
+D) Es de multiplicidad cuatro
+E) Es de multiplicidad cinco
+video:
+
+## 26
+Sean $x_{1}$, $x_{2}$ y $x_{3}$ raíces de la ecuación $x^{3}-5x+7=0$. Calcular el valor de: $P=x_{1}^{5}+x_{2}^{5}+x_{3}^{5}$
+A) $175$
+B) $-175$ *
+C) $-35$
+D) $-125$
+E) $70$
+video:
+
+## 27
+Luego de resolver la ecuación $\left(\frac{x+a}{x+b}\right)^{2}+\left(\frac{x-a}{x-b}\right)^{2}=\left(\frac{x^{2}-a^{2}}{x^{2}-b^{2}}\right)\left(\frac{a}{b}+\frac{b}{a}\right)$; $a\neq b$, señalar el número de sus soluciones.
+A) $2$
+B) $3$
+C) $4$ *
+D) $1$
+E) $0$
+video:
+
+## 28
+Resuelva la ecuación en $x$: $\sqrt{2x+5}+\sqrt{x-1}=8$
+A) $5$
+B) $12$
+C) $2$
+D) $10$ *
+E) $8$
+video:
+
+## 29
+Indique el producto de las soluciones de la ecuación: $\frac{1}{5}\left(\frac{5x+1}{5x-1}\right)^{2}+\frac{1}{3}\left(\frac{3x-1}{3x+1}\right)^{2}=\frac{8}{15}$
+A) $1$
+B) $-1$
+C) $\frac{1}{15}$
+D) $\frac{15}{8}$
+E) $0$ *
+video:
+
+## 30
+Si la ecuación $x^{4}+39x-22=0$ tiene dos raíces que suman 3, hallar la suma de las inversas de las otras dos raíces.
+A) $\frac{3}{2}$ *
+B) $\frac{2}{3}$
+C) $-\frac{3}{2}$
+D) $\frac{3}{11}$
+E) $\frac{1}{2}$
+video:
+
+## 31
+Resolver la ecuación: $\frac{x+1}{x+a+b}+\frac{a-b+1}{x+a-b}=1$
+A) $\frac{a}{b+1}$
+B) $\frac{a}{b-1}$ *
+C) $\frac{b}{a-1}$
+D) $\frac{a+b}{b-1}$
+E) $-\frac{a}{b-1}$
+video:
+
+## 32
+Calcular el valor de $m$ para que la ecuación en $x$: $\frac{2mx-3}{x-1}+\frac{3mx-2}{x+1}=2m+3$ se reduzca a una ecuación lineal.
+A) $-1$
+B) $0$
+C) $1$ *
+D) $3$
+E) $\frac{2}{3}$
+video:
+
+## 33
+Resolver la ecuación: $\sqrt[3]{x}+\sqrt[5]{x+5}=5$
+A) $8$
+B) $64$
+C) $32$
+D) $27$ *
+E) $1$
+video:
+
+## 34
+Hallar el valor de $m$ en la ecuación $x^{2}-2mx+m^{2}-4=0$ de modo que una de las raíces aumentada en 2 sea el triple de la otra y que ambas sumen un valor positivo.
+A) $3$
+B) $4$
+C) $7$
+D) $1$
+E) $5$ *
+video:
+
+## 35
+Resolver la ecuación: $\frac{x+\sqrt{x}}{x-\sqrt{x}}=\frac{(x-1)x}{4}$
+A) $4$ *
+B) $1$
+C) $9$
+D) $16$
+E) $2$
+video:
+
+## 36
+¿Para qué valor de $m$ las soluciones de la ecuación $\frac{x^{2}+3x}{5x+12}=\frac{m-1}{m+1}$ serán iguales en magnitud, pero de signos contrarios?
+A) $-4$
+B) $4$ *
+C) $1$
+D) $3$
+E) $5$
+video:
+
+## 37
+Dadas las ecuaciones cuadráticas en $x$: (1) $x^{2}-5x+2m=0$ y (2) $x^{2}+6x-8m=0$, hallar el valor de $m$ para que una de las raíces de la ecuación (1) sea el doble de una de las raíces de la ecuación (2).
+A) $1$
+B) $3$
+C) $2$ *
+D) $-2$
+E) $4$
+video:
+
+## 38
+Resolver: $a\left(\sqrt{x}-a\right)-b\left(\sqrt{x}-b\right)+a+b=\sqrt{x}$
+A) $(a-b)^{2}$
+B) $a+b$
+C) $a^{2}+b^{2}$
+D) $(a+b)^{2}$ *
+E) $(a+b+1)^{2}$
+video:
+
+## 39
+Resolver: $\frac{2x+a}{b}-\frac{b-x}{a}=\frac{3ax+(a-b)^{2}}{ab}$
+A) $2a$
+B) $b$
+C) $a+b$
+D) $-2b$
+E) $2b$ *
+video:
+
+## 40
+Resolver: $\frac{x-1}{n-1}+\frac{2n^{2}(1-x)}{n^{4}-1}=\frac{2x-1}{1-n^{4}}-\frac{1-x}{1+n}$
+A) $\frac{3}{4}$ *
+B) $\frac{4}{3}$
+C) $\frac{1}{2}$
+D) $-\frac{3}{4}$
+E) $1$
+video:
+
+## 41
+Resolver: $\frac{x-ab}{a+b}+\frac{x-ac}{a+c}+\frac{x-bc}{b+c}=a+b+c$
+A) $a+b+c$
+B) $ab+bc+ac$ *
+C) $abc$
+D) $a^{2}+b^{2}+c^{2}$
+E) $-(ab+bc+ac)$
+video:
+
+## 42
+Resolver: $\frac{2x}{x+b}-\frac{x}{b-x}=\frac{b^{2}}{4\left(x^{2}-b^{2}\right)}$
+A) $-\frac{b}{2}$ y $\frac{b}{6}$
+B) $\frac{b}{2}$ y $\frac{b}{6}$
+C) $\frac{b}{2}$ y $-\frac{b}{6}$ *
+D) $b$ y $-\frac{b}{3}$
+E) $\frac{b}{3}$ y $-\frac{b}{6}$
+video:
+
+## 43
+Resolver: $\sqrt{\frac{x}{1-x}}-\frac{13}{6}=-\sqrt{\frac{1-x}{x}}$
+A) $\frac{2}{3}$ y $\frac{1}{3}$
+B) $\frac{4}{9}$ y $\frac{9}{4}$
+C) $\frac{3}{13}$ y $\frac{10}{13}$
+D) $\frac{9}{13}$ y $\frac{4}{13}$ *
+E) $\frac{13}{9}$ y $\frac{13}{4}$
+video:
+
+## 44
+Resolver la ecuación: $\left(\frac{6z^{5}-5z^{3}}{z^{7}}\right)\sqrt{1-z^{2}}-3\left(\frac{\frac{z^{2}}{\sqrt{1-z^{2}}}+1+\sqrt{1-z^{2}}}{z}\right)+\frac{3z^{2}+2z}{z^{3}\sqrt{1-z^{2}}}+\frac{3}{z}=0$
+A) $\pm1$
+B) $\pm\frac{1}{2}$
+C) $\pm\sqrt{2}$
+D) $\pm\frac{\sqrt{3}}{2}$
+E) $\pm\sqrt{\frac{1}{2}}$ *
+video:
+
+## 45
+Resolver la ecuación: $\frac{x-1}{x+\frac{x}{x-1}}+\frac{x-1}{x-\frac{x}{x+1}}=\frac{16}{9}$
+A) $9$ *
+B) $3$
+C) $7$
+D) $8$
+E) $\frac{16}{9}$
+video:
+
+## 46
+Resolver: $\sqrt{x+2}+\sqrt{2x+2}=\sqrt{6x+7}$
+A) $1$ y $7$
+B) $-1$ y $7$ *
+C) $-1$ y $-7$
+D) $2$ y $7$
+E) $-2$ y $7$
+video:
+
+## 47
+Resolver: $\sqrt{2x+\sqrt{4x-3}}=3$
+A) $1$
+B) $\frac{7}{2}$
+C) $3$ *
+D) $2$
+E) $7$
+video:
+
+## 48
+Resolver: $\frac{\sqrt{x^{2}-16}}{\sqrt{x-3}}+\sqrt{x+3}=\frac{7}{\sqrt{x-3}}$
+A) $3$
+B) $4$
+C) $6$
+D) $5$ *
+E) $7$
+video:
+
+## 49
+Resolver: $\sqrt{2\sqrt{7}+\sqrt{x}}-\sqrt{2\sqrt{7}-\sqrt{x}}=\sqrt[4]{28}$
+A) $7$
+B) $14$
+C) $28$
+D) $49$
+E) $21$ *
+video:
+
+## 50
+Resolver: $\sqrt[3]{7+\sqrt{x}}+\sqrt[3]{7-\sqrt{x}}=2$
+A) $50$ *
+B) $49$
+C) $25$
+D) $2$
+E) $100$
+video:
+
+## 51
+Resolver (con $a>0$, $c>0$): $\frac{\sqrt{1+a^{2}x^{2}}-ax}{\sqrt{1+a^{2}x^{2}}+ax}=\frac{1}{c^{2}}$
+A) $x=\frac{c^{2}+1}{2ac}$
+B) $x=\frac{c^{2}-1}{2ac}$ *
+C) $x=\frac{c^{2}-1}{ac}$
+D) $x=\frac{c-1}{2a}$
+E) $x=\frac{2ac}{c^{2}-1}$
+video:
+
+## 52
+Resolver: $\frac{x\sqrt[3]{x}-1}{\sqrt[3]{x^{2}}-1}-\frac{\sqrt[3]{x^{2}}-1}{\sqrt[3]{x}+1}=4$
+A) $1$
+B) $27$
+C) $8$ *
+D) $4$
+E) $64$
+video:
+
+## 53
+Hallar el valor de $k$ en la ecuación $(2k+2)x^{2}+(4-4k)x+k-2=0$ de tal manera que sus raíces sean recíprocas.
+A) $4$
+B) $-2$
+C) $2$
+D) $-4$ *
+E) $\frac{1}{2}$
+video:
+
+## 54
+En la ecuación de segundo grado $kx^{2}+5x^{2}+3kx-2k=7$, hallar el valor de $k$ de modo que la primera raíz sea igual a la mitad del recíproco de la segunda raíz.
+A) $\frac{19}{5}$
+B) $-\frac{5}{19}$
+C) $-1$
+D) $\frac{7}{5}$
+E) $-\frac{19}{5}$ *
+video:
+
+## 55
+Calcular el valor de $k$ en la ecuación $9x^{2}-2=kx$ de tal manera que la diferencia de sus raíces sea la unidad.
+A) $3$ y $-3$ *
+B) $9$ y $-9$
+C) $1$ y $-1$
+D) $6$ y $-6$
+E) $2$ y $-2$
+video:
+
+## 56
+Hallar $m$ para que en la ecuación $2x^{2}-2mx+7m-40=0$ una raíz sea el negativo de la tercera parte de la otra.
+A) $-\frac{10}{3}$ y $8$
+B) $\frac{10}{3}$ y $-8$ *
+C) $5$ y $-12$
+D) $\frac{10}{3}$ y $8$
+E) $8$ y $-\frac{10}{3}$
+video:
+
+## 57
+Las raíces de la ecuación $x^{2}-3ax+a^{2}=0$ cumplen la condición $x_{1}^{2}+x_{2}^{2}=\frac{7}{4}$. Determine el valor de $a$.
+A) $\pm\frac{1}{4}$
+B) $\pm1$
+C) $\pm\frac{1}{2}$ *
+D) $\pm\frac{\sqrt{7}}{2}$
+E) $\pm2$
+video:
+
+## 58
+Hallar todos los posibles valores de $k$ para que las ecuaciones $3x^{2}+19x-2k=0$ y $6x^{2}+(k+4)x-10=0$ posean una raíz en común.
+A) $7;\ 8;\ 55$
+B) $-7;\ 8;\ -55$
+C) $7;\ -8$
+D) $7;\ -8;\ 55$ *
+E) $2;\ -8;\ 55$
+video:
+
+## 59
+Si $m$ y $n$ son raíces de la ecuación $x^{2}-6x+c=0$, calcular el valor de: $A=\frac{m^{3}+n^{3}+18c}{36}$
+A) $36$
+B) $1$
+C) $216$
+D) $12$
+E) $6$ *
+video:
+
+## 60
+Determinar la ecuación de segundo grado cuyas raíces son las inversas de las raíces de: $6x^{2}+x-15=0$
+A) $15y^{2}-y-6=0$ *
+B) $6y^{2}+y-15=0$
+C) $15y^{2}+y-6=0$
+D) $15y^{2}-y+6=0$
+E) $6y^{2}-y-15=0$
+video:
+
+## 61
+Resuelva $x^{3}-10x^{2}+31x-30=0$ y $x^{3}-9x^{2}+23x-15=0$, y con las raíces comunes construya una ecuación de segundo grado.
+A) $x^{2}-5x+6=0$
+B) $x^{2}-8x+15=0$ *
+C) $x^{2}-6x+5=0$
+D) $x^{2}+8x+15=0$
+E) $x^{2}-4x+3=0$
+video:
+
+## 62
+Resolver: $\frac{m}{z}+\frac{z}{m}+\frac{m(z-m)}{z(z+m)}-\frac{z(z+m)}{m(z-m)}=\frac{mz}{m^{2}-z^{2}}-2$
+A) $z=2m$
+B) $z=-4m$
+C) $z=4m$ *
+D) $z=\frac{m}{4}$
+E) $z=3m$
+video:
+
+## 63
+Resolver: $\frac{\left(\frac{a-x}{x}\right)^{2}-\left(\frac{a}{a+b}\right)^{2}}{x^{2}+a^{2}-2ax}=\frac{5}{9x^{2}}$
+A) $x_{1}=\frac{2a(a+b)}{5a-2b}$; $x_{2}=\frac{2a(a+b)}{2b+a}$
+B) $x_{1}=\frac{a(a+b)}{5a+2b}$; $x_{2}=\frac{a(a+b)}{2b-a}$
+C) $x_{1}=\frac{2a(a-b)}{5a+2b}$; $x_{2}=\frac{2a(a-b)}{2b-a}$
+D) $x_{1}=\frac{2a(a+b)}{5a+2b}$; $x_{2}=\frac{2a(a+b)}{2b-a}$ *
+E) $x_{1}=\frac{2b(a+b)}{5a+2b}$; $x_{2}=\frac{2b(a+b)}{2a-b}$
+video:
+
+## 64
+Resolver: $\frac{x+x^{2}}{1-x^{2}}\div\frac{1-a^{2}}{(1+ax)^{2}-(a+x)^{2}}=\frac{ab}{(b-a)^{2}}$
+A) $x_{1}=\frac{a}{a-b}$; $x_{2}=\frac{b}{b-a}$
+B) $x_{1}=\frac{b}{b-a}$; $x_{2}=\frac{a}{a-b}$
+C) $x_{1}=\frac{a}{a+b}$; $x_{2}=\frac{b}{a+b}$
+D) $x_{1}=\frac{a}{b}$; $x_{2}=\frac{b}{a}$
+E) $x_{1}=\frac{a}{b-a}$; $x_{2}=\frac{b}{a-b}$ *
+video:
+
+## 65
+Construir una ecuación cuadrática cuyas raíces sean $\frac{1}{10-\sqrt{72}}$ y $\frac{1}{10+6\sqrt{2}}$
+A) $28x^{2}-20x+1=0$ *
+B) $28x^{2}+20x+1=0$
+C) $x^{2}-20x+28=0$
+D) $28x^{2}-10x+1=0$
+E) $14x^{2}-10x+1=0$
+video:
+
+## 66
+Las raíces $x_{1}$ y $x_{2}$ de la ecuación cuadrática $x^{2}+px+12=0$ poseen la propiedad $x_{1}-x_{2}=1$. Hallar el coeficiente $p$.
+A) $\pm8$
+B) $\pm7$ *
+C) $\pm1$
+D) $\pm12$
+E) $\pm\sqrt{47}$
+video:
+
+## 67
+Las raíces de la ecuación cuadrática $ax^{2}+bx+c=0$ son $x_{1}$ y $x_{2}$. Construir una nueva ecuación de segundo grado cuyas raíces sean $\frac{x_{1}}{x_{2}}$ y $\frac{x_{2}}{x_{1}}$
+A) $acy^{2}+\left(b^{2}-2ac\right)y+ac=0$
+B) $acy^{2}-b^{2}y+ac=0$
+C) $acy^{2}-\left(b^{2}-2ac\right)y+ac=0$ *
+D) $a^{2}y^{2}-\left(b^{2}-2ac\right)y+c^{2}=0$
+E) $acy^{2}-\left(b^{2}+2ac\right)y+ac=0$
+video:
+
+## 68
+Construir una ecuación de segundo grado cuyas raíces sean iguales a los cubos de las raíces de la ecuación $ax^{2}+bx+c=0$
+A) $a^{3}y^{2}-\left(b^{3}-3abc\right)y+c^{3}=0$
+B) $a^{3}y^{2}+b^{3}y+c^{3}=0$
+C) $a^{3}y^{2}+\left(b^{3}+3abc\right)y+c^{3}=0$
+D) $a^{3}y^{2}+\left(b^{3}-3abc\right)y+c^{3}=0$ *
+E) $ay^{2}+\left(b^{3}-3abc\right)y+c=0$
+video:
+
+## 69
+Resolver: $\frac{\sqrt{a+x}}{a}+\frac{\sqrt{a+x}}{x}=\sqrt{x}$
+A) $x=\frac{a}{a^{\frac{3}{2}}-1}$
+B) $x=\frac{a}{a^{\frac{2}{3}}+1}$
+C) $x=a^{\frac{2}{3}}-1$
+D) $x=\frac{1}{a^{\frac{2}{3}}-1}$
+E) $x=\frac{a}{a^{\frac{2}{3}}-1}$ *
+video:
+
+## 70
+Resolver: $\sqrt{x}+\sqrt[4]{x}=12$
+A) $81$ *
+B) $16$
+C) $256$
+D) $9$
+E) $144$
+video:
+
+## 71
+Hallar los valores de $m$ y $n$ si las siguientes ecuaciones de segundo grado tienen las mismas raíces: $(2m+1)x^{2}-(3m-1)x+2=0$ y $(n+2)x^{2}-(2n+1)x+1=0$
+A) $m=\frac{3}{2};\ n=3$
+B) $m=3;\ n=\frac{3}{2}$ *
+C) $m=-\frac{1}{2};\ n=2$
+D) $m=3;\ n=-\frac{3}{2}$
+E) $m=2;\ n=\frac{3}{2}$
+video:
+
+## 72
+Resolver: $\sqrt{2x+13}-\sqrt{x+6}=\sqrt{x+3}$
+A) $2$
+B) $-3$
+C) $-2$ *
+D) $3$
+E) $-6$
+video:
+
+## 73
+Resolver: $\sqrt{\sqrt{x}+3}-\sqrt{\sqrt{x}-3}=\sqrt{2\sqrt{x}}$
+A) $3$
+B) $81$
+C) $16$
+D) $9$ *
+E) $36$
+video:
+
+## 74
+Resolver: $\sqrt{2x-3}-\sqrt{4x-7}=\sqrt{3x-5}-\sqrt{x-1}$
+A) $1$
+B) $3$
+C) $\frac{7}{4}$
+D) $5$
+E) $2$ *
+video:
+
+## 75
+Resolver: $\frac{x^{3}+5x^{2}+3x+9}{x^{3}+2x^{2}+7x+9}=\frac{x^{2}+5x+3}{x^{2}+2x+7}$
+A) $\frac{4}{3}$ *
+B) $\frac{3}{4}$
+C) $-\frac{4}{3}$
+D) $3$
+E) $\frac{9}{4}$
+video:
+
+## 76
+Resolver: $\frac{x-a}{bc}+\frac{x-b}{ac}+\frac{x-c}{ab}=2\left(\frac{1}{c}+\frac{1}{b}+\frac{1}{a}\right)$
+A) $ab+bc+ca$
+B) $a+b+c$ *
+C) $abc$
+D) $2(a+b+c)$
+E) $\frac{a+b+c}{2}$
+video:
+
+## 77
+Resolver: $(12x-1)(6x-1)(4x-1)(3x-1)=5$ e indicar sus soluciones reales.
+A) $\frac{1}{2}$ y $-\frac{1}{2}$
+B) $\frac{1}{12}$ y $-\frac{1}{2}$
+C) $\frac{1}{2}$ y $-\frac{1}{12}$ *
+D) $\frac{1}{3}$ y $-\frac{1}{12}$
+E) $\frac{1}{2}$ y $\frac{1}{12}$
+video:
+
+## 78
+Resolver: $\frac{1}{x}+\frac{1}{a+b}+\frac{1}{c}=\frac{1}{x+a+b+c}$
+A) $x_{1}=a+b$; $x_{2}=c$
+B) $x_{1}=-a$; $x_{2}=-b-c$
+C) $x_{1}=-a-b-c$; $x_{2}=0$
+D) $x_{1}=-a-b$; $x_{2}=-c$ *
+E) $x_{1}=a-b$; $x_{2}=-c$
+video:
+
+## 79
+Resolver, si $a<0<b$: $\frac{a}{x-a}+\frac{a}{a+b}=\frac{b}{x-b}+\frac{b}{a+b}$
+A) $x=\sqrt{ab}$
+B) $x=a+b$
+C) $x=-\sqrt{ab}$
+D) $x=\frac{a+b}{2}$
+E) $x=\sqrt{-ab}$ *
+video:

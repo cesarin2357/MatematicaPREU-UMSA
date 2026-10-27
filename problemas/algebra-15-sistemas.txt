@@ -13,3 +13,552 @@
 // E) opción
 // video:
 // ================================================================
+
+## 1
+Resuelva el sistema $\begin{cases}\frac{9}{x-3}+\frac{4}{y-4}=4\\-\frac{5}{x-3}+\frac{2}{y-5}=-1\end{cases}$ e indique $\frac{y}{x}$ para la solución entera.
+A) $\frac{4}{3}$ *
+B) $\frac{3}{4}$
+C) $2$
+D) $\frac{1}{2}$
+E) $\frac{5}{3}$
+video:
+
+## 2
+Luego de resolver el sistema $\begin{cases}4a-2b+c=4\\16a-4b+c=44\\9a-3b+c=17\end{cases}$, halle: $\frac{4a+b}{c}$
+A) $\frac{2}{5}$
+B) $\frac{5}{2}$ *
+C) $\frac{3}{2}$
+D) $2$
+E) $\frac{7}{4}$
+video:
+
+## 3
+Dé el valor de verdad de las siguientes proposiciones: I. Si un sistema lineal de ecuaciones posee al menos dos soluciones entonces es compatible indeterminado. II. Todo sistema lineal de ecuaciones es compatible. III. Un sistema lineal donde hay más incógnitas que ecuaciones nunca es compatible determinado.
+A) VVF
+B) FFV
+C) VFV *
+D) VVV
+E) FVF
+video:
+
+## 4
+Resuelva el sistema $\begin{cases}17x+4y+5z=49\\6x+y=17\\5x+3y+5z=20\end{cases}$ e indique: $x^{2}+y^{2}$
+A) $25$
+B) $26$
+C) $30$
+D) $29$ *
+E) $34$
+video:
+
+## 5
+Resuelva el sistema $\begin{cases}2x+y+z=30\\2y-z=30\end{cases}$ sabiendo que $x$, $y$, $z$ están en progresión aritmética. Halle: $x+y+z$
+A) $30$
+B) $60$
+C) $15$
+D) $-30$
+E) $0$ *
+video:
+
+## 6
+Halle $m$ para que el sistema tenga infinitas soluciones: $\begin{cases}x+my=1\\mx-5my=2m+5\end{cases}$
+A) $-5$ *
+B) $5$
+C) $0$
+D) $-\frac{1}{5}$
+E) $1$
+video:
+
+## 7
+Resuelva el sistema $\begin{cases}x+y+z=1\\x+5y+2z=4\\2x+6y+3z=5\end{cases}$ e indique una solución.
+A) $\left(\frac{3}{4},\frac{1}{4},0\right)$
+B) $\left(\frac{1}{4},\frac{3}{4},0\right)$ *
+C) $\left(1,0,0\right)$
+D) $\left(0,1,0\right)$
+E) $\left(\frac{1}{2},\frac{1}{2},0\right)$
+video:
+
+## 8
+¿Qué valores reales toma $n$ para que el sistema $\begin{cases}(n-3)x+(n-4)y=n+3\\(2n+3)x+(n+4)y=5\end{cases}$ sea compatible determinado?
+A) $n\in\mathbb{R}-\{0\}$
+B) $n\in\mathbb{R}-\{3;4\}$
+C) $n\in\mathbb{R}-\{0;6\}$ *
+D) $n\in\mathbb{R}-\{6\}$
+E) $n\in\mathbb{R}-\{-6;0\}$
+video:
+
+## 9
+Halle los valores de $a$ y $b$ para que el sistema $\begin{cases}x+2y+3z=5\\x+3y-2z=2\\by+z=a\end{cases}$ tenga infinitas soluciones. Halle: $a+b$
+A) $\frac{3}{5}$
+B) $-\frac{1}{5}$
+C) $\frac{4}{5}$
+D) $\frac{2}{5}$ *
+E) $1$
+video:
+
+## 10
+Determine el valor de $y$ del sistema $\begin{cases}ax+y+2z=1\\x+ay+z=1\\2x+2y+az=a^{2}+1\end{cases}$, donde $a\neq1$ y $a\neq-3$
+A) $\frac{a}{a+3}$
+B) $-\frac{1}{a+3}$
+C) $\frac{a+1}{a+3}$
+D) $-\frac{a}{a-1}$
+E) $-\frac{a}{a+3}$ *
+video:
+
+## 11
+Determine $x$ en el sistema: $\begin{cases}x+y+z=1\\ax+by+cz=d\\a^{2}x+b^{2}y+c^{2}z=d^{2}\end{cases}$
+A) $\frac{(b-d)(c-d)}{(b-a)(c-a)}$ *
+B) $\frac{(a-d)(c-d)}{(a-b)(c-b)}$
+C) $\frac{(b-d)(c-d)}{(a-b)(c-b)}$
+D) $\frac{(a-d)(b-d)}{(b-a)(c-a)}$
+E) $\frac{(b+d)(c+d)}{(b-a)(c-a)}$
+video:
+
+## 12
+Sea el conjunto $A=\left\{\theta\in\mathbb{R}\,/\,\text{el sistema } \begin{cases}x+y=-3\\3x-5y=\theta\end{cases} \text{ tenga solución en el tercer cuadrante}\right\}$. Halle el conjunto $A$.
+A) $\langle-15;9\rangle$
+B) $\langle-9;15\rangle$ *
+C) $\langle-9;3\rangle$
+D) $\langle-\infty;15\rangle$
+E) $\langle-3;15\rangle$
+video:
+
+## 13
+Dado el sistema $\begin{cases}(a-3)x+5y=5b\\5x+(a-3)y=25\end{cases}$, determinar $a$ y $b$ para que el sistema tenga infinitas soluciones. Halle $a+b$, con $a,b>0$
+A) $8$
+B) $10$
+C) $13$ *
+D) $3$
+E) $18$
+video:
+
+## 14
+¿Qué valor debe tener $m$ para que $x$ sea igual a $y$ en el sistema $\begin{cases}mx+6y=143\\7x-my=26\end{cases}$?
+A) $13$
+B) $6$
+C) $7$
+D) $5$ *
+E) $-5$
+video:
+
+## 15
+Determine $a\cdot b$ si los sistemas determinados I) $\begin{cases}ax+4y=22\\bx+5y=24\end{cases}$ y II) $\begin{cases}4x+ay=20\\5x+by=18\end{cases}$ son equivalentes.
+A) $5$
+B) $8$
+C) $12$
+D) $4$
+E) $6$ *
+video:
+
+## 16
+En el año 2040 habrá viajes a la luna en excursión. Usted tendrá un hijo que será adulto para aquella época, y este tendrá un hijo que será un niño. En una de esas excursiones viajan 7 adultos (usted incluido) y 3 niños, y el organizador recibió 310 «supersoles». Si usted hubiera llevado a su nieto, habría pagado 50 «supersoles» por el pasaje de los dos. ¿Cuál sería el precio de cada pasaje (adulto y niño) en «supersoles»?
+A) $40$ y $10$ *
+B) $35$ y $15$
+C) $32$ y $18$
+D) $30$ y $20$
+E) $45$ y $5$
+video:
+
+## 17
+Si el sistema $\begin{cases}ax+2y=5\\3x+ay=6\\3ax-8y=1\end{cases}$ tiene solución única, determine el valor de $a$.
+A) $1$
+B) $3$ *
+C) $-3$
+D) $2$
+E) $6$
+video:
+
+## 18
+Al resolver el sistema $\begin{cases}2x+y-z=1\\5x-y+2z=6\\x+2y-3z=-1\end{cases}$, determine el valor de: $P=x-y-z$
+A) $0$
+B) $-25$
+C) $2$ *
+D) $1$
+E) $-2$
+video:
+
+## 19
+Determine el valor de $x$ en el sistema: $\begin{cases}(a+c)y+(a+b)z-(b+c)x=2a^{3}\\(a+b)z+(b+c)x-(a+c)y=2b^{3}\\(b+c)x+(a+c)y-(a+b)z=2c^{3}\end{cases}$
+A) $a^{2}-ab+b^{2}$
+B) $b^{2}+bc+c^{2}$
+C) $a^{2}-ac+c^{2}$
+D) $b^{2}-bc+c^{2}$ *
+E) $b+c$
+video:
+
+## 20
+Determine $x$ en el sistema: $\begin{cases}3x-y-2z=a\\3y-2x-z=4a\\3z-x+y=7a\end{cases}$
+A) $11a$
+B) $4a$
+C) $2a$
+D) $a$
+E) $3a$ *
+video:
+
+## 21
+Determine el conjunto de valores que admite $b$ para que el sistema $\begin{cases}x+y+(b-1)z=2\\x+(b-1)y+z=3\\(b-1)x+y+z=4\end{cases}$ tenga solución única.
+A) $b\in\mathbb{R}-\{-1;2\}$ *
+B) $b\in\mathbb{R}-\{1;2\}$
+C) $b\in\mathbb{R}-\{-2;1\}$
+D) $b\in\mathbb{R}-\{2\}$
+E) $b\in\mathbb{R}$
+video:
+
+## 22
+Determinar $x$ en: $\begin{cases}x+my+m^{2}z=m^{3}\\x+ny+n^{2}z=n^{3}\\x+py+p^{2}z=p^{3}\end{cases}$
+A) $m+n+p$
+B) $mnp$ *
+C) $mn+np+pm$
+D) $-mnp$
+E) $m^{2}n^{2}p^{2}$
+video:
+
+## 23
+Determine el valor de $z$ del sistema: $\begin{cases}\frac{x+y}{6}=\frac{x+z}{7}=\frac{y+z}{9}\\12x+5y+7z=395\end{cases}$
+A) $20$
+B) $10$
+C) $25$ *
+D) $30$
+E) $15$
+video:
+
+## 24
+Determine el valor de $b$ para que las rectas $L_{1}: by+(2b-1)x+7=0$ y $L_{2}: (b-1)y+bx-5=0$ se corten en un punto situado en el eje $y$.
+A) $\frac{5}{12}$
+B) $\frac{12}{7}$
+C) $-\frac{7}{12}$
+D) $\frac{7}{12}$ *
+E) $\frac{7}{2}$
+video:
+
+## 25
+¿Qué valor debe tener $m$ para que el sistema $\begin{cases}(3-m)x+2y=1\\(m-2)x+3y=9\end{cases}$ sea inconsistente?
+A) $\frac{5}{13}$
+B) $\frac{13}{2}$
+C) $-\frac{13}{5}$
+D) $\frac{12}{5}$
+E) $\frac{13}{5}$ *
+video:
+
+## 26
+De un grupo de niñas y niños se retiran 20 niñas, quedando tres niños por cada niña. Después se retiran 84 niños y quedan entonces cinco niñas por cada niño. ¿Cuántos niños había inicialmente?
+A) $90$ *
+B) $50$
+C) $84$
+D) $70$
+E) $104$
+video:
+
+## 27
+Si en el sistema lineal $\begin{cases}5x+4y=a\\-6x+y=b\\13x+22y=c\end{cases}$ se verifica $c=5a+2b$, ¿cuáles de las siguientes afirmaciones son verdaderas? I. El sistema no tiene solución. II. El sistema tiene infinitas soluciones. III. El sistema tiene solución única. IV. La consistencia del sistema depende de $a$, $b$ y $c$.
+A) Sólo I
+B) Sólo III *
+C) Sólo II
+D) II y IV
+E) I y IV
+video:
+
+## 28
+Si $\{(a;b;c)\}$ es el conjunto solución del sistema $\begin{cases}2x_{1}-x_{2}-3x_{3}=1\\x_{1}+x_{2}-x_{3}=8\\2x_{1}+nx_{2}+2x_{3}=-n\\-x_{1}+x_{3}=-4\end{cases}$, determine el valor de: $P=a+c+n$
+A) $10$
+B) $14$
+C) $6$ *
+D) $2$
+E) $-6$
+video:
+
+## 29
+Si el sistema $\begin{cases}2\left(x^{2}+y^{2}\right)-5z^{2}=m\\12(x+y)=5z^{2}\end{cases}$ tiene solución única, entonces el valor de $m$ es:
+A) $36$
+B) $-18$
+C) $0$
+D) $-36$ *
+E) $-72$
+video:
+
+## 30
+Calcular el valor de $m$ para que el sistema no lineal $\begin{cases}y=x^{2}+2x+36\\mx-y=0\end{cases}$ tenga solución única.
+A) $m\in\{10;-14\}$
+B) $m\in\{12;-12\}$
+C) $m\in\{14\}$
+D) $m\in\{2;36\}$
+E) $m\in\{14;-10\}$ *
+video:
+
+## 31
+Resuelva el sistema $\begin{cases}12x^{2}-xy-6y^{2}=126\\12x^{2}+17xy+6y^{2}=450\end{cases}$, indicando el mínimo valor de $y$.
+A) $-3$ *
+B) $-4$
+C) $3$
+D) $-2$
+E) $-6$
+video:
+
+## 32
+Dado el sistema $\begin{cases}x^{3}+y^{3}=152\\x^{2}y+xy^{2}=120\end{cases}$, determine la suma de todas las soluciones reales para $x$ e $y$.
+A) $8$
+B) $16$ *
+C) $15$
+D) $30$
+E) $24$
+video:
+
+## 33
+Resuelva el sistema $\begin{cases}a+ab+b=11\\a^{2}+a^{2}b^{2}+b^{2}=49\end{cases}$ y señale el mayor valor de: $P=a-b+7$
+A) $6$
+B) $7$
+C) $8$ *
+D) $9$
+E) $10$
+video:
+
+## 34
+Resolver el siguiente sistema de ecuaciones: $\begin{cases}2x^{2}+xy-6y^{2}=-40\\2x^{2}-7xy+6y^{2}=20\end{cases}$
+A) $x=\pm3;\ y=\pm2$
+B) $x=\pm2;\ y=\mp3$
+C) $x=\pm1;\ y=\pm3$
+D) $x=\pm2;\ y=\pm3$ *
+E) $x=\pm4;\ y=\pm2$
+video:
+
+## 35
+Resolver: $\begin{cases}\frac{x^{2}+y^{2}}{2}=8+xy\\\frac{x^{2}}{x-y}+\frac{y^{2}}{y-x}=\frac{1}{\frac{2}{xy-1}}\end{cases}$
+A) $(7;3)$, $(3;7)$, $(1;3)$, $(3;1)$
+B) $(7;3)$, $(3;7)$, $(-1;3)$, $(3;-1)$
+C) $(5;1)$, $(1;5)$, $(1;-3)$, $(-3;1)$
+D) $(7;-3)$, $(-3;7)$, $(1;-3)$, $(-3;1)$
+E) $(7;3)$, $(3;7)$, $(1;-3)$, $(-3;1)$ *
+video:
+
+## 36
+Resolver el siguiente sistema de ecuaciones: $\begin{cases}x^{2}-xy+y^{2}=3\\2x^{2}+xy+y^{2}=2\end{cases}$
+A) $x=\pm\frac{\sqrt{7}}{7};\ y=\mp\frac{4\sqrt{7}}{7}$ y $x=\pm1;\ y=\mp1$ *
+B) $x=\pm\frac{\sqrt{7}}{7};\ y=\pm\frac{4\sqrt{7}}{7}$ y $x=\pm1;\ y=\pm1$
+C) $x=\pm1;\ y=\mp1$ solamente
+D) $x=\pm\frac{4\sqrt{7}}{7};\ y=\mp\frac{\sqrt{7}}{7}$ y $x=\pm1;\ y=\mp1$
+E) $x=\pm\sqrt{7};\ y=\mp4\sqrt{7}$ y $x=\pm1;\ y=\mp1$
+video:
+
+## 37
+Resolver el siguiente sistema de ecuaciones: $\begin{cases}x^{2}+xy+y^{2}=13\\x+y=4\end{cases}$
+A) $(4;\ 0)$ o $(0;\ 4)$
+B) $(3;\ 1)$ o $(1;\ 3)$ *
+C) $(2;\ 2)$
+D) $(3;\ -1)$ o $(-1;\ 3)$
+E) $(5;\ -1)$ o $(-1;\ 5)$
+video:
+
+## 38
+Encontrar las soluciones enteras de: $\begin{cases}x^{3}+y^{3}=35\\x^{2}-xy+y^{2}=7\end{cases}$
+A) $(4;\ 1)$ o $(1;\ 4)$
+B) $(3;\ -2)$ o $(-2;\ 3)$
+C) $(3;\ 2)$ o $(2;\ 3)$ *
+D) $(5;\ 0)$ o $(0;\ 5)$
+E) $(-3;\ 2)$ o $(2;\ -3)$
+video:
+
+## 39
+Resolver el siguiente sistema: $\begin{cases}6x^{2}+3xy+2y^{2}=24\\3x^{2}+2xy+2y^{2}=18\end{cases}$
+A) $x=\pm2;\ y=\pm3$ y $x=\pm\frac{\sqrt{30}}{5};\ y=\mp\frac{2\sqrt{30}}{5}$
+B) $x=\pm\frac{2\sqrt{30}}{5};\ y=\pm\frac{\sqrt{30}}{5}$ y $x=\pm3;\ y=\mp2$
+C) $x=\pm2;\ y=\mp3$ solamente
+D) $x=\pm\frac{\sqrt{30}}{5};\ y=\pm\frac{2\sqrt{30}}{5}$ y $x=\pm2;\ y=\mp3$ *
+E) $x=\pm\sqrt{30};\ y=\pm2\sqrt{30}$ y $x=\pm2;\ y=\mp3$
+video:
+
+## 40
+Resolver el siguiente sistema de ecuaciones: $\begin{cases}x^{2}-xy+y^{2}=7\\x^{2}+xy+y^{2}=19\end{cases}$
+A) $(2;-3)$, $(-2;3)$, $(3;-2)$, $(-3;2)$
+B) $(1;3)$, $(3;1)$, $(-1;-3)$, $(-3;-1)$
+C) $(2;3)$, $(3;2)$ solamente
+D) $(4;1)$, $(1;4)$, $(-4;-1)$, $(-1;-4)$
+E) $(2;3)$, $(3;2)$, $(-2;-3)$, $(-3;-2)$ *
+video:
+
+## 41
+Resolver: $\begin{cases}\frac{\sqrt{x}+\sqrt{y}}{\sqrt{x}-\sqrt{y}}-\frac{\sqrt{x}-\sqrt{y}}{\sqrt{x}+\sqrt{y}}=\frac{4}{x-y}\\x^{2}+36y^{2}=13\end{cases}$
+A) $(2;\ \frac{1}{2})$ o $(3;\ \frac{1}{3})$ *
+B) $(\frac{1}{2};\ 2)$ o $(\frac{1}{3};\ 3)$
+C) $(2;\ \frac{1}{3})$ o $(3;\ \frac{1}{2})$
+D) $(1;\ 1)$ o $(2;\ \frac{1}{2})$
+E) $(4;\ \frac{1}{4})$ o $(3;\ \frac{1}{3})$
+video:
+
+## 42
+Resolver: $\begin{cases}\frac{3}{\sqrt{x+y}}+\sqrt{x+y}=4\\x^{2}-y^{2}=-3\end{cases}$
+A) $(1;\ 2)$ o $(\frac{14}{3};\ \frac{13}{3})$
+B) $(-1;\ 2)$ o $(\frac{13}{3};\ \frac{14}{3})$ *
+C) $(2;\ -1)$ o $(\frac{13}{3};\ \frac{14}{3})$
+D) $(-1;\ 2)$ o $(1;\ 2)$
+E) $(1;\ -2)$ o $(\frac{13}{3};\ \frac{14}{3})$
+video:
+
+## 43
+Resolver el sistema $\begin{cases}x^{2}+y^{2}-z^{2}=0\\xy+yz+xz+17=0\\(z-x)(z-y)-18=0\end{cases}$ e indicar una de sus soluciones.
+A) $(3;4;5)$
+B) $(4;3;-5)$
+C) $(4;-3;-5)$ *
+D) $(-4;3;5)$
+E) $(3;-4;-5)$
+video:
+
+## 44
+Resolver: $\begin{cases}\sqrt[3]{x^{2}y}+\sqrt[3]{x^{2}z}+\sqrt[3]{xyz}=11\\\sqrt[3]{xy^{2}}+\sqrt[3]{xyz}+\sqrt[3]{y^{2}z}=22\\\sqrt[3]{xyz}+\sqrt[3]{z^{2}x}+\sqrt[3]{z^{2}y}=33\end{cases}$
+A) $x=1;\ y=2;\ z=3$
+B) $x=27;\ y=8;\ z=1$
+C) $x=1;\ y=4;\ z=9$
+D) $x=1;\ y=8;\ z=27$ *
+E) $x=8;\ y=1;\ z=27$
+video:
+
+## 45
+Resolver: $\begin{cases}x^{2}y+xy^{2}=30\\x+xy+y=11\end{cases}$
+A) $(5;1)$, $(1;5)$
+B) $(2;3)$, $(3;2)$
+C) $(5;1)$, $(1;5)$, $(3;3)$
+D) $(6;1)$, $(1;6)$, $(2;3)$, $(3;2)$
+E) $(5;1)$, $(1;5)$, $(2;3)$, $(3;2)$ *
+video:
+
+## 46
+Resolver: $\begin{cases}x^{3}+y^{3}=7\\xy(x+y)=-2\end{cases}$
+A) $(2;\ -1)$ o $(-1;\ 2)$ *
+B) $(-2;\ 1)$ o $(1;\ -2)$
+C) $(2;\ 1)$ o $(1;\ 2)$
+D) $(1;\ -1)$ o $(-1;\ 1)$
+E) $(2;\ -3)$ o $(-3;\ 2)$
+video:
+
+## 47
+Resolver: $\begin{cases}\frac{12}{\sqrt{x-1}}+\frac{5}{\sqrt{y+\frac{1}{4}}}=5\\\frac{8}{\sqrt{x-1}}+\frac{10}{\sqrt{y+\frac{1}{4}}}=6\end{cases}$
+A) $x=16;\ y=6$
+B) $x=17;\ y=6$ *
+C) $x=17;\ y=5$
+D) $x=5;\ y=\frac{9}{4}$
+E) $x=6;\ y=17$
+video:
+
+## 48
+Resolver: $\begin{cases}x+y-2\sqrt{xy}=4\\x+y=10\end{cases}$
+A) $(8;\ 2)$ o $(2;\ 8)$
+B) $(7;\ 3)$ o $(3;\ 7)$
+C) $(9;\ 1)$ o $(1;\ 9)$ *
+D) $(6;\ 4)$ o $(4;\ 6)$
+E) $(16;\ -6)$ o $(-6;\ 16)$
+video:
+
+## 49
+Después de resolver el sistema $\begin{cases}\sqrt[4]{\frac{a}{x}}+\sqrt[4]{\frac{b}{y}}=\sqrt{a}+\sqrt{b}\\\sqrt[4]{\frac{a}{y}}+\sqrt[4]{\frac{b}{x}}=2\sqrt[4]{ab}\end{cases}$, calcular: $E=x^{-1}+y^{-1}$
+A) $\sqrt{a}+\sqrt{b}$
+B) $ab$
+C) $\frac{1}{a}+\frac{1}{b}$
+D) $a+b$ *
+E) $a^{2}+b^{2}$
+video:
+
+## 50
+Resolver: $\begin{cases}x^{3}+y^{3}=72\\x+y=6\end{cases}$
+A) $(3;\ 3)$
+B) $(1;\ 5)$ o $(5;\ 1)$
+C) $(2;\ -4)$ o $(-4;\ 2)$
+D) $(6;\ 0)$ o $(0;\ 6)$
+E) $(2;\ 4)$ o $(4;\ 2)$ *
+video:
+
+## 51
+Resolver: $\begin{cases}x^{2}+y^{2}=2(xy+2)\\x+y=6\end{cases}$
+A) $(4;\ 2)$ o $(2;\ 4)$ *
+B) $(5;\ 1)$ o $(1;\ 5)$
+C) $(3;\ 3)$
+D) $(4;\ -2)$ o $(-2;\ 4)$
+E) $(7;\ -1)$ o $(-1;\ 7)$
+video:
+
+## 52
+Resolver: $\begin{cases}\frac{x^{2}}{y}+\frac{y^{2}}{x}=\frac{9}{2}\\\frac{3}{x+y}=1\end{cases}$
+A) $(1;\ 1)$ o $(2;\ 2)$
+B) $(1;\ 2)$ o $(2;\ 1)$ *
+C) $(-1;\ 4)$ o $(4;\ -1)$
+D) $(3;\ 0)$ o $(0;\ 3)$
+E) $(1;\ \frac{1}{2})$ o $(\frac{1}{2};\ 1)$
+video:
+
+## 53
+Resolver: $\begin{cases}\frac{x+y}{x-y}+\frac{x-y}{x+y}=\frac{5}{2}\\x^{2}+y^{2}=90\end{cases}$
+A) $x=\pm3;\ y=\pm9$
+B) $x=\pm9;\ y=\pm1$
+C) $x=\pm9;\ y=\pm3$ *
+D) $x=\pm6;\ y=\pm3$
+E) $x=9;\ y=3$ solamente
+video:
+
+## 54
+Resolver el sistema $\begin{cases}\frac{ax+b}{y+a}+\frac{bx}{x-1}=a+ab\\\frac{ax+b}{y+a}-\frac{b}{x-1}=ab\end{cases}$ e indicar el valor de $x$.
+A) $x=\frac{a-b}{a+b}$
+B) $x=\frac{a+b}{b-a}$
+C) $x=\frac{b}{a-b}$
+D) $x=\frac{a+b}{a-b}$ *
+E) $x=\frac{a}{a-b}$
+video:
+
+## 55
+Resolver el sistema $\begin{cases}\frac{2x+y}{3x-y}-\frac{x-y}{x+y}=2\frac{8}{15}\\7x+5y=29\end{cases}$ e indicar su solución entera.
+A) $x=3;\ y=2$
+B) $x=1;\ y=3$
+C) $x=-2;\ y=3$
+D) $x=4;\ y=1$
+E) $x=2;\ y=3$ *
+video:
+
+## 56
+Resolver: $\begin{cases}x^{2}yz=6\\xy^{2}z=12\\xyz^{2}=18\end{cases}$ (solución real)
+A) $x=1;\ y=2;\ z=3$ *
+B) $x=3;\ y=2;\ z=1$
+C) $x=2;\ y=3;\ z=1$
+D) $x=1;\ y=3;\ z=2$
+E) $x=6;\ y=2;\ z=3$
+video:
+
+## 57
+Resolver: $\begin{cases}yz+y+z=5\\xy+x+y=7\\xz+x+z=11\end{cases}$
+A) $x=2;\ y=1;\ z=3$
+B) $x=3;\ y=1;\ z=2$ *
+C) $x=1;\ y=3;\ z=2$
+D) $x=3;\ y=2;\ z=1$
+E) $x=1;\ y=2;\ z=3$
+video:
+
+## 58
+Resolver: $\begin{cases}x^{2}+xy+xz-x=2\\y^{2}+xy+yz-y=4\\z^{2}+xz+yz-z=6\end{cases}$
+A) $\left(\frac{2}{3};\frac{4}{3};2\right)$ y $\left(\frac{1}{2};1;\frac{3}{2}\right)$
+B) $(1;2;3)$ y $(-1;-2;-3)$
+C) $\left(\frac{2}{3};\frac{4}{3};2\right)$ y $\left(-\frac{1}{2};-1;-\frac{3}{2}\right)$ *
+D) $\left(\frac{4}{3};\frac{2}{3};2\right)$ y $\left(-1;-\frac{1}{2};-\frac{3}{2}\right)$
+E) $\left(\frac{2}{3};\frac{4}{3};2\right)$ solamente
+video:
+
+## 59
+Resolver: $\begin{cases}(x+y)-(a+b)=(a+b)(x-a)(y-b)\\(x+z)-(a+c)=(a+c)(x-a)(z-c)\\(y+z)-(b+c)=(b+c)(y-b)(z-c)\end{cases}$
+A) $x=a-\frac{1}{a};\ y=b-\frac{1}{b};\ z=c-\frac{1}{c}$
+B) $x=\frac{1}{a};\ y=\frac{1}{b};\ z=\frac{1}{c}$
+C) $x=a+b;\ y=b+c;\ z=a+c$
+D) $x=a+\frac{1}{a};\ y=b+\frac{1}{b};\ z=c+\frac{1}{c}$ *
+E) $x=a+1;\ y=b+1;\ z=c+1$
+video:
+
+## 60
+Resolver: $\begin{cases}\frac{2}{x}-\frac{1}{y}+\frac{2}{z}=-8\\\frac{1}{x}+\frac{2}{y}-\frac{3}{z}=9\\\frac{3}{x}-\frac{1}{y}-\frac{4}{z}=3\end{cases}$
+A) $x=-1;\ y=2;\ z=-2$
+B) $x=1;\ y=\frac{1}{2};\ z=\frac{1}{2}$
+C) $x=-1;\ y=-\frac{1}{2};\ z=-\frac{1}{2}$
+D) $x=-\frac{1}{2};\ y=\frac{1}{2};\ z=-1$
+E) $x=-1;\ y=\frac{1}{2};\ z=-\frac{1}{2}$ *
+video:
+
+## 61
+Resolver: $\begin{cases}x(x+y+z)=6\\y(x+y+z)=12\\z(x+y+z)=18\end{cases}$
+A) $x=\pm1;\ y=\pm2;\ z=\pm3$ *
+B) $x=1;\ y=2;\ z=3$ solamente
+C) $x=\pm2;\ y=\pm4;\ z=\pm6$
+D) $x=\pm1;\ y=\pm3;\ z=\pm2$
+E) $x=\pm6;\ y=\pm12;\ z=\pm18$
+video:
