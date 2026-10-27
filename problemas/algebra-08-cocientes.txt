@@ -13,3 +13,543 @@
 // E) opción
 // video:
 // ================================================================
+
+## 1
+Hallar el número de términos del siguiente cociente notable: $\frac{x^{168}-y^{196}}{x^{6}-y^{7}}$
+A) $24$
+B) $28$ *
+C) $32$
+D) $21$
+E) $29$
+video:
+
+## 2
+Se sabe que el cociente notable que origina la división $\frac{x^{3b+8}-y^{16}}{x^{5}-y^{b}}$ tiene $b$ términos. Calcule: $(b+3)^{3}$
+A) $216$
+B) $512$
+C) $343$ *
+D) $125$
+E) $729$
+video:
+
+## 3
+En el cociente notable de $\frac{x^{207}-y^{92}}{x^{9}-y^{4}}$, hallar el término de lugar 13.
+A) $x^{90}y^{48}$ *
+B) $x^{99}y^{44}$
+C) $x^{81}y^{52}$
+D) $x^{48}y^{90}$
+E) $-x^{90}y^{48}$
+video:
+
+## 4
+Determine el grado absoluto del noveno término en el siguiente cociente notable: $\frac{x^{140}-y^{112}}{x^{5}+y^{4}}$
+A) $131$
+B) $123$
+C) $135$
+D) $127$ *
+E) $119$
+video:
+
+## 5
+Calcular: $P=\frac{3^{11}-3^{10}+3^{9}-3^{8}+\cdots+3-1}{3^{11}+3^{10}+3^{9}+3^{8}+\cdots+3+1}$
+A) $\frac{1}{4}$
+B) $\frac{1}{3}$
+C) $2$
+D) $\frac{3}{4}$
+E) $\frac{1}{2}$ *
+video:
+
+## 6
+Calcular la posición del término que tiene por grado 88 en el cociente notable: $\frac{x^{176}-y^{66}}{x^{8}-y^{3}}$
+A) $16$
+B) $17$ *
+C) $18$
+D) $15$
+E) $22$
+video:
+
+## 7
+Determine $a+b$ en el cociente notable $\frac{x^{a}-y^{b}}{x^{7}-y^{6}}$ si se cumple: $t_{9}\cdot t_{10}\equiv x^{203}y^{102}$
+A) $168$
+B) $144$
+C) $312$ *
+D) $288$
+E) $336$
+video:
+
+## 8
+En el siguiente cociente notable $\frac{x^{24}-y^{36}}{x^{4}-y^{6}}$, determine la posición del término en el cual se cumple: $GR(x)=GR(y)$
+A) Segundo
+B) Cuarto
+C) Quinto
+D) Tercero *
+E) Primero
+video:
+
+## 9
+En el cociente notable de $\frac{x^{248}-y^{93}}{x^{8}-y^{3}}$, hallar el término de lugar 25 contando a partir del extremo final.
+A) $x^{18}y^{192}$
+B) $x^{56}y^{72}$
+C) $x^{200}y^{15}$
+D) $x^{184}y^{21}$
+E) $x^{192}y^{18}$ *
+video:
+
+## 10
+La suma de los coeficientes del desarrollo del siguiente cociente notable $\frac{16a^{8}b^{4}-81c^{12}}{2a^{2}b-3c^{3}}$ es:
+A) $65$ *
+B) $97$
+C) $35$
+D) $211$
+E) $-65$
+video:
+
+## 11
+Hallar el número de términos del siguiente cociente notable: $\frac{x^{2}\sqrt[3]{x}-y\sqrt[4]{y^{3}}}{\sqrt[3]{x}-\sqrt[4]{y}}$
+A) $6$
+B) $12$
+C) $7$ *
+D) $8$
+E) $5$
+video:
+
+## 12
+En el cociente notable de $\frac{x^{n}-y^{5n-18}}{x^{2}-y^{9}}$, hallar el término de lugar 8.
+A) $x^{22}y^{54}$
+B) $x^{20}y^{63}$ *
+C) $x^{18}y^{72}$
+D) $x^{63}y^{20}$
+E) $x^{20}y^{72}$
+video:
+
+## 13
+¿Qué lugar ocupa en el desarrollo del cociente notable $\frac{x^{68}-y^{170}}{x^{2}-y^{5}}$ el término que tiene como grado absoluto 99?
+A) $11$
+B) $13$
+C) $22$
+D) $33$
+E) $12$ *
+video:
+
+## 14
+Calcular $m$ si la división $\frac{x^{3m}-y^{15m}}{x-y^{5}}$ genera un cociente notable cuyo décimo término tiene por grado 95.
+A) $15$
+B) $25$
+C) $20$ *
+D) $19$
+E) $30$
+video:
+
+## 15
+Hallar el grado absoluto del tercer término en el cociente notable que se obtiene al dividir $\frac{x^{m}-y^{n}}{x^{13}-y^{11}}$, sabiendo que su desarrollo tiene 15 términos.
+A) $182$
+B) $178$ *
+C) $174$
+D) $186$
+E) $170$
+video:
+
+## 16
+Halle la diferencia de exponentes de $x$ e $y$ en el término de lugar 28 del siguiente cociente notable: $\frac{x^{287}-y^{123}}{x^{7}-y^{3}}$
+A) $4$
+B) $6$
+C) $13$
+D) $10$ *
+E) $7$
+video:
+
+## 17
+Al encontrar el penúltimo término del cociente notable generado por $\frac{2187x^{7}y^{14}-128x^{14}y^{21}}{3xy^{2}-2x^{2}y^{3}}$, dar como respuesta la suma de los exponentes de las variables.
+A) $26$
+B) $30$
+C) $32$
+D) $25$
+E) $28$ *
+video:
+
+## 18
+Hallar el número de términos que tendrá el cociente notable generado por: $\frac{x^{4n+1}+y^{9n+4}}{x^{n-2}-y^{n+2}}$; $n\in\mathbb{N}$
+A) $7$ *
+B) $5$
+C) $9$
+D) $6$
+E) $21$
+video:
+
+## 19
+Simplificar: $P=\frac{4^{45}-4^{44}+4^{43}-4^{42}+\cdots-1}{4^{44}+4^{42}+4^{40}+4^{38}+\cdots+1}$
+A) $5$
+B) $\frac{1}{3}$
+C) $4$
+D) $3$ *
+E) $15$
+video:
+
+## 20
+Proporcionar el grado del término central del cociente notable originado al dividir: $\frac{x^{244}-y^{122}}{x^{4}-y^{2}}$
+A) $182$
+B) $180$ *
+C) $120$
+D) $186$
+E) $244$
+video:
+
+## 21
+Calcular el valor numérico del término de lugar 8 del cociente notable originado al dividir $\frac{(3x+1)^{12}-(2x)^{12}}{x+1}$ para $x=-1$
+A) $2^{11}$
+B) $-2^{12}$
+C) $-2^{11}$ *
+D) $2^{12}$
+E) $-2^{7}$
+video:
+
+## 22
+Sabiendo que $5^{23}=m$, proporcionar el valor de: $P=24\left(5^{21}+5^{19}+5^{17}+5^{15}+\cdots+5\right)$
+A) $m+5$
+B) $5m-1$
+C) $m-1$
+D) $m-5$ *
+E) $\frac{m}{5}$
+video:
+
+## 23
+Calcular el valor numérico del tercer término del cociente notable originado al dividir $\frac{x^{4n+4}-y^{5n}}{x^{n+1}-y^{2n-3}}$ para $x=3$ e $y=1$
+A) $81$
+B) $729$
+C) $27$
+D) $3$
+E) $243$ *
+video:
+
+## 24
+Calcular el valor numérico del término de lugar 37 del cociente notable originado al dividir $\frac{(5x+9)^{43}+(5x)^{43}}{10x+9}$ para $x=-0{,}2$
+A) $262144$ *
+B) $32768$
+C) $2097152$
+D) $-262144$
+E) $4096$
+video:
+
+## 25
+En el cociente generado por $\frac{x^{3n}-y^{7n}}{x^{3}-y^{7}}$, el término de lugar 13 contado a partir del extremo final tiene por grado 190. El número de términos que tiene el desarrollo es:
+A) $30$
+B) $36$
+C) $40$
+D) $35$ *
+E) $32$
+video:
+
+## 26
+Sabiendo que $(a+b)^{2}=P$ y $a^{2}-c=Q$, ¿cuántos términos en función de $P$ y $Q$ tendrá el cociente notable $\frac{(a+b)^{128}-\left(a^{2}-c\right)^{64}}{b^{2}+2ab+c}$?
+A) $128$
+B) $64$ *
+C) $32$
+D) $63$
+E) $65$
+video:
+
+## 27
+Hallar el grado absoluto del término central en el cociente notable que se obtiene al dividir $\frac{x^{m}+y^{845}}{x^{5}+y^{m}}$; $m\in\mathbb{Z}^{+}$
+A) $390$
+B) $425$
+C) $845$
+D) $420$ *
+E) $450$
+video:
+
+## 28
+Sabiendo que $(a+b)^{3}=P$ y además $b^{3}+3a^{2}b-c=Q$, ¿cuántos términos en función de $P$ y $Q$ tendrá el cociente notable $\frac{(a+b)^{96}-\left(b^{3}+3a^{2}b-c\right)^{32}}{a^{3}+3ab^{2}+c}$?
+A) $96$
+B) $33$
+C) $32$ *
+D) $31$
+E) $64$
+video:
+
+## 29
+Si el quinto término del cociente notable que origina la división $\frac{1}{2}\left[\frac{(x+5)^{m}-(x+1)^{m}}{x+3}\right]$ tiene como valor numérico 3456 para $x=1$, calcular el valor de $m$.
+A) $8$ *
+B) $6$
+C) $7$
+D) $9$
+E) $10$
+video:
+
+## 30
+Si el séptimo término del cociente notable que se origina al dividir $\frac{x^{m}-y^{48}}{x^{a}-y^{b}}$ es $x^{m-98}y^{18}$, ¿qué valor adquiere $a^{2}+b^{2}+m$?
+A) $205$
+B) $433$
+C) $420$
+D) $241$
+E) $429$ *
+video:
+
+## 31
+Si un término del cociente notable generado por $\frac{x^{21m-9}-y^{20n}}{x^{m}-y^{n}}$ es $x^{117}y^{30}$, hallar el valor de $m^{2}+n^{2}$
+A) $61$
+B) $106$ *
+C) $116$
+D) $100$
+E) $125$
+video:
+
+## 32
+Hallar el lugar que ocupa el término en el cociente notable generado por $\frac{x^{100}-y^{80}}{x^{5}-y^{4}}$, contado a partir del primer término, sabiendo que la diferencia con el grado absoluto del término que ocupa la misma posición contado a partir del extremo final es 9.
+A) $5$
+B) $7$
+C) $9$
+D) $6$ *
+E) $15$
+video:
+
+## 33
+Si en el cociente notable de dividir $\frac{x^{125}-y^{75}}{x^{5}-y^{3}}$ el grado absoluto del término de lugar $(k+2)$ contado a partir del primer término excede en 12 unidades al grado absoluto del término de lugar $k$ contando del extremo final, halle $k$.
+A) $8$
+B) $10$
+C) $9$ *
+D) $12$
+E) $7$
+video:
+
+## 34
+Si el término de lugar 33 del cociente notable generado por $\frac{x^{37n+3}+y^{10(5m+2)}}{x^{m}+y^{n}}$ es $x^{60}y^{192}$, halle el número de términos; $\{m,n\}\subset\mathbb{Z}^{+}$
+A) $33$
+B) $40$
+C) $35$
+D) $50$
+E) $45$ *
+video:
+
+## 35
+En el cociente notable generado por $\frac{x^{ab}+y^{bc}}{x^{a}-y^{c}}$ se sabe que el término de lugar 12 tiene por grado absoluto 74; el término de lugar 15 tiene por grado absoluto 68 y su grado relativo respecto a $y$ es 28. Halle el valor de $a$.
+A) $4$ *
+B) $2$
+C) $5$
+D) $3$
+E) $6$
+video:
+
+## 36
+Calcular el término de lugar 16 en el siguiente cociente notable: $\frac{6x-x^{2}-8}{1-\sqrt[15]{x-3}}$
+A) $x+3$
+B) $1$
+C) $(x-3)^{2}$
+D) $x-3$ *
+E) $\sqrt[15]{x-3}$
+video:
+
+## 37
+Si la división $\frac{(3x-2)^{45}+(3x+2)^{45}}{x}$ origina un cociente notable en el cual un término tiene la forma $A\left(9x^{2}-4\right)^{B}$, halle $A+B$
+A) $22$
+B) $24$
+C) $28$ *
+D) $23$
+E) $29$
+video:
+
+## 38
+En el cociente notable $\frac{x^{12}-y^{20}}{x^{3}-y^{5}}$, ¿cuántos términos centrales tiene?
+A) $1$
+B) $2$ *
+C) $3$
+D) $4$
+E) $0$
+video:
+
+## 39
+En el cociente generado por $\frac{x^{a}-y^{b}}{x^{3}-y^{7}}$ existe un término central que es igual a $x^{c}y^{231}$. Hallar el valor de $a+b+c$
+A) $670$
+B) $700$
+C) $868$
+D) $769$ *
+E) $739$
+video:
+
+## 40
+Sea el cociente notable $\frac{x^{6n+3}+a^{6n-22}}{x^{\frac{n-6}{2}}+a^{\frac{n-8}{2}}}$. Calcular: a) el valor de $n$; b) el número de términos; c) el término 19.
+A) $n=12$; 24 términos; $t_{19}=x^{18}a^{36}$
+B) $n=14$; 25 términos; $t_{19}=x^{18}a^{36}$
+C) $n=12$; 25 términos; $t_{19}=x^{36}a^{18}$
+D) $n=12$; 25 términos; $t_{19}=-x^{18}a^{36}$
+E) $n=12$; 25 términos; $t_{19}=x^{18}a^{36}$ *
+video:
+
+## 41
+Para el cociente notable $\frac{x^{3n+9}+y^{3n}}{x^{3}+y^{2}}$, calcular el valor numérico del término central para $x=1$; $y=2$
+A) $128$
+B) $512$
+C) $256$ *
+D) $-256$
+E) $64$
+video:
+
+## 42
+Calcular $E=\frac{t_{1}\cdot t_{8}}{t_{10}\cdot t_{5}}$ de $\frac{x^{105}+y^{147}}{x^{5}+y^{7}}$
+A) $x^{-30}y^{42}$
+B) $x^{30}y^{-42}$ *
+C) $-x^{30}y^{-42}$
+D) $x^{30}y^{42}$
+E) $x^{25}y^{-35}$
+video:
+
+## 43
+Dado el cociente notable $\frac{x^{21}-y^{21}}{x^{n}-y^{m}}$, hallar el valor de $E=\sqrt{m\sqrt{n\sqrt{m\sqrt{n\sqrt{m\sqrt{n\cdots}}}}}}$ si $m$ es igual al número de términos.
+A) $21$
+B) $\sqrt[3]{21}$
+C) $7$
+D) $\sqrt{21}$ *
+E) $3$
+video:
+
+## 44
+Si en el cociente notable $\frac{x^{3^{n}-3}-y^{3^{n}-3}}{x^{2^{p^{2}}-1}-y^{2^{p^{2}}-1}}$ el segundo término es $x^{210}y^{15}$, calcular $E=\sqrt{\frac{4p^{2}n}{5}}$
+A) $2$
+B) $8$
+C) $16$
+D) $\sqrt{2}$
+E) $4$ *
+video:
+
+## 45
+En el cociente notable $\frac{\left(x^{m^{29-7m}}\right)^{m^{2}-1}-\left(y^{29-7m}\right)^{m^{m^{2}-1}}}{\sqrt[27^{-1}]{x^{27}}-\sqrt[81^{-1}]{y^{9}}}$, calcular: a) $m$; b) el número de términos.
+A) $m=3$; 72 términos *
+B) $m=3$; 81 términos
+C) $m=2$; 72 términos
+D) $m=3$; 64 términos
+E) $m=4$; 72 términos
+video:
+
+## 46
+Si la división $\frac{(5x-1)^{99}+(5x+1)^{99}}{x}$ origina un cociente notable en el cual uno de los términos tiene la forma $a\left(25x^{2}-1\right)^{b}$, hallar los valores de $a$ y $b$.
+A) $a=10;\ b=49$
+B) $a=-10;\ b=50$
+C) $a=-10;\ b=49$ *
+D) $a=10;\ b=50$
+E) $a=-5;\ b=49$
+video:
+
+## 47
+En el desarrollo del cociente notable $\frac{(x+a)^{14}+a^{14}}{x^{2}+2a^{2}+2ax}$, hallar el término central.
+A) $(x+a)^{6}a^{6}$
+B) $-(x+a)^{6}a^{6}$ *
+C) $-(x+a)^{7}a^{7}$
+D) $(x+a)^{8}a^{6}$
+E) $-(x+a)^{12}a^{12}$
+video:
+
+## 48
+¿Qué posición ocupa el término $x^{2}y^{6}$ en el desarrollo del cociente notable $\frac{x^{p+q}-y^{2p}}{x^{p-2q}-y^{\frac{p}{2}}}$?
+A) $2$
+B) $4$
+C) $5$
+D) $3$ *
+E) $1$
+video:
+
+## 49
+Si $x^{a}y^{24}$ es el término central del desarrollo $\frac{x^{75}-y^{b}}{x^{c}-y^{2}}$, calcular el valor de $a+b+c$
+A) $85$
+B) $64$
+C) $101$
+D) $86$
+E) $89$ *
+video:
+
+## 50
+En el cociente notable $\frac{x^{a}-y^{24}}{x^{b}-y^{c}}$ se cumple que $t_{b-4}=x^{a-96}y^{14}$. Calcular: a) $a+b+c$; b) el número de términos; c) el grado absoluto de $t_{b-5}$
+A) $158$; 12; 70
+B) $158$; 12; 72 *
+C) $156$; 12; 72
+D) $158$; 24; 72
+E) $160$; 12; 74
+video:
+
+## 51
+Hallar $m+n$ si el $t_{25}$ del desarrollo de $\frac{x^{129m}-a^{86n}}{x^{3m}-a^{2n}}$ es $x^{270}a^{288}$
+A) $10$
+B) $12$
+C) $11$ *
+D) $30$
+E) $9$
+video:
+
+## 52
+¿Qué relación debe cumplirse entre los valores $a$ y $b$, de tal manera que la expresión $\frac{x^{a+b}y^{ab}-y^{a^{3}+b^{3}+ab}}{(xy)^{ab}-y^{a^{2}+b^{2}}}$ sea cociente notable?
+A) $a=b$
+B) $a+b=1$
+C) $ab=2$
+D) $ab=1$ *
+E) $a^{2}+b^{2}=1$
+video:
+
+## 53
+Uno de los términos del cociente notable $\frac{x^{p}-y^{12}}{x^{2}-y^{q}}$ es $x^{14}y^{4}$. Diga cuántos términos tendrá su desarrollo completo.
+A) $6$
+B) $10$
+C) $14$
+D) $8$
+E) $12$ *
+video:
+
+## 54
+En el cociente notable $\frac{x^{3^{n}-3}-y^{3^{n}-3}}{x^{2p^{2}-1}-y^{2p^{2}-1}}$ se sabe que el segundo término es $x^{210}y^{15}$. Calcular el valor de $p\cdot n$
+A) $10\sqrt{2}$ *
+B) $10$
+C) $5\sqrt{2}$
+D) $20$
+E) $8\sqrt{2}$
+video:
+
+## 55
+Si el octavo término del cociente notable $\frac{x^{a}-y^{24}}{x^{b}-y^{c}}$ es el monomio $x^{a-96}y^{14}$, hallar la suma de los exponentes de los términos centrales.
+A) $144$
+B) $164$
+C) $154$ *
+D) $132$
+E) $82$
+video:
+
+## 56
+Si en el desarrollo del cociente notable $\frac{x^{n+3m}-y^{7m}}{x^{2}-y^{4}}$ hay 14 términos, hallar el grado absoluto del término que ocupa el lugar $(m-n)$, es decir $t_{m-n}$
+A) $28$
+B) $32$ *
+C) $30$
+D) $36$
+E) $34$
+video:
+
+## 57
+Hallar $p+q$ en el cociente notable $\frac{x^{p}-y^{q}}{x^{3}-y^{4}}$ si $\frac{t_{6}\cdot t_{9}}{t_{7}}=x^{12}y^{28}$
+A) $72$
+B) $80$
+C) $96$
+D) $84$ *
+E) $60$
+video:
+
+## 58
+Hallar la relación de los términos centrales del cociente notable $\frac{\sqrt[3]{x^{8}}-\sqrt[3]{y^{8}}}{\sqrt[3]{x^{2}}-\sqrt[3]{y^{2}}}$
+A) $\sqrt[3]{\frac{x}{y}}$
+B) $\left(\frac{x}{y}\right)^{2}$
+C) $\sqrt[3]{\left(\frac{y}{x}\right)^{2}}$
+D) $\frac{x}{y}$
+E) $\sqrt[3]{\left(\frac{x}{y}\right)^{2}}$ *
+video:
+
+## 59
+En el cociente notable $\frac{x^{p}-y^{30}}{x^{2}-y^{q}}$, el cuarto término tiene grado relativo a $y$ igual a 9. Hallar la relación de los términos centrales.
+A) $\frac{x^{2}}{y^{3}}$ *
+B) $\frac{x^{3}}{y^{2}}$
+C) $\frac{y^{3}}{x^{2}}$
+D) $\frac{x}{y}$
+E) $x^{2}y^{3}$
+video:
+
+## 60
+Hallar el primer término del cociente notable $\frac{[a+b+c]^{4}-[a+b-c]^{4}}{c}$
+A) $(a+b+c)^{3}$
+B) $2(a+b-c)^{3}$
+C) $2(a+b+c)^{3}$ *
+D) $4(a+b+c)^{3}$
+E) $(a+b+c)^{4}$
+video:

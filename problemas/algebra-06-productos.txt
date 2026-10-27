@@ -13,3 +13,408 @@
 // E) opción
 // video:
 // ================================================================
+
+## 1
+Simplificar: $P=(m-2)\left(m^{2}+2m+4\right)-(m+2)\left(m^{2}-2m+4\right)$
+A) $16$
+B) $-16$ *
+C) $2m^{3}$
+D) $0$
+E) $-8$
+video:
+
+## 2
+Reduzca: $P=(x+7)^{2}-(x+6)^{2}-(x-5)^{2}+(x-6)^{2}$
+A) $26$
+B) $22$
+C) $2$
+D) $24$ *
+E) $0$
+video:
+
+## 3
+Efectúe: $P=(x+5)(x-5)\left(x^{2}+5x+25\right)\left(x^{2}-5x+25\right)-\left(x^{3}-125\right)^{2}+31250$
+A) $250x^{3}$ *
+B) $125x^{3}$
+C) $-250x^{3}$
+D) $31250$
+E) $250x^{6}$
+video:
+
+## 4
+Simplifique: $P=\left(\sqrt[3]{7}+\sqrt[3]{2}\right)\left(\sqrt[3]{4}-\sqrt[3]{14}+\sqrt[3]{49}\right)+\left(\sqrt[3]{5}-1\right)\left(\sqrt[3]{25}+1+\sqrt[3]{5}\right)$
+A) $9$
+B) $4$
+C) $13$ *
+D) $5$
+E) $11$
+video:
+
+## 5
+En un libro de álgebra se lee: I. $(x+7)^{2}-(x+6)^{2}=2x+13$; II. $(5x+3)^{2}-(3-5x)^{2}=60x$; III. $(x-8)^{2}-(4-x)^{2}+8x=48$; IV. $\frac{\left(3x^{3}+2\right)^{2}+\left(3x^{3}-2\right)^{2}}{9x^{6}+4}=2$. De estas expresiones son correctas:
+A) Solo I y II
+B) Solo I, II y III
+C) Solo III y IV
+D) Todas *
+E) Ninguna
+video:
+
+## 6
+Simplifique: $P=\frac{(x+9)(x+5)+x(4x+11)-5x^{2}-45}{5x}$
+A) $1$
+B) $x$
+C) $5x$
+D) $9$
+E) $5$ *
+video:
+
+## 7
+Si se sabe que $M=x^{2}+2$ y $P=x^{2}+\frac{4x^{2}+4}{x^{2}}$, entonces $\frac{M}{P}$ es igual a:
+A) $\frac{M-2}{M}$ *
+B) $\frac{M}{M+2}$
+C) $\frac{M+2}{M}$
+D) $M-2$
+E) $\frac{1}{M}$
+video:
+
+## 8
+Si $x^{2}+5=\sqrt{10}\,x$, encuentre el valor de: $P=x^{8}+24x^{4}+41$
+A) $41$
+B) $66$ *
+C) $65$
+D) $76$
+E) $56$
+video:
+
+## 9
+Reduzca: $P=(x-2)^{4}-x(x+3)(x-4)(x-7)-29x(x-4)$
+A) $0$
+B) $-16$
+C) $16$ *
+D) $32$
+E) $8$
+video:
+
+## 10
+Reduzca: $P=(x+y+3)^{2}+(x+y-3)^{2}-4(x-y)^{2}+2(x+y+3)(x+y-3)$
+A) $8xy$
+B) $4xy$
+C) $16x^{2}y^{2}$
+D) $16xy$ *
+E) $12xy$
+video:
+
+## 11
+Hallar el valor numérico de $P=(x+5)(x+3)+(x+8)(x+6)-2(11x+31)$ si $x=\sqrt{7}$
+A) $7$
+B) $17$
+C) $22$
+D) $9$
+E) $15$ *
+video:
+
+## 12
+Si $a^{3}-b^{3}=40$ y $a-b=4$, evalúe: $a^{2}+b^{2}$
+A) $12$ *
+B) $8$
+C) $16$
+D) $10$
+E) $24$
+video:
+
+## 13
+Halle el valor numérico de $P=(a+b)^{6}-(a-b)^{6}-3\left(a^{2}+b^{2}\right)^{2}\left[(a+b)^{2}-(a-b)^{2}\right]$ siendo $a=\sqrt[3]{5}$; $b=2$
+A) $2560$
+B) $640$ *
+C) $320$
+D) $160$
+E) $1280$
+video:
+
+## 14
+Simplifique: $P=\sqrt[6]{(x+3)\left(x^{2}+9\right)(x-3)\left(x^{4}+9x^{2}+81\right)\left(x^{4}-9x^{2}+81\right)+3^{12}}$
+A) $x$
+B) $x^{12}$
+C) $x^{2}$ *
+D) $x^{3}$
+E) $3x^{2}$
+video:
+
+## 15
+Reduzca: $P=4\left[(x+5)^{3}-15x(x+5)\right]\left[(x-5)^{3}+15x(x-5)\right]-\left[\left(x^{6}+1\right)^{2}-\left(x^{6}-1\right)^{2}\right]$
+A) $62500$
+B) $-31250$
+C) $15625$
+D) $-62500$ *
+E) $0$
+video:
+
+## 16
+Reduzca: $P=\left(3\sqrt{2}+1\right)\left(3\sqrt{2}+2\right)-\left(2\sqrt{2}+1\right)\left(2\sqrt{2}+2\right)-\left(\sqrt{2}+2\right)\left(\sqrt{2}+1\right)$
+A) $4$
+B) $8$
+C) $2\sqrt{2}$
+D) $10$
+E) $6$ *
+video:
+
+## 17
+Si $x+x^{-1}=4$, encuentre el valor de: $P=2\left(x^{3}+x^{-3}\right)+\left(x^{2}+x^{-2}\right)^{2}$
+A) $300$ *
+B) $248$
+C) $196$
+D) $252$
+E) $304$
+video:
+
+## 18
+Halle el valor numérico de $P=\sqrt{(x+6)(x+4)+1}$ para $x=2010$
+A) $2013$
+B) $2015$ *
+C) $2016$
+D) $2014$
+E) $2017$
+video:
+
+## 19
+Simplifique: $\frac{\left(x^{2}+6x+9\right)^{2}-\left(x^{2}-6x+9\right)^{2}}{8x^{3}+72x}$
+A) $\frac{1}{3}$
+B) $6$
+C) $3$ *
+D) $9$
+E) $24$
+video:
+
+## 20
+Siendo $x+y=xy=4$, halle: $P=x^{3}+x^{2}+1+y^{2}+y^{3}$
+A) $17$
+B) $21$
+C) $33$
+D) $25$ *
+E) $9$
+video:
+
+## 21
+Sabiendo que $(x+y)^{6}=64x^{3}y^{3}$, calcule: $P=x^{2001}-y^{2001}+\frac{(x+2y)^{2}}{xy}$
+A) $1$
+B) $4$
+C) $2$
+D) $5$
+E) $9$ *
+video:
+
+## 22
+Simplifique: $P=\frac{(x+12)^{2}-(x+17)(x+7)+1}{(x+11)(x+9)-(x+13)(x+7)}$
+A) $\frac{13}{4}$ *
+B) $\frac{4}{13}$
+C) $\frac{3}{4}$
+D) $13$
+E) $\frac{1}{4}$
+video:
+
+## 23
+Si $x-y=5$ y $xy=-7$, halle el valor de: $x^{4}+y^{4}$
+A) $121$
+B) $23$ *
+C) $11$
+D) $49$
+E) $72$
+video:
+
+## 24
+Simplifique: $P=\frac{(x+5)(x+6)(x+7)(x+8)-\left(x^{2}+13x+41\right)^{2}}{(x-5)(x-6)(x-7)(x-8)-\left(x^{2}-13x+41\right)^{2}}$
+A) $-1$
+B) $0$
+C) $1$ *
+D) $2$
+E) $x$
+video:
+
+## 25
+Efectúe: $P=(x+2)(x-3)\left(x^{2}-x+2\right)-\left(x^{2}-x-7\right)\left(x^{2}-x+3\right)$
+A) $-9$
+B) $21$
+C) $6$
+D) $9$ *
+E) $0$
+video:
+
+## 26
+Si $a+b=2ab=1$, halle: $P=a^{6}+a^{8}+b^{6}+b^{8}$
+A) $\frac{1}{4}$
+B) $\frac{1}{16}$
+C) $\frac{3}{8}$
+D) $\frac{1}{2}$
+E) $\frac{1}{8}$ *
+video:
+
+## 27
+Si $a-b=b-c=c-d=\sqrt{2}$, halle el valor numérico de: $P=5(a-c)^{2}+7(b-d)^{2}$
+A) $96$ *
+B) $48$
+C) $72$
+D) $24$
+E) $120$
+video:
+
+## 28
+Sabiendo que $a^{3}+b^{3}=35$ y $a+b=5$, halle: $a^{2}+b^{2}$
+A) $25$
+B) $13$ *
+C) $15$
+D) $19$
+E) $6$
+video:
+
+## 29
+Simplifique: $P=\frac{\left(2a-5b^{2}\right)\left(8a^{3}+125b^{6}\right)+\left(2a+5b^{2}\right)\left(8a^{3}-125b^{6}\right)}{16a^{4}-625b^{8}}$
+A) $1$
+B) $4$
+C) $2$ *
+D) $16$
+E) $\frac{1}{2}$
+video:
+
+## 30
+Reduzca: $P=(2a+3b)^{2}\left(4a^{2}+12ab-9b^{2}\right)-(2a-3b)^{2}\left(4a^{2}-12ab-9b^{2}\right)$
+A) $96a^{3}b$
+B) $192ab^{3}$
+C) $144a^{3}b$
+D) $192a^{3}b$ *
+E) $192a^{4}b$
+video:
+
+## 31
+Simplifique: $P=\left(2a^{2}+a+3\right)^{3}-\left(2a^{2}-a-3\right)^{3}-2(a+3)^{3}-24a^{5}$
+A) $36a^{4}$
+B) $72a^{5}$
+C) $54a^{4}$
+D) $24a^{4}$
+E) $72a^{4}$ *
+video:
+
+## 32
+Simplifique: $P=(x-5)(x+3)(x+4)(x-4)+32(x+2)(x-3)-x^{2}(x-1)^{2}$
+A) $48$ *
+B) $32$
+C) $64$
+D) $16$
+E) $-48$
+video:
+
+## 33
+Simplifique: $P=\frac{(x+3)(x-3)\left(x^{2}+3x+9\right)\left(x^{2}-3x+9\right)}{x^{3}-27}$
+A) $x^{3}-27$
+B) $x^{3}+27$ *
+C) $x^{6}-27$
+D) $x+3$
+E) $x^{3}+9$
+video:
+
+## 34
+Sabiendo que $\frac{a^{2}}{b}-\frac{b^{2}}{a}=3(a-b)$, calcule: $P=\frac{5a^{16}+3b^{16}}{\left(a^{4}b^{4}\right)^{2}}$
+A) $5$
+B) $3$
+C) $8$ *
+D) $15$
+E) $2$
+video:
+
+## 35
+Simplifique: $P=\sqrt[16]{40\left(7^{2}+3^{2}\right)\left(7^{4}+3^{4}\right)\left(7^{8}+3^{8}\right)\left(7^{16}+3^{16}\right)+3^{32}}$
+A) $7$
+B) $343$
+C) $40$
+D) $49$ *
+E) $58$
+video:
+
+## 36
+Calcular: $E=(a-b+c-d)(a-b-c+d)+(c-d)^{2}+(a+b)^{2}$
+A) $2\left(a^{2}-b^{2}\right)$
+B) $2a^{2}+b^{2}$
+C) $(a+b)^{2}$
+D) $4ab$
+E) $2\left(a^{2}+b^{2}\right)$ *
+video:
+
+## 37
+Reducir $L=(x+y)\left(x^{2}+y^{2}\right)\left(x^{4}+y^{4}\right)\left(x^{8}+y^{8}\right)+y^{16}$, si se sabe que: $x=y+1$
+A) $x^{16}$ *
+B) $y^{16}$
+C) $x^{16}-y^{16}$
+D) $x^{16}+2y^{16}$
+E) $1$
+video:
+
+## 38
+Reducir: $E=\left[\left(\frac{a}{b}+\frac{b}{a}\right)^{2}+\left(\frac{a}{b}-\frac{b}{a}\right)^{2}\right]^{2}-4\left[\left(\frac{a}{b}\right)^{2}-\left(\frac{b}{a}\right)^{2}\right]^{2}$
+A) $4$
+B) $16$ *
+C) $8$
+D) $0$
+E) $32$
+video:
+
+## 39
+Si $\left(a+\frac{1}{a}\right)^{2}=3$, hallar $a^{3}+\frac{1}{a^{3}}$
+A) $\sqrt{3}$
+B) $3\sqrt{3}$
+C) $0$ *
+D) $3$
+E) $6$
+video:
+
+## 40
+Si $x^{3}+x^{-3}=18$, calcular el valor de $x+\frac{1}{x}$
+A) $2$
+B) $6$
+C) $9$
+D) $3$ *
+E) $\sqrt[3]{18}$
+video:
+
+## 41
+Si $a+b+c=0$, calcular: $\frac{a}{b+c}+\frac{b}{a+c}+\frac{c}{a+b}$
+A) $3$
+B) $0$
+C) $1$
+D) $-1$
+E) $-3$ *
+video:
+
+## 42
+Si $a+b+c=0$, halle el valor de $E=\left[\frac{a^{2}}{bc}+\frac{b^{2}}{ac}+\frac{c^{2}}{ab}\right]\left[\frac{a^{2}+ab+b^{2}}{b^{2}+bc+c^{2}}\right]$
+A) $3$ *
+B) $1$
+C) $0$
+D) $-3$
+E) $9$
+video:
+
+## 43
+Efectuar: $Y=(a+b+c)(a-b+c)(a+b-c)(-a+b+c)+\left(c^{2}-a^{2}-b^{2}\right)^{2}$
+A) $2a^{2}b^{2}$
+B) $4a^{2}b^{2}$ *
+C) $4a^{2}c^{2}$
+D) $a^{2}b^{2}$
+E) $4abc$
+video:
+
+## 44
+Simplificar: $J=\frac{\left[\left(\frac{x}{y}+\frac{y}{x}\right)^{2}+\left(\frac{x}{y}-\frac{y}{x}\right)^{2}\right]^{2}-4\left[\left(\frac{x}{y}\right)^{2}-\left(\frac{y}{x}\right)^{2}\right]^{2}}{\left[\left(\frac{x}{y}\right)^{3}+\left(\frac{y}{x}\right)^{3}\right]^{2}-\left[\left(\frac{x}{y}\right)^{3}-\left(\frac{y}{x}\right)^{3}\right]^{2}}$
+A) $2$
+B) $16$
+C) $4$ *
+D) $1$
+E) $8$
+video:
+
+## 45
+Calcular $G=\frac{\sqrt{\sqrt{x}+3\sqrt{y}}}{\sqrt{2\sqrt{y}-\sqrt{x}}}+\frac{\sqrt{x}}{\sqrt{y}}+\frac{\sqrt{y}}{\sqrt{x}}+1$, si se cumple que: $\frac{1}{x}+\frac{1}{y}=\frac{4}{x+y}$
+A) $3$
+B) $4$
+C) $6$
+D) $5$ *
+E) $2$
+video:

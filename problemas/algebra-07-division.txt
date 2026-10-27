@@ -13,3 +13,480 @@
 // E) opción
 // video:
 // ================================================================
+
+## 1
+Halle el cociente en la división: $\frac{5a^{x+5}-11a^{x+4}+18a^{x+3}-5a^{x+2}+3a^{x+1}}{5a^{x+3}-a^{x+2}+a^{x+1}}$
+A) $a^{2}+2a+3$
+B) $a^{2}-2a+3$ *
+C) $a^{2}-2a-3$
+D) $a^{2}-3a+2$
+E) $5a^{2}-2a+3$
+video:
+
+## 2
+Al dividir $\frac{x^{5}+3x^{4}+104x^{3}+104+3x+x^{2}}{x^{2}+3x+104}$, indicar el término independiente del cociente.
+A) $104$
+B) $0$
+C) $3$
+D) $1$ *
+E) $-1$
+video:
+
+## 3
+Hallar el cociente de la siguiente división: $\frac{8x^{3}-42x^{2}+38x-17}{4x^{2}-7x+3}$
+A) $2x-7$ *
+B) $2x+7$
+C) $2x-5$
+D) $4x-7$
+E) $-17x+4$
+video:
+
+## 4
+Hallar el residuo de la siguiente división: $\frac{10x^{4}-9x^{3}+5x^{2}+9x+4}{5x^{2}-2x-1}$
+A) $2x^{2}-x+1$
+B) $10x-5$
+C) $10x+5$ *
+D) $5x+10$
+E) $10x+3$
+video:
+
+## 5
+Hallar la suma de coeficientes del cociente al dividir: $\frac{17x^{2}+2+14x^{4}-23x^{3}+3x}{2x^{2}-3x+2}$
+A) $7$
+B) $5$
+C) $8$
+D) $6$ *
+E) $13$
+video:
+
+## 6
+Calcular la suma de coeficientes del cociente, luego de dividir: $\frac{8x^{3}-2x+1-10x^{2}+9x^{5}}{2x-x^{2}+3x^{3}-4}$
+A) $5$ *
+B) $3$
+C) $7$
+D) $6$
+E) $4$
+video:
+
+## 7
+La suma de los coeficientes del cociente y residuo de la siguiente división: $\frac{26x^{4}+87x^{3}-25x^{2}+6x+4}{2x^{2}+7x-3}$, es:
+A) $25$
+B) $-52$
+C) $15$
+D) $77$
+E) $-27$ *
+video:
+
+## 8
+La suma de los coeficientes del cociente y residuo de la siguiente división: $\frac{15x^{4}+27x^{3}+10}{5x^{2}-x+2}$
+A) $9$
+B) $7$ *
+C) $-2$
+D) $10$
+E) $5$
+video:
+
+## 9
+Calcule $a+b$ si la división indicada $\frac{6x^{6}+5x^{5}-x^{4}-10x^{3}-9x^{2}+ax+b}{3x^{3}+x^{2}+2x-5}$ deja como resto: $3x+2$
+A) $13$
+B) $11$
+C) $15$ *
+D) $17$
+E) $2$
+video:
+
+## 10
+Calcule $a+b$ si la siguiente división es exacta: $\frac{2x^{5}+x^{4}+x^{3}+3x^{2}+ax+b}{2x^{2}-3x+1}$
+A) $-17$
+B) $7$
+C) $17$
+D) $-7$ *
+E) $-12$
+video:
+
+## 11
+Si la división $\frac{8x^{5}+2x^{4}+bx+ax^{2}+19x^{3}+c}{4x^{3}-x^{2}+3}$ dejó como resto: $x^{2}+2x+4$, encuentre el valor de: $a+b+c$
+A) $26$ *
+B) $24$
+C) $28$
+D) $21$
+E) $7$
+video:
+
+## 12
+Calcule el valor de $m$, si la siguiente división deja como residuo $3x+2$: $\frac{2x^{6}-x^{4}+mx^{3}-6x+2}{2x^{2}+2x-3}$
+A) $3$
+B) $13$ *
+C) $11$
+D) $-13$
+E) $15$
+video:
+
+## 13
+Calcule $a+b$ si la siguiente división es exacta: $\frac{2x^{4}+ax^{3}+bx^{2}+13x+4}{x^{2}+3x+1}$
+A) $9$
+B) $7$
+C) $2$
+D) $18$
+E) $16$ *
+video:
+
+## 14
+Calcule $m$ si la siguiente división no deja residuo: $\frac{9x^{4}+12x^{3}+21x^{2}+10x+m}{3x^{2}+3x+4}$
+A) $4$
+B) $12$
+C) $8$ *
+D) $-8$
+E) $6$
+video:
+
+## 15
+Si la división $\frac{2x^{6}-32x^{2}+ax+b}{x^{3}-4x}$ dejó como resto: $3x-5$, encuentre el valor de $a+b$
+A) $2$
+B) $-2$ *
+C) $8$
+D) $-8$
+E) $3$
+video:
+
+## 16
+Hallar el valor de $m+n$ si la división $\frac{15x^{4}+13x^{3}+x^{2}+mx+n}{5x^{2}+x-2}$ es exacta.
+A) $5$
+B) $-3$
+C) $-2$
+D) $-5$ *
+E) $1$
+video:
+
+## 17
+Calcule $A+B$ si la siguiente división es exacta: $\frac{x^{5}+3x^{2}+Ax+B}{x^{2}+x+1}$
+A) $8$ *
+B) $4$
+C) $5$
+D) $6$
+E) $0$
+video:
+
+## 18
+La suma de los coeficientes del cociente y residuo de la siguiente división: $\frac{3+x+2x^{2}+12x^{3}}{1-2x+4x^{2}}$
+A) $5$
+B) $3$
+C) $10$
+D) $6$
+E) $8$ *
+video:
+
+## 19
+Si la siguiente división $\frac{4x^{4}+8x^{2}+(A+2)x+B-4}{2x^{2}+2x+5}$ deja como residuo: $R(x)=3x+2$. Halle: $A+B$
+A) $-7$
+B) $11$
+C) $4$ *
+D) $18$
+E) $2$
+video:
+
+## 20
+Calcular $A+B+C$ si la división $\frac{9x^{5}+12x^{4}-2x^{3}+Ax^{2}+Bx+C}{3x^{3}+2x^{2}+1}$ deja como resto: $R(x)=7x^{2}+5x+3$
+A) $13$
+B) $14$ *
+C) $6$
+D) $16$
+E) $7$
+video:
+
+## 21
+Calcular $m+n$, si la división no deja residuo: $\frac{x^{4}+2x^{3}-7x^{2}+mx+n}{x^{2}-3x+5}$
+A) $16$
+B) $15$
+C) $1$
+D) $31$ *
+E) $29$
+video:
+
+## 22
+Calcule $m+n$, si la siguiente división es exacta: $\frac{x^{5}+3x^{2}-mx+n}{x^{2}-4}$
+A) $28$
+B) $-4$
+C) $16$
+D) $12$
+E) $4$ *
+video:
+
+## 23
+Hallar $a^{2}+b^{2}+c^{2}$, sabiendo que la división $\frac{x^{5}-2x^{3}+ax^{2}+bx-c}{x^{3}-2x^{2}+5}$ da un residuo: $R(x)=4x^{2}+5$
+A) $106$
+B) $125$
+C) $350$ *
+D) $150$
+E) $225$
+video:
+
+## 24
+Si la división $\frac{6x^{5}+5x^{4}+23x^{2}-30x^{3}+mx+3}{2x^{2}+5x-3}$ es exacta, encuentre el equivalente de $m+24$
+A) $11$
+B) $13$ *
+C) $-11$
+D) $35$
+E) $24$
+video:
+
+## 25
+Si la división $\frac{x^{4}-3ax^{3}+a^{2}x^{2}-ma^{3}x+na^{4}}{x^{2}-ax+2a^{2}}$ es exacta, calcule $m\cdot n$
+A) $6$
+B) $-5$
+C) $5$
+D) $1$
+E) $-6$ *
+video:
+
+## 26
+Al dividir $\frac{ax+2x^{2}+6x^{3}+4x^{4}-b}{2x^{2}+3x-1}$ se obtiene como resto: $R(x)=4x$. Halle $a$ y $b$.
+A) $a=2;\ b=10$
+B) $a=10;\ b=2$ *
+C) $a=10;\ b=-2$
+D) $a=-10;\ b=2$
+E) $a=6;\ b=2$
+video:
+
+## 27
+Si al dividir el polinomio $\frac{9x^{4}-6x^{3}+mx^{2}+nx+2}{x^{2}+1}$ se obtiene un residuo tal que elevado al cuadrado es igual al cociente, entonces los valores de $m$ y $n$ respectivamente son:
+A) $-9;\ 10$
+B) $10;\ 9$
+C) $9;\ -10$
+D) $10;\ -9$ *
+E) $8;\ -6$
+video:
+
+## 28
+Determine la relación entre $m$ y $n$, si la siguiente división es exacta: $\frac{x^{5}-10mx+8n}{(x-b)^{2}}$
+A) $2m^{5}=n^{4}$ *
+B) $m^{4}=2n^{5}$
+C) $2n^{4}=m^{5}$
+D) $n^{5}=2m^{4}$
+E) $m^{5}=n^{4}$
+video:
+
+## 29
+Hallar el valor de $2a+3b+4c$ si la división $\frac{ax^{5}+bx^{4}+cx^{3}-3x^{2}+5x+6}{3x^{3}-2x+3}$ es exacta.
+A) $16$
+B) $47$
+C) $51$
+D) $45$
+E) $49$ *
+video:
+
+## 30
+Calcule $m$ en la división exacta: $\frac{2mx^{4}-mx^{3}+6x-24}{2x^{2}-x+4}$
+A) $2$
+B) $-3$
+C) $3$ *
+D) $4$
+E) $6$
+video:
+
+## 31
+En la división $\frac{bx^{2}+2x^{4}+d+ax^{3}+cx}{1+x^{2}-x}$ los coeficientes del cociente aumentan de 6 en 6 unidades a partir del primero y deja como residuo: $(d-6)x+(4-c)$. Halle: $a^{2}+b^{2}+c^{2}+d^{2}$
+A) $184$
+B) $334$ *
+C) $252$
+D) $300$
+E) $274$
+video:
+
+## 32
+En la siguiente división $\frac{3x^{4}+bx^{3}+5x^{2}+mx+n}{x^{2}+2x-1}$, que es exacta, la suma de coeficientes del cociente es 8. Indicar la suma de los valores de $b$, $m$ y $n$.
+A) $10$
+B) $12$
+C) $-24$
+D) $8$ *
+E) $6$
+video:
+
+## 33
+En la división $\frac{2x^{4}+ax^{3}+bx^{2}-14x+9}{2x^{2}-3x+1}$ los coeficientes del cociente aumentan de 3 en 3 unidades a partir del primero. Halle $a+b$
+A) $5$
+B) $3$
+C) $11$
+D) $2$
+E) $8$ *
+video:
+
+## 34
+Determinar $m$ y $n$ para que la división de $6x^{4}+4x^{3}-5x^{2}-10x+m$ entre $3x^{2}+2x-n$ sea exacta.
+A) $m=-25;\ n=-5$ *
+B) $m=25;\ n=5$
+C) $m=-5;\ n=-25$
+D) $m=-25;\ n=5$
+E) $m=25;\ n=-5$
+video:
+
+## 35
+Si $R(x)=5x^{2}-3x+2$ es el resto de dividir $\frac{8x^{5}+4x^{3}+Ax^{2}+Bx+C}{2x^{3}+x^{2}+3}$, calcular $E=A+B+C$
+A) $20$
+B) $31$
+C) $22$ *
+D) $11$
+E) $2$
+video:
+
+## 36
+Calcular el resto de la división de: $\frac{(x+1)^{7}-x^{7}-1}{x+2}$
+A) $128$
+B) $126$ *
+C) $-126$
+D) $0$
+E) $130$
+video:
+
+## 37
+Dada la división $\frac{a^{2}x^{3}+a^{2}cx+k-b^{2}x}{ax+b}$, hallar el valor de $k$ para que el residuo sea igual a $3abc$.
+A) $3abc$
+B) $2abc$
+C) $-4abc$
+D) $abc$
+E) $4abc$ *
+video:
+
+## 38
+Hallar los valores de $k$ para que el resto de la división sea 10: $\frac{4x^{4}-7x^{3}+(k+1)x^{2}+\left(k^{2}-1\right)x-\left(5k+k^{2}\right)}{x-2}$
+A) $k=1$ o $k=-1$
+B) $k=0$ o $k=-1$
+C) $k=0$ o $k=1$ *
+D) $k=2$ o $k=3$
+E) $k=1$ o $k=5$
+video:
+
+## 39
+Si $x^{24}+ax+b$ se divide entre $(x-1)^{2}$, determine los valores de $a$ y $b$ si la división es exacta.
+A) $a=24;\ b=-23$
+B) $a=-23;\ b=24$
+C) $a=-24;\ b=-23$
+D) $a=-24;\ b=23$ *
+E) $a=23;\ b=-24$
+video:
+
+## 40
+Dividir $\left(6x^{5}+5x^{4}+38x^{2}-22x+6\right)\div\left(2x^{2}-3x+1\right)$ y hallar el resto.
+A) $56x-23$ *
+B) $56x+23$
+C) $3x^{3}+7x^{2}+9x+29$
+D) $29x-23$
+E) $46x-23$
+video:
+
+## 41
+Dividir $\left(x^{4}+2x^{3}-2x^{2}+1\right)\div(x-2)$ y hallar el resto.
+A) $17$
+B) $1$
+C) $33$
+D) $25$ *
+E) $9$
+video:
+
+## 42
+Calcular $m+n+p$, si la división $\frac{3x^{5}-2x^{4}-3x^{3}+mx^{2}+nx+p}{3x^{3}-2x^{2}+1}$ deja como resto: $2x^{2}+x-5$
+A) $-1$
+B) $6$
+C) $5$
+D) $-6$
+E) $0$ *
+video:
+
+## 43
+Si el polinomio $x^{3}-2mx^{2}+5ax+b$ es divisible entre $x^{2}-3mx+2a$, encontrar el valor de $\frac{a}{b}$
+A) $\frac{1}{10m}$
+B) $\frac{1}{2m}$ *
+C) $2m$
+D) $-\frac{1}{2m}$
+E) $\frac{1}{m}$
+video:
+
+## 44
+Si la división $\frac{x^{3}+3mx^{2}+3ax+b}{x^{2}+2mx+a}$ es exacta, hallar el valor de $b^{2}-a^{3}$
+A) $m^{6}$
+B) $2m^{6}$
+C) $0$ *
+D) $-m^{6}$
+E) $1$
+video:
+
+## 45
+Calcular el valor de $p$ para que la división $\left(4x^{4}-3px^{2}+2x-1+p\right)\div(2x-1)$ sea exacta.
+A) $1$
+B) $-1$ *
+C) $-2$
+D) $2$
+E) $0$
+video:
+
+## 46
+Hallar los valores de $m$ y $n$ para que $P(x)=x^{6}+2x^{5}+3x^{4}+4x^{3}+mx^{2}-nx$ sea divisible entre $Q(x)=(x-2)(x+1)$
+A) $m=34;\ n=-36$
+B) $m=-36;\ n=34$
+C) $m=-34;\ n=-36$
+D) $m=36;\ n=34$
+E) $m=-34;\ n=36$ *
+video:
+
+## 47
+Hallar $k$ para que la división $\left(4kx^{2}-20x+15-kx\right)\div(2kx-5)$ sea exacta.
+A) $5$
+B) $-2$
+C) $2$ *
+D) $3$
+E) $\frac{1}{2}$
+video:
+
+## 48
+Hallar $m\cdot n$ si la división $\left(x^{5}-mx^{3}+nx^{2}-x-2\right)\div\left(x^{2}-3\right)$ tiene como residuo $R(x)=2x+7$
+A) $6$ *
+B) $5$
+C) $-6$
+D) $9$
+E) $1$
+video:
+
+## 49
+Hallar el valor de $k$ para que el resto de la división $\left(6x^{36}+17x^{27}+kx^{18}+17x^{9}+8\right)\div\left(3x^{9}+1\right)$ sea cero.
+A) $16$
+B) $17$
+C) $-17$
+D) $-16$ *
+E) $8$
+video:
+
+## 50
+Hallar $m$, $n$ y $p$ si la división $\frac{12x^{5}-9x^{4}+14x^{3}-mx^{2}+nx-p}{3x^{3}+2x-6}$ no deja resto.
+A) $m=22;\ n=30;\ p=12$
+B) $m=30;\ n=22;\ p=12$ *
+C) $m=30;\ n=12;\ p=22$
+D) $m=-30;\ n=22;\ p=12$
+E) $m=12;\ n=22;\ p=30$
+video:
+
+## 51
+Calcular $m$, $n$ y $p$ en $\frac{8x^{5}+4x^{3}+mx^{2}+nx+p}{2x^{3}+x^{2}+3}$ si el resto es: $5x^{2}+7x+8$
+A) $m=18;\ n=1;\ p=11$
+B) $m=20;\ n=-9;\ p=11$
+C) $m=17;\ n=1;\ p=20$
+D) $m=20;\ n=1;\ p=17$ *
+E) $m=20;\ n=7;\ p=8$
+video:
+
+## 52
+Determinar $a$ y $b$ si el polinomio $ax^{8}+bx^{7}+1$ es divisible entre $(x-1)^{2}$
+A) $a=-7;\ b=8$
+B) $a=8;\ b=-7$
+C) $a=7;\ b=-8$ *
+D) $a=1;\ b=-2$
+E) $a=-8;\ b=7$
+video:
+
+## 53
+Un polinomio de tercer grado cuyo primer coeficiente es 1 es divisible por $(x-2)$ y $(x-1)$, y al ser dividido por $(x-3)$ da resto 20. Hallar su término independiente.
+A) $-14$
+B) $20$
+C) $7$
+D) $14$ *
+E) $2$
+video:
