@@ -13,3 +13,426 @@
 // E) opción
 // video:
 // ================================================================
+
+## 1
+Obtener el número de factores algebraicos de: $P(x;y;z)=x^{6}y^{2}z^{5}+8x^{3}y^{2}z^{5}+6x^{5}y^{2}z^{5}+12x^{4}y^{2}z^{5}$
+A) $287$ *
+B) $288$
+C) $143$
+D) $359$
+E) $215$
+video:
+
+## 2
+Factorice $P(a;b)=a^{2}-25+4ab+4b^{2}$ e indique un factor primo.
+A) $a+2b+25$
+B) $a+2b+5$ *
+C) $a+4b-5$
+D) $2a+b+5$
+E) $a-2b+5$
+video:
+
+## 3
+Indique un factor primo de: $P(x)=x^{2}+(2a+2b+c)x+b^{2}+(2a+b)c+2ab$
+A) $x+2a+c$
+B) $x+a+b$
+C) $x+2a+b$ *
+D) $x+2b+c$
+E) $x+a+2b$
+video:
+
+## 4
+Hallar un factor primo de: $P(x)=\left(4x^{2}+x+2\right)^{2}-\left(3x^{2}-5x-7\right)^{2}$
+A) $x^{2}+4x-5$
+B) $7x^{2}+4x-5$
+C) $x-3$
+D) $7x^{2}-4x-5$ *
+E) $x^{2}-6x+9$
+video:
+
+## 5
+Factorice $P(x;y)=28x^{3}y^{2}+84x^{2}y^{3}+63xy^{4}$ e indique el número de sus factores primos.
+A) $2$
+B) $4$
+C) $5$
+D) $6$
+E) $3$ *
+video:
+
+## 6
+Factorice: $P(x;y;z)=x^{13}+y^{13}+z^{13}+x^{3}z^{6}+x^{3}y^{8}+x^{10}y^{5}+y^{5}z^{6}+x^{10}z^{7}+y^{8}z^{7}$ e indique algún factor primo.
+A) $x^{3}+y^{5}+z^{7}$ *
+B) $x^{3}+y^{8}+z^{6}$
+C) $x^{13}+y^{13}+z^{13}$
+D) $x^{5}+y^{3}+z^{7}$
+E) $x^{10}+y^{5}+z^{7}$
+video:
+
+## 7
+Factorice $P(x;y;z)=6x^{3}y^{3}z^{5}+9x^{2}y^{8}z^{5}+8x^{3}y^{8}z^{4}+12x^{2}y^{13}z^{4}$ e indique un factor primo.
+A) $3x+2y^{5}$
+B) $2x+3y^{5}$ *
+C) $4y^{5}+3x$
+D) $2x+3y^{3}$
+E) $3y^{5}+4z$
+video:
+
+## 8
+Factorizar $P(x;y;z)=x^{7}y^{3}+x^{6}y^{3}+x^{5}y^{3}-x^{7}z^{3}-x^{6}z^{3}-x^{5}z^{3}$ y dar como respuesta el número de factores primos.
+A) $3$
+B) $5$
+C) $4$ *
+D) $6$
+E) $8$
+video:
+
+## 9
+Obtener la suma de coeficientes de un factor primo del polinomio: $P(x)=(x+2)(5x+2)(7x+3)+(x+2)^{2}+4x^{2}+8x$
+A) $10$
+B) $12$
+C) $4$
+D) $11$ *
+E) $5$
+video:
+
+## 10
+Reconocer un factor primo de: $P(x;y;z)=(x+y+z)(y+z)+(x+z)(y+z)-(x+z)^{2}-(x+y+z)(x+z)$
+A) $x+y$
+B) $x+z$
+C) $y+z$
+D) $x-z$
+E) $y-x$ *
+video:
+
+## 11
+Factorice $P(x)=3(x+45)^{2}+(x+44)^{2}-(x+43)^{2}-2(x+45)$ e indique un factor primo.
+A) $x+46$ *
+B) $x+45$
+C) $x+43$
+D) $3x+46$
+E) $x+47$
+video:
+
+## 12
+Uno de los factores del polinomio $P(x)=x^{12}-4x^{10}+2x^{9}-8x^{7}-2x^{5}+8x^{3}-4x^{2}+16$ es:
+A) $x^{3}-2$
+B) $x^{3}+2$ *
+C) $x^{2}+4$
+D) $x^{7}+2$
+E) $x^{5}-2$
+video:
+
+## 13
+Indicar un factor primo de: $P(x;y;z)=(xyz)^{6}+(xyz)^{3}\left(x^{4}+y^{4}+z^{4}\right)+(xy)^{4}+(xz)^{4}+(yz)^{4}+xyz$
+A) $x^{3}+y^{3}z^{3}$
+B) $xyz+1$
+C) $x^{3}y^{3}+z$ *
+D) $x^{4}+y^{4}+z^{4}$
+E) $x^{3}y^{3}+z^{3}$
+video:
+
+## 14
+Factorizar $P(x;y)=9x^{2}y^{3}+4x^{3}y^{4}-9x^{5}-4y^{7}$ y dar como respuesta el número de factores primos.
+A) $3$
+B) $5$
+C) $2$
+D) $4$ *
+E) $6$
+video:
+
+## 15
+Indicar un factor primo de: $P(x)=x^{4}+x^{3}+9x^{2}+108$
+A) $x^{2}+3x+9$
+B) $x^{2}-4x+12$
+C) $x^{2}+9$
+D) $x+3$
+E) $x^{2}+4x+12$ *
+video:
+
+## 16
+Reconocer un factor primo de: $P(x)=x^{4}-2x^{3}-x+2$
+A) $x^{2}+x+1$ *
+B) $x^{2}-x+1$
+C) $x+2$
+D) $x+1$
+E) $x^{2}+1$
+video:
+
+## 17
+Indique un factor primo de: $P(x;y;z;w)=y^{2}+z^{2}-x^{2}-w^{2}+2xw+2yz$
+A) $x+y-z-w$
+B) $x+y+z-w$ *
+C) $y+z+x+w$
+D) $y-z+x-w$
+E) $x-y+z+w$
+video:
+
+## 18
+Obtener el número de factores algebraicos de: $P(x;y;z)=(x-y)\left(x^{2}-z^{2}\right)-\left(x^{2}-y^{2}\right)(x-z)$
+A) $3$
+B) $8$
+C) $7$ *
+D) $6$
+E) $4$
+video:
+
+## 19
+Factorizar $P(x;y;z)=x^{3}y^{2}-x^{3}z^{2}+y^{3}z^{2}-x^{2}y^{3}+x^{2}z^{3}-y^{2}z^{3}$ e indicar aquel polinomio que no es factor primo.
+A) $x-y$
+B) $y-z$
+C) $xy+yz+zx$
+D) $x+y$ *
+E) $x-z$
+video:
+
+## 20
+Factorizar $P(x)=3x^{4}+11x^{3}+3x^{2}-11x-6$ e indicar aquel polinomio que no es factor primo.
+A) $x+1$
+B) $x+3$
+C) $3x+2$
+D) $x-1$
+E) $x-3$ *
+video:
+
+## 21
+Obtener el número de factores algebraicos de: $P(x;y;z;w)=4(xw+yz)^{2}-\left(x^{2}-y^{2}-z^{2}+w^{2}\right)^{2}$
+A) $15$ *
+B) $16$
+C) $7$
+D) $4$
+E) $31$
+video:
+
+## 22
+Obtener la suma de coeficientes de un factor primo del polinomio: $P(x;y)=64x^{3}-125y^{3}-1-60xy$
+A) $59$
+B) $61$ *
+C) $65$
+D) $45$
+E) $56$
+video:
+
+## 23
+Señalar el término independiente de un factor primo de: $P(x)=x^{5}-3x^{4}-5x^{3}+15x^{2}+4x-12$
+A) $3$
+B) $4$
+C) $1$ *
+D) $6$
+E) $-12$
+video:
+
+## 24
+Factorizar $P(x;y)=x^{2}-2xy-y^{4}-y^{2}-1$ e indique la suma de coeficientes de un factor primo.
+A) $-1$
+B) $0$
+C) $-4$
+D) $-2$ *
+E) $1$
+video:
+
+## 25
+Factorizar $P(x)=\left(4x^{2}+3x\right)^{2}-92x^{2}-69x+22$ e indique aquel polinomio que no es factor primo.
+A) $x-2$
+B) $x+1$
+C) $4x-1$
+D) $4x+11$
+E) $x+2$ *
+video:
+
+## 26
+Después de factorizar $P(x;y)=9x^{10}y^{5}+9x^{7}y^{8}-4x^{6}y^{7}-4x^{3}y^{10}$, indique el número de factores primos.
+A) $6$ *
+B) $4$
+C) $5$
+D) $7$
+E) $8$
+video:
+
+## 27
+Factorice $P(x)=x^{6}+5x^{5}+6x^{4}+6x^{3}+15x^{2}+9$ e indique la suma de coeficientes de un factor primo.
+A) $9$
+B) $6$ *
+C) $5$
+D) $4$
+E) $3$
+video:
+
+## 28
+Señalar la suma de coeficientes de un factor primo de: $P(x;y)=(x+y)(x+3y)(x+5y)(x+7y)+12y^{4}$
+A) $16$
+B) $20$
+C) $18$ *
+D) $17$
+E) $24$
+video:
+
+## 29
+Factorice $P(x)=7(x+2)^{3}(x-2)-16x^{2}+(x-2)^{3}(x+2)+64$ e indique un factor primo.
+A) $x-1$
+B) $x+4$
+C) $x^{2}+1$
+D) $x+1$ *
+E) $x-4$
+video:
+
+## 30
+Factorice $P(x)=(x+5)^{4}-2\left(x^{2}+1\right)(x+5)^{2}+\left(x^{2}-1\right)^{2}$ e indique el número de factores primos.
+A) $1$
+B) $3$
+C) $4$
+D) $6$
+E) $2$ *
+video:
+
+## 31
+Marque la alternativa donde no hay un factor primo de: $P(x;y)=xy(x+2)(y+2)$
+A) $xy$ *
+B) $x$
+C) $y$
+D) $x+2$
+E) $y+2$
+video:
+
+## 32
+Factorice $P(x;y;z)=(x+2y)^{2}+2(x+2y)(y+z)+(y+z)^{2}-(x+z)-(3y+2)$ e indique la suma de coeficientes de un factor primo.
+A) $5$
+B) $6$ *
+C) $4$
+D) $2$
+E) $7$
+video:
+
+## 33
+Señale un factor primo de: $P(x;y)=(x+y)^{2}+(2a+x-y)^{2}+4(a+x)(y-a)+(x+y)-15$
+A) $x+y-3$
+B) $2x+2y+5$
+C) $x+y+3$ *
+D) $x-y+3$
+E) $x+y+5$
+video:
+
+## 34
+Obtener la suma de coeficientes de un factor primo del polinomio: $P(x;y;z)=x^{4}-x^{2}y+5yz^{2}-2y^{2}-x^{2}z^{2}-2z^{4}$
+A) $1$
+B) $2$
+C) $-1$
+D) $0$ *
+E) $-2$
+video:
+
+## 35
+Factorice $P(x;y)=6x^{2}+5xy+4x-7x^{2}y-3x^{2}y^{2}-2$ e indique la suma de factores primos.
+A) $4xy+x+1$
+B) $5x+2xy+1$
+C) $5x-2xy-1$
+D) $x-2xy+1$
+E) $5x-2xy+1$ *
+video:
+
+## 36
+Señale un factor del polinomio: $P(x;y)=20y^{2}-41xy+20x^{2}+31x-41y-9$
+A) $5x-4y+9$ *
+B) $4x+5y-1$
+C) $5x+4y-9$
+D) $4x-5y+1$
+E) $5x-4y-9$
+video:
+
+## 37
+Factorizar: $W=(a+b+c)(ab+ac+bc)-abc$
+A) $(a+b)(b+c)(a-c)$
+B) $(a+b)(a+c)(b+c)$ *
+C) $(a+b+c)(ab+bc+ca)$
+D) $abc(a+b+c)$
+E) $(a-b)(a-c)(b-c)$
+video:
+
+## 38
+Factorizar: $E=2^{2m+5}-3\cdot 2^{m+2}-35$
+A) $\left(2^{m+3}-7\right)\left(2^{m+2}+5\right)$
+B) $\left(2^{m+2}+7\right)\left(2^{m+3}-5\right)$
+C) $\left(2^{m+3}+7\right)\left(2^{m+2}-5\right)$ *
+D) $\left(2^{2m+3}+7\right)\left(2^{m+2}-5\right)$
+E) $\left(2^{m+3}+5\right)\left(2^{m+2}-7\right)$
+video:
+
+## 39
+Factorizar: $R=x^{4}-10x^{3}+19x^{2}-18x+9$
+A) $\left(x^{2}-9x+1\right)\left(x^{2}-x+9\right)$
+B) $\left(x^{2}+9x+9\right)\left(x^{2}+x+1\right)$
+C) $(x-3)^{2}\left(x^{2}-4x+1\right)$
+D) $\left(x^{2}-9x+9\right)\left(x^{2}-x+1\right)$ *
+E) $\left(x^{2}-9x-9\right)\left(x^{2}-x-1\right)$
+video:
+
+## 40
+Factorizar: $E=x^{5}+4x^{4}-10x^{2}-x+6$
+A) $(x+1)^{2}(x-1)(x+2)(x+3)$
+B) $(x-1)^{2}(x+1)(x-2)(x+3)$
+C) $(x-1)(x+1)(x+2)(x+3)$
+D) $(x-1)^{2}(x+2)^{2}(x+3)$
+E) $(x-1)^{2}(x+1)(x+2)(x+3)$ *
+video:
+
+## 41
+Factorizar: $F=x^{5}+x^{4}+1$
+A) $\left(x^{2}+x+1\right)\left(x^{3}-x+1\right)$ *
+B) $\left(x^{2}-x+1\right)\left(x^{3}+x+1\right)$
+C) $\left(x^{2}+x+1\right)\left(x^{3}+x-1\right)$
+D) $\left(x^{2}+1\right)\left(x^{3}+x^{2}-x+1\right)$
+E) $\left(x^{2}+x-1\right)\left(x^{3}-x+1\right)$
+video:
+
+## 42
+Factorizar: $F=x^{6}+15x^{5}+78x^{4}+155x^{3}+78x^{2}+15x+1$
+A) $\left(x^{2}+3x+1\right)^{3}$
+B) $\left(x^{2}+5x+1\right)^{3}$ *
+C) $\left(x^{3}+5x+1\right)^{2}$
+D) $\left(x^{2}+5x-1\right)^{3}$
+E) $(x+1)^{6}$
+video:
+
+## 43
+Factorizar: $x^{5}+x^{4}+x^{3}+x^{2}+25x+25$
+A) $(x-1)\left(x^{2}+3x+5\right)\left(x^{2}-3x+5\right)$
+B) $(x+1)\left(x^{2}+5\right)^{2}$
+C) $(x+1)\left(x^{2}+3x+5\right)\left(x^{2}-3x+5\right)$ *
+D) $(x+1)\left(x^{2}+3x-5\right)\left(x^{2}-3x-5\right)$
+E) $(x+1)\left(x^{4}+x^{2}+25\right)$
+video:
+
+## 44
+Factorizar: $21x^{2}-41xy+10y^{2}-y-40x-21$
+A) $(7x-2y-3)(3x-5y+7)$
+B) $(7x-5y+3)(3x-2y-7)$
+C) $(7x+2y+3)(3x-5y-7)$
+D) $(7x-2y+3)(3x-5y-7)$ *
+E) $(7x-2y+7)(3x-5y-3)$
+video:
+
+## 45
+Factorizar: $4a^{2}mx+8a^{2}nx-2a^{2}my-4a^{2}ny$
+A) $2a^{2}(2x-y)(m+n)$
+B) $2a^{2}(x-2y)(m+2n)$
+C) $4a^{2}(2x-y)(m+2n)$
+D) $2a^{2}(2x+y)(m+2n)$
+E) $2a^{2}(2x-y)(m+2n)$ *
+video:
+
+## 46
+Factorizar: $x^{5}+x-1$
+A) $\left(x^{2}-x+1\right)\left(x^{3}+x^{2}-1\right)$ *
+B) $\left(x^{2}+x+1\right)\left(x^{3}-x^{2}+1\right)$
+C) $\left(x^{2}-x+1\right)\left(x^{3}+x^{2}+1\right)$
+D) $\left(x^{2}-x-1\right)\left(x^{3}+x^{2}-1\right)$
+E) $\left(x^{2}+1\right)\left(x^{3}-x+1\right)$
+video:
+
+## 47
+Factorizar: $x(x+3)(x+2)(x+1)+1$
+A) $\left(x^{2}+3x-1\right)^{2}$
+B) $\left(x^{2}+3x+1\right)^{2}$ *
+C) $\left(x^{2}+2x+1\right)^{2}$
+D) $\left(x^{2}+3x+2\right)^{2}$
+E) $(x+1)^{2}(x+2)^{2}$
+video:

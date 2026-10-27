@@ -13,3 +13,543 @@
 // E) opción
 // video:
 // ================================================================
+
+## 1
+Simplificar la fracción: $P=\frac{5x^{2}+21x-20}{2x^{2}+11x+5}+\frac{x^{2}-49}{2x^{2}-13x-7}$
+A) $3$ *
+B) $\frac{6x+3}{2x+1}$
+C) $2$
+D) $\frac{5x-4}{2x+1}$
+E) $1$
+video:
+
+## 2
+Simplificar la fracción: $P=\frac{5a^{2}+1}{(a-b)(a-c)}+\frac{5b^{2}+1}{(b-c)(b-a)}+\frac{5c^{2}+1}{(c-a)(c-b)}$
+A) $1$
+B) $5$ *
+C) $6$
+D) $0$
+E) $5(a+b+c)$
+video:
+
+## 3
+Al simplificar la fracción $P=\frac{5b\left(36+m^{2}\right)+6m\left(25+b^{2}\right)}{5b\left(36-m^{2}\right)+6m\left(25-b^{2}\right)}$, dar como respuesta la suma del numerador y el denominador.
+A) $30$
+B) $2bm$
+C) $60$ *
+D) $bm+60$
+E) $36$
+video:
+
+## 4
+Al simplificar la fracción $P=\frac{x+3}{4x-1}-\frac{x+2}{3x-4}+\frac{5x^{2}+13x+7}{12x^{2}-19x+4}$, dar como respuesta la suma del numerador y el denominador.
+A) $3x-1$
+B) $4x+1$
+C) $7x-5$
+D) $4x-1$ *
+E) $5x-5$
+video:
+
+## 5
+Reducir: $P=1+\frac{1}{1-\frac{1}{1-\frac{a}{b}}}+\frac{b}{a}$
+A) $1$
+B) $\frac{a}{b}$
+C) $0$
+D) $\frac{a+b}{a}$
+E) $2$ *
+video:
+
+## 6
+Reducir: $P=2m-\frac{1}{1-\frac{1}{1-\frac{1}{1-m}}}$
+A) $m$ *
+B) $2m$
+C) $m-1$
+D) $1$
+E) $3m-1$
+video:
+
+## 7
+Al reducir la expresión $P=\left[\left(\frac{a^{2}-2ab-3b^{2}}{a+b+ab+b^{2}}\right)\left(\frac{a^{2}+2ab-3b^{2}}{a-ab-b+b^{2}}\right)\right]\div\frac{a^{2}-9b^{2}}{b^{2}+2b+1}$ se obtiene:
+A) $\frac{1-b}{1+b}$
+B) $\frac{1+b}{1-b}$ *
+C) $\frac{a+b}{a-b}$
+D) $-1$
+E) $\frac{b+1}{b-3}$
+video:
+
+## 8
+Simplificar la fracción: $F(x)=\frac{\left(\frac{x+3a}{x+2a}\right)^{2}-\left(\frac{x+3a}{x+2a}\right)-6}{\frac{x+3a}{x+2a}-3}$; $x\neq-2a$
+A) $\frac{4x+7a}{x+2a}$
+B) $\frac{x+3a}{x+2a}$
+C) $\frac{3x+7a}{x+2a}$ *
+D) $\frac{3x+5a}{x+2a}$
+E) $\frac{x+a}{x+2a}$
+video:
+
+## 9
+Reducir: $P=\frac{(3x+6)^{2}-9}{(4x+3)^{2}-x^{2}}+\frac{9-49x^{2}}{x^{2}-(6x+3)^{2}}$
+A) $1$
+B) $\frac{3x+9}{5x+3}$
+C) $-2$
+D) $2$ *
+E) $\frac{10x}{5x+3}$
+video:
+
+## 10
+Reducir: $P=\frac{1}{x-\frac{x}{x-\frac{x^{2}}{x+1}}}$
+A) $1$
+B) $x$
+C) $-x$
+D) $\frac{1}{x}$
+E) $-1$ *
+video:
+
+## 11
+Efectuar: $P=\frac{(x+5)+\sqrt{x^{2}-25}}{(x+5)-\sqrt{x^{2}-25}}+\frac{(x+5)-\sqrt{x^{2}-25}}{(x+5)+\sqrt{x^{2}-25}}$
+A) $\frac{2x}{5}$ *
+B) $\frac{x}{5}$
+C) $2$
+D) $\frac{2x+10}{5}$
+E) $\frac{5}{2x}$
+video:
+
+## 12
+Al reducir la expresión $\frac{\left(x^{2}+2x-1\right)^{2}-\left(x^{2}+1\right)^{2}}{\left(x^{2}+1\right)^{2}-\left(x^{2}-2x-1\right)^{2}}$ se obtiene:
+A) $-1$
+B) $1$ *
+C) $x$
+D) $\frac{x+1}{x-1}$
+E) $2$
+video:
+
+## 13
+Conociendo que $ab+bc+ac=1$, determinar el valor de: $P=\frac{\left(1+b^{2}\right)\left(1+c^{2}\right)}{a^{2}b+a^{2}c+b+c}$
+A) $a+b$
+B) $1$
+C) $b+c$ *
+D) $bc$
+E) $a+c$
+video:
+
+## 14
+Si se sabe que $A=3+4+5+6+\cdots+n$ y $B=4+5+6+7+\cdots+n$, hallar el valor de: $P=\frac{A^{2}-B^{2}}{\frac{3}{2}+B}$
+A) $3$
+B) $9$
+C) $2$
+D) $6$ *
+E) $n$
+video:
+
+## 15
+Conociendo que $A=\frac{(2x-3y)^{2}-z^{2}}{4x^{2}-(3y+z)^{2}}$, $B=\frac{4x^{2}-(3y-z)^{2}}{(2x+z)^{2}-9y^{2}}$ y $C=\frac{9y^{2}-(2x-z)^{2}}{(2x+3y)^{2}-z^{2}}$, halle: $A+B+C$
+A) $3$
+B) $0$
+C) $-1$
+D) $2$
+E) $1$ *
+video:
+
+## 16
+Si se cumple que $x-y=y-z=\sqrt{2}$, calcular el valor de: $P=\frac{x^{3}+y^{3}+z^{3}+6xyz}{(x+z)^{3}}$
+A) $\frac{9}{8}$ *
+B) $\frac{3}{4}$
+C) $\frac{8}{9}$
+D) $1$
+E) $\frac{3}{8}$
+video:
+
+## 17
+Simplificar la fracción: $\frac{x^{2}(y-z)+y^{2}(z-x)+z^{2}(x-y)}{x^{2}-xz+yz-xy}$
+A) $x-y$
+B) $y-z$ *
+C) $z-y$
+D) $x-z$
+E) $x+y+z$
+video:
+
+## 18
+Simplificar la fracción: $P=\frac{(2-2b)^{2}-(x-bx)^{2}}{bx^{2}+4-x^{2}-4b}$
+A) $b-1$
+B) $1+b$
+C) $1-b$ *
+D) $\frac{1}{1-b}$
+E) $2-2b$
+video:
+
+## 19
+Simplificar: $P=\frac{a^{3}(b-c)+b^{3}(c-a)+c^{3}(a-b)}{a^{2}(b-c)+b^{2}(c-a)+c^{2}(a-b)}$
+A) $ab+bc+ca$
+B) $abc$
+C) $-(a+b+c)$
+D) $a+b+c$ *
+E) $1$
+video:
+
+## 20
+Al simplificar: $\frac{(5z)^{3}(2x-3y)^{3}+(2x)^{3}(3y-5z)^{3}+(3y)^{3}(5z-2x)^{3}}{(2x-3y)^{3}+(3y-5z)^{3}+(5z-2x)^{3}}$
+A) $10xyz$
+B) $-30xyz$
+C) $90xyz$
+D) $900x^{3}y^{3}z^{3}$
+E) $30xyz$ *
+video:
+
+## 21
+Simplificar: $P=\frac{1}{a(a-b)(a-c)}+\frac{1}{b(b-c)(b-a)}+\frac{1}{c(c-a)(c-b)}$
+A) $\frac{1}{abc}$ *
+B) $0$
+C) $abc$
+D) $\frac{a+b+c}{abc}$
+E) $-\frac{1}{abc}$
+video:
+
+## 22
+Conociendo que $P=\frac{x^{2}+c^{2}-a^{2}-b^{2}-2xc-2ab}{x^{2}+b^{2}-a^{2}-c^{2}-2xb-2ac}$ y $Q=\frac{c-b-a-x}{x+a-b+c}$, halle: $P+Q$
+A) $1$
+B) $0$ *
+C) $2$
+D) $-1$
+E) $\frac{2c}{x+a-b+c}$
+video:
+
+## 23
+Simplificar la fracción: $P=\frac{(a+2b+c+2d)^{3}-(a+c)^{3}-(2b+2d)^{3}}{(a+b+c+d)^{2}-(b+d)^{2}}$
+A) $3b+3d$
+B) $6(a+c)$
+C) $6b+6d$ *
+D) $2b+2d$
+E) $6(a+b+c+d)$
+video:
+
+## 24
+Al simplificar $P=\frac{a^{3}(b+c)}{(a-b)(a-c)}+\frac{b^{3}(c+a)}{(b-c)(b-a)}+\frac{c^{3}(a+b)}{(a-c)(b-c)}$ se obtiene:
+A) $a+b+c$
+B) $abc$
+C) $a^{2}+b^{2}+c^{2}$
+D) $ab+bc+ac$ *
+E) $-(ab+bc+ac)$
+video:
+
+## 25
+Sabiendo que $b^{2}+c^{2}=a^{2}$, calcule el valor de: $P=\left(\frac{a+b+c}{2}\right)\left(\frac{a+b+c}{2}-a\right)\left(\frac{a+b+c}{2}-b\right)\left(\frac{a+b+c}{2}-c\right)$
+A) $\frac{bc}{2}$
+B) $\frac{a^{2}}{4}$
+C) $\frac{b^{2}c^{2}}{2}$
+D) $b^{2}c^{2}$
+E) $\frac{b^{2}c^{2}}{4}$ *
+video:
+
+## 26
+Si la fracción $\frac{(a-3)x+(3a+2b-5)y+b}{2x+10y+1}$ toma un valor constante para todos los valores de $x$ e $y$, entonces este valor constante es:
+A) $2$ *
+B) $7$
+C) $\frac{1}{2}$
+D) $4$
+E) $3$
+video:
+
+## 27
+Conociendo que $P=abx^{2}+bx(ay+b)+b^{2}y+3(a+2)$, $Q=\left[(a+2)y+3\right]b+\left[b(a+2)+3a\right]x$ y $R=a^{2}\left(x^{2}-1\right)+(b+2)(b-2)+2a(bx-2)$. Al reducir la fracción $E=\frac{P+Q}{R}$ se obtiene una expresión de la forma $\frac{5(x+y)+m}{2(x-1)+3}$. Halle el valor de: $a+b+m$
+A) $7$
+B) $10$ *
+C) $12$
+D) $8$
+E) $13$
+video:
+
+## 28
+Sabiendo que $\frac{a}{b}+\frac{b}{c}+\frac{c}{a}=\frac{5}{4}$ y $\frac{a}{c}+\frac{c}{b}+\frac{b}{a}=\frac{3}{4}$, hallar el valor de: $P=\left(1+\frac{b}{c}\right)\left(1+\frac{a}{b}\right)\left(1+\frac{c}{a}\right)$
+A) $2$
+B) $3$
+C) $4$ *
+D) $\frac{15}{16}$
+E) $5$
+video:
+
+## 29
+Calcular un valor para $m$ de tal manera que la fracción algebraica $P=\frac{x^{3}-mx^{2}+31x-(m+20)}{x^{3}-(m+1)x^{2}+38x-(m+30)}$ sea reducible. Dar como respuesta la fracción irreducible.
+A) $\frac{x-4}{x-3}$
+B) $\frac{x-5}{x-4}$
+C) $\frac{x-2}{x-5}$
+D) $\frac{x-3}{x-4}$ *
+E) $\frac{x+3}{x+4}$
+video:
+
+## 30
+Reducir: $P=\frac{\left(\frac{1+x}{1-5x}\right)^{2}+\frac{6+6x}{1-5x}-7}{5\left(\frac{1+x}{1-5x}\right)^{2}+\frac{36+36x}{1-5x}+7}$
+A) $1$
+B) $\frac{1}{5}$
+C) $\frac{1+x}{1-5x}$
+D) $5x$
+E) $x$ *
+video:
+
+## 31
+Descomponer en una adición de fracciones parciales e indicar una de ellas: $\frac{2x^{2}+3x-1}{x^{3}-x}$
+A) $\frac{2}{x-1}$ *
+B) $\frac{2}{x+1}$
+C) $\frac{3}{x}$
+D) $\frac{1}{x-1}$
+E) $-\frac{2}{x}$
+video:
+
+## 32
+Si la fracción $\frac{4x^{2}+2x-14}{x^{3}+3x^{2}-x-3}$ se transformó en otra equivalente a $\frac{A}{x+1}+\frac{B}{x-1}+\frac{C}{x+3}$, donde $A$, $B$ y $C$ son constantes reales, halle: $A+B+C$
+A) $6$
+B) $4$ *
+C) $2$
+D) $5$
+E) $0$
+video:
+
+## 33
+Descomponer en una adición de fracciones parciales e indicar una de ellas: $\frac{10x^{2}-6x-22}{x^{3}-2x^{2}-5x+6}$
+A) $\frac{5}{x-1}$
+B) $\frac{2}{x-2}$
+C) $\frac{5}{x-3}$ *
+D) $\frac{3}{x+2}$
+E) $\frac{2}{x-3}$
+video:
+
+## 34
+Descomponer en una adición de fracciones parciales e indicar una de ellas: $\frac{2x^{2}+5x-1}{x^{3}-1}$
+A) $\frac{3}{x-1}$
+B) $\frac{2x}{x^{2}+x+1}$
+C) $\frac{1}{x-1}$
+D) $\frac{2}{x-1}$ *
+E) $\frac{3x}{x^{2}+x+1}$
+video:
+
+## 35
+Descomponer en una adición de fracciones parciales e indicar una de ellas: $\frac{x^{4}+x^{3}+x^{2}-3x-9}{\left(x^{2}+x+1\right)^{2}(x-1)}$
+A) $\frac{1}{x-1}$
+B) $\frac{2x+1}{x^{2}+x+1}$
+C) $\frac{4x+3}{\left(x^{2}+x+1\right)^{2}}$
+D) $\frac{3x+2}{x^{2}+x+1}$
+E) $\frac{2x+3}{x^{2}+x+1}$ *
+video:
+
+## 36
+Reducir: $A=\frac{a^{2}-b^{2}-c^{2}}{(a-b)(a-c)}+\frac{b^{2}-c^{2}-a^{2}}{(b-c)(b-a)}+\frac{c^{2}-a^{2}-b^{2}}{(c-a)(c-b)}$
+A) $2$ *
+B) $1$
+C) $0$
+D) $-1$
+E) $3$
+video:
+
+## 37
+Simplificar: $A=\frac{x^{4}-(x-1)^{2}}{\left(x^{2}+1\right)^{2}-x^{2}}+\frac{x^{2}-\left(x^{2}-1\right)^{2}}{x^{2}(x+1)^{2}-1}+\frac{x^{2}(x-1)^{2}-1}{x^{4}-(x+1)^{2}}$
+A) $0$
+B) $1$ *
+C) $3$
+D) $x$
+E) $-1$
+video:
+
+## 38
+Simplificar: $B=\left[\frac{a-1}{a^{2}-2a+1}+\frac{2(a-1)}{a^{2}-4}-\frac{4(a+1)}{a^{2}+a-2}+\frac{a}{a^{2}-3a+2}\right]\cdot\left[\frac{36a^{3}-144a-36a^{2}+144}{a^{3}+27}\right]$
+A) $\frac{72}{a^{2}+3a+9}$
+B) $\frac{36}{a^{2}-3a+9}$
+C) $\frac{72}{a^{2}-3a+9}$ *
+D) $\frac{72}{a+3}$
+E) $72$
+video:
+
+## 39
+Simplificar: $U=\left[\frac{\left(\sqrt{a}+1\right)^{2}-\frac{a-\sqrt{ax}}{\sqrt{a}-\sqrt{x}}}{\left(\sqrt{a}+1\right)^{3}-a\sqrt{a}+2}\right]^{-1}-\frac{\left(\sqrt{a}-\sqrt{3}\right)\left(\sqrt{4a}+\sqrt{12}\right)-12}{\sqrt{a}-\sqrt{9}}$
+A) $3+2\sqrt{a}$
+B) $-3+2\sqrt{a}$
+C) $-2\sqrt{a}$
+D) $-3-2\sqrt{a}$ *
+E) $-9-2\sqrt{a}$
+video:
+
+## 40
+Simplificar para $b>2$: $M=\left[1-\frac{2\sqrt{b-1}}{1+\sqrt{b-1}}\right]\left[\sqrt{\frac{2\sqrt{b-1}+b}{b-2\sqrt{b-1}}}\right]+1$
+A) $2$
+B) $1$
+C) $b$
+D) $-1$
+E) $0$ *
+video:
+
+## 41
+Si se sabe que $\frac{a}{x}=\frac{b}{y}=\frac{c}{z}$, calcular el valor de: $M=\frac{x^{3}+a^{3}}{x^{2}+a^{2}}+\frac{y^{3}+b^{3}}{y^{2}+b^{2}}+\frac{z^{3}+c^{3}}{z^{2}+c^{2}}-\frac{(x+y+z)^{3}+(a+b+c)^{3}}{(x+y+z)^{2}+(a+b+c)^{2}}$
+A) $0$ *
+B) $1$
+C) $x+y+z$
+D) $a+b+c$
+E) $-1$
+video:
+
+## 42
+Sabiendo que $(x+y+z+w)(m+n+p+q)=5329$ y que $\frac{x}{m}=\frac{y}{n}=\frac{z}{p}=\frac{w}{q}$, hallar el valor de: $E=3\left[\sqrt{xm}+\sqrt{yn}+\sqrt{zp}+\sqrt{wq}\right]$
+A) $73$
+B) $219$ *
+C) $146$
+D) $5329$
+E) $292$
+video:
+
+## 43
+Simplificar la fracción: $\left[m+\frac{1}{n+\frac{1}{m+\frac{1}{n+\cdots}}}\right]\div\left[n+\frac{1}{m+\frac{1}{n+\frac{1}{m+\cdots}}}\right]$
+A) $\frac{n}{m}$
+B) $mn$
+C) $\frac{m}{n}$ *
+D) $1$
+E) $m+n$
+video:
+
+## 44
+Calcular: $E=\frac{\left(\frac{x^{3}-y^{3}}{x^{2}+y^{2}}\right)\left(\frac{x^{2}-y^{2}}{x^{3}+y^{3}}\right)\left(\frac{1}{x^{2}}+\frac{1}{y^{2}}\right)}{\left[\frac{(x+y)^{2}-xy}{(x-y)^{2}+xy}\right]\left(\frac{1}{y}-\frac{1}{x}\right)}$
+A) $\frac{x-y}{x+y}$
+B) $\frac{x+y}{xy}$
+C) $xy$
+D) $\frac{x-y}{xy}$ *
+E) $\frac{(x-y)^{2}}{xy}$
+video:
+
+## 45
+Si $a$, $b$ y $c$ son números que cumplen la relación $a+b+c=0$, dar el valor de la fracción: $E=\frac{a^{9}+b^{9}+c^{9}-3a^{3}b^{3}c^{3}}{9abc}$
+A) $b^{2}+bc+c^{2}$
+B) $\left(b^{2}+bc+c^{2}\right)^{2}$
+C) $abc$
+D) $\left(b^{2}-bc+c^{2}\right)^{3}$
+E) $\left(b^{2}+bc+c^{2}\right)^{3}$ *
+video:
+
+## 46
+Calcular el valor de la fracción $F=\frac{2(ax+by+cz)(x+y+z)}{x(y+z)+y(x+z)+z(x+y)}$ si: $\frac{x}{b+c-a}=\frac{y}{c+a-b}=\frac{z}{a+b-c}$
+A) $a+b+c$ *
+B) $2(a+b+c)$
+C) $abc$
+D) $\frac{a+b+c}{2}$
+E) $1$
+video:
+
+## 47
+Efectuar: $E=\frac{\sqrt{x^{3}-3x+\left(x^{2}-1\right)\sqrt{x^{2}-4}}-\sqrt{x^{3}-3x-\left(x^{2}-1\right)\sqrt{x^{2}-4}}}{\sqrt{x+\sqrt{x^{2}-4}}-\sqrt{x-\sqrt{x^{2}-4}}}$
+A) $x-1$
+B) $x+1$ *
+C) $x$
+D) $x^{2}-1$
+E) $\sqrt{x^{2}-4}$
+video:
+
+## 48
+Simplificar: $E=\frac{\left(4+\sqrt{15}\right)^{\frac{3}{2}}+\left(4-\sqrt{15}\right)^{\frac{3}{2}}}{\left(6+\sqrt{35}\right)^{\frac{3}{2}}-\left(6-\sqrt{35}\right)^{\frac{3}{2}}}$
+A) $\frac{7}{3}$
+B) $\frac{13}{7}$
+C) $\frac{7}{13}$ *
+D) $\frac{10}{13}$
+E) $1$
+video:
+
+## 49
+Racionalizar y simplificar: $E=\left[\frac{2-b\sqrt{b}+\left(\sqrt{b}+1\right)^{3}}{\left(\sqrt{b}+1\right)^{2}-\frac{b-\sqrt{by}}{\sqrt{b}-\sqrt{y}}}\right]\cdot\left[\frac{2\sqrt{4-y^{2}}+8-2y^{2}}{\frac{2}{\sqrt{1-\frac{y^{2}}{4}}}-\frac{y^{2}}{\sqrt{4-y^{2}}}+1}\right]^{-1}\cdot\left(\frac{2\sqrt{4-y^{2}}}{3}\right)$
+A) $3$
+B) $\sqrt{4-y^{2}}$
+C) $\frac{1}{3}$
+D) $1$ *
+E) $2$
+video:
+
+## 50
+Racionalizar y simplificar: $\frac{\frac{\sqrt{2-\sqrt{2}}}{2-\sqrt{2}}+\frac{2+\sqrt{2}}{\sqrt{2+\sqrt{2}}}}{\frac{2-\sqrt{2}}{\sqrt{2-\sqrt{2}}}+\frac{\sqrt{2+\sqrt{2}}}{2+\sqrt{2}}}-\sqrt{2}$
+A) $\sqrt{2}$
+B) $0$
+C) $2$
+D) $\sqrt{2}-1$
+E) $1$ *
+video:
+
+## 51
+Racionalizar y simplificar: $E=\left\{\frac{a\left(\frac{\sqrt{a}+\sqrt{b}}{2b\sqrt{a}}\right)^{-1}+b\left(\frac{\sqrt{a}+\sqrt{b}}{2a\sqrt{b}}\right)^{-1}}{\left(\frac{a+\sqrt{ab}}{2ab}\right)^{-1}+\left(\frac{b+\sqrt{ab}}{2ab}\right)^{-1}}+\sqrt[3]{ab}\right\}^{-1}$
+A) $\frac{\sqrt[3]{a^{2}b^{2}}\left(\sqrt[6]{a^{5}b^{5}}-\sqrt[6]{a^{4}b^{4}}+\sqrt[6]{a^{3}b^{3}}-\sqrt[6]{a^{2}b^{2}}+\sqrt[6]{ab}-1\right)}{ab(ab-1)}$ *
+B) $\frac{\sqrt[3]{a^{2}b^{2}}\left(\sqrt[6]{a^{5}b^{5}}+\sqrt[6]{a^{4}b^{4}}+\sqrt[6]{a^{3}b^{3}}+\sqrt[6]{a^{2}b^{2}}+\sqrt[6]{ab}+1\right)}{ab(ab-1)}$
+C) $\frac{\sqrt[3]{a^{2}b^{2}}\left(\sqrt[6]{a^{5}b^{5}}-\sqrt[6]{a^{4}b^{4}}+\sqrt[6]{a^{3}b^{3}}-\sqrt[6]{a^{2}b^{2}}+\sqrt[6]{ab}-1\right)}{ab(ab+1)}$
+D) $\frac{1}{\sqrt{ab}+\sqrt[3]{ab}}$
+E) $\frac{\sqrt[6]{ab}-1}{ab-1}$
+video:
+
+## 52
+Simplificar: $\frac{\sqrt[3]{y}(y-1)}{\sqrt{y}-\sqrt[3]{y}}\cdot\left[\sqrt{y}+1\right]^{-1}-\left[\frac{1}{\sqrt[3]{\sqrt{y}}+1}\right]^{-1}$
+A) $\sqrt{y}$
+B) $\sqrt[3]{y}$ *
+C) $\sqrt[6]{y}$
+D) $1$
+E) $y$
+video:
+
+## 53
+Simplificar la expresión: $L=\left[\frac{2-a(a)^{\frac{1}{2}}+\left(a^{\frac{1}{2}}+1\right)^{3}}{\left(a^{\frac{1}{2}}+1\right)^{2}-\left(a-a^{\frac{1}{2}}x^{\frac{1}{2}}\right)\left(a^{\frac{1}{2}}-x^{\frac{1}{2}}\right)^{-1}}\right]^{-3}$
+A) $27$
+B) $3$
+C) $\frac{1}{27}$ *
+D) $\frac{1}{3}$
+E) $9$
+video:
+
+## 54
+Simplificar la expresión: $E=\left\{\sqrt{1+\left[\left(a^{\frac{2}{3}}-x^{\frac{2}{3}}\right)^{\frac{1}{2}}x^{-\frac{1}{3}}\right]^{2}}\right\}^{-6}-\frac{1}{a^{2}}\sqrt{\left(a^{2}-x^{2}\right)^{2}+4a^{2}x^{2}}$
+A) $1$
+B) $0$
+C) $\frac{x^{2}}{a^{2}}$
+D) $-1$ *
+E) $2$
+video:
+
+## 55
+Racionalizar $E=\frac{1}{\sqrt{a}+\sqrt{b}+\sqrt{c}+\sqrt{d}}$ si: $\frac{a}{b}=\frac{b}{c}=\frac{c}{d}$
+A) $\frac{\sqrt{a}-\sqrt{b}+\sqrt{c}-\sqrt{d}}{a-b+c-d}$
+B) $\frac{\sqrt{a}+\sqrt{b}-\sqrt{c}-\sqrt{d}}{a-d}$
+C) $\frac{\sqrt{a}-\sqrt{b}-\sqrt{c}+\sqrt{d}}{a+b+c+d}$
+D) $\frac{1}{\sqrt{a}+\sqrt{d}}$
+E) $\frac{\sqrt{a}-\sqrt{b}-\sqrt{c}+\sqrt{d}}{a-b-c+d}$ *
+video:
+
+## 56
+Simplificar: $E=\frac{a^{3}}{(a-b)(a-c)}+\frac{b^{3}}{(b-c)(b-a)}+\frac{c^{3}}{(c-a)(c-b)}$
+A) $a+b+c$ *
+B) $abc$
+C) $1$
+D) $ab+bc+ca$
+E) $0$
+video:
+
+## 57
+Racionalizar y simplificar: $E=\left[\frac{\left(\sqrt{a}+1\right)^{2}-\frac{a-\sqrt{ax}}{\sqrt{a}-\sqrt{x}}}{\left(\sqrt{a}+1\right)^{3}-a\sqrt{a}+2}\right]^{-3}$
+A) $\frac{1}{27}$
+B) $27$ *
+C) $9$
+D) $3$
+E) $-27$
+video:
+
+## 58
+Racionalizar y simplificar: $E=\left[\frac{\sqrt{1+x}}{\sqrt{1+x}-\sqrt{1-x}}+\frac{1-x}{\sqrt{1-x^{2}}+x-1}\right]\left[\sqrt{x^{-2}-1}-\frac{1}{x}\right]$
+A) $1$
+B) $x$
+C) $-1$ *
+D) $0$
+E) $\frac{1}{x}$
+video:
+
+## 59
+Racionalizar y simplificar: $E=\frac{\frac{\sqrt{a}+\sqrt{b}}{\sqrt{a}-\sqrt{b}}}{\frac{a\sqrt{b}+b\sqrt{a}}{a^{2}\sqrt{b}-ab\sqrt{a}}}+\frac{4a^{2}-b^{2}}{4a}\left[\frac{1}{b^{2}+3ab+2a^{2}}-\frac{3}{2a^{2}+ab-b^{2}}\right]$
+A) $\frac{a^{2}+1}{a}$
+B) $a$
+C) $\frac{a-1}{a}$
+D) $\frac{a^{2}-1}{a}$ *
+E) $a^{2}-1$
+video:
+
+## 60
+Racionalizar y simplificar: $E=\frac{[x-1]\sqrt[3]{x^{2}}}{\sqrt[3]{x}+\sqrt[3]{x^{2}}+1}$
+A) $x+\sqrt[3]{x^{2}}$
+B) $\sqrt[3]{x^{2}}-1$
+C) $x-\sqrt[3]{x}$
+D) $\sqrt[3]{x}-1$
+E) $x-\sqrt[3]{x^{2}}$ *
+video:
