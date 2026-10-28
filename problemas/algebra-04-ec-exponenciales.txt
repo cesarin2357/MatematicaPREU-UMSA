@@ -60,7 +60,7 @@ E) $\frac{9}{2}$
 video:
 
 ## 6
-Determine el valor de $x$: $\sqrt[\sqrt[x]{\sqrt[4]{2}}]{\sqrt[4]{2}}=4$
+Determine el valor de $x$: $\sqrt[{\sqrt[x]{\sqrt[4]{2}}}]{\sqrt[4]{2}}=4$
 A) $\frac{1}{12}$
 B) $-\frac{1}{12}$ *
 C) $-\frac{1}{4}$
